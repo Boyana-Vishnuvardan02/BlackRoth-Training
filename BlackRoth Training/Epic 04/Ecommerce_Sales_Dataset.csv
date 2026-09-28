@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,City,State,Product,Category,Quantity,Unit_Price,Discount_Percent,Discount_Amount,Revenue,Payment_Method,Order_Status
+ORD0001,2025-04-25,Bhavya,Vijayawada,Andhra Pradesh,Backpack,Accessories,1,1719.01,15,257.85,1461.16,UPI,Returned
+ORD0002,2025-01-16,Ananya,Kochi,Kerala,Backpack,Accessories,1,1771.89,10,177.19,1594.7,Credit Card,Delivered
+ORD0003,2025-11-29,Riya,Jaipur,Rajasthan,Office Chair,Furniture,1,7988.02,10,798.8,7189.22,Credit Card,Shipped
+ORD0004,2025-03-23,Nikhil,Jaipur,Rajasthan,Monitor,Electronics,3,12886.32,20,7731.79,30927.17,Debit Card,Delivered
+ORD0005,2025-02-19,Manoj,Chennai,Tamil Nadu,Tablet,Electronics,3,16533.89,0,0.0,49601.67,Cash on Delivery,Delivered
+ORD0006,2025-07-13,Ananya,Hyderabad,Telangana,Smartwatch,Electronics,4,5087.31,10,2034.92,18314.32,Debit Card,Cancelled
+ORD0007,2025-02-05,Aditya,Jaipur,Rajasthan,Jeans,Fashion,3,1689.22,10,506.77,4560.89,Credit Card,Returned
+ORD0008,2025-02-21,Meena,Mumbai,Maharashtra,T-Shirt,Fashion,1,851.9,20,170.38,681.52,Net Banking,Delivered
+ORD0009,2025-12-10,Harsha,Pune,Maharashtra,Backpack,Accessories,2,1747.9,5,174.79,3321.01,UPI,Returned
+ORD0010,2025-08-25,Meena,Bengaluru,Karnataka,Desk,Furniture,5,6642.74,15,4982.05,28231.65,Cash on Delivery,Delivered
+ORD0011,2025-06-11,Meena,Pune,Maharashtra,Headphones,Electronics,1,2660.9,0,0.0,2660.9,UPI,Delivered
+ORD0012,2025-07-22,Varun,Jaipur,Rajasthan,Headphones,Electronics,3,2577.72,0,0.0,7733.16,Credit Card,Shipped
+ORD0013,2025-05-15,Sanjay,Bengaluru,Karnataka,Smartwatch,Electronics,2,5567.5,15,1670.25,9464.75,Cash on Delivery,Shipped
+ORD0014,2025-02-16,Aditya,Pune,Maharashtra,Gaming Mouse,Gaming,2,2204.19,0,0.0,4408.38,Credit Card,Delivered
+ORD0015,2025-07-15,Sneha,Bengaluru,Karnataka,Backpack,Accessories,4,1642.87,10,657.15,5914.33,Cash on Delivery,Shipped
+ORD0016,2025-12-16,Riya,Kochi,Kerala,Smartwatch,Electronics,1,5742.79,15,861.42,4881.37,Debit Card,Delivered
+ORD0017,2025-05-15,Ravi,Mumbai,Maharashtra,Smartphone,Electronics,4,21796.38,0,0.0,87185.52,Cash on Delivery,Delivered
+ORD0018,2025-11-08,Deepak,Vijayawada,Andhra Pradesh,Coffee Maker,Home Appliances,3,6680.63,20,4008.38,16033.51,Debit Card,Delivered
+ORD0019,2025-01-01,Sneha,Bengaluru,Karnataka,T-Shirt,Fashion,5,976.04,20,976.04,3904.16,Net Banking,Delivered
+ORD0020,2025-05-03,Aditya,Vijayawada,Andhra Pradesh,Laptop,Electronics,3,47760.97,20,28656.58,114626.33,Cash on Delivery,Delivered
+ORD0021,2025-09-30,Bhavya,Vijayawada,Andhra Pradesh,Smartphone,Electronics,4,20104.54,20,16083.63,64334.53,Net Banking,Delivered
+ORD0022,2025-08-05,Deepak,Bengaluru,Karnataka,Office Chair,Furniture,3,9133.14,10,2739.94,24659.48,Credit Card,Cancelled
+ORD0023,2025-08-13,Ravi,Mumbai,Maharashtra,Shoes,Fashion,4,3295.92,15,1977.55,11206.13,UPI,Shipped
+ORD0024,2025-10-11,Divya,Chennai,Tamil Nadu,Headphones,Electronics,1,2260.52,5,113.03,2147.49,Credit Card,Cancelled
+ORD0025,2025-01-17,Kiran,Vijayawada,Andhra Pradesh,Laptop,Electronics,1,41106.6,0,0.0,41106.6,Cash on Delivery,Delivered
+ORD0026,2025-10-20,Sanjay,Mumbai,Maharashtra,Headphones,Electronics,4,2519.62,0,0.0,10078.48,Credit Card,Shipped
+ORD0027,2025-12-04,Nikhil,Kolkata,West Bengal,T-Shirt,Fashion,4,826.98,0,0.0,3307.92,Net Banking,Delivered
+ORD0028,2025-11-27,Arjun,Kolkata,West Bengal,Gaming Mouse,Gaming,1,2267.52,15,340.13,1927.39,Net Banking,Delivered
+ORD0029,2025-10-02,Pooja,Pune,Maharashtra,Shoes,Fashion,1,3002.62,0,0.0,3002.62,Net Banking,Delivered
+ORD0030,2025-02-08,Pooja,Mumbai,Maharashtra,Tablet,Electronics,4,19348.15,0,0.0,77392.6,UPI,Cancelled
+ORD0031,2025-05-02,Charan,Kochi,Kerala,Laptop,Electronics,1,48837.3,0,0.0,48837.3,Net Banking,Shipped
+ORD0032,2025-01-02,Meena,Chennai,Tamil Nadu,Monitor,Electronics,4,11195.13,0,0.0,44780.52,Net Banking,Delivered
+ORD0033,2025-03-21,Deepak,Delhi,Delhi,Smartwatch,Electronics,5,5740.25,15,4305.19,24396.06,Credit Card,Delivered
+ORD0034,2025-01-30,Aditya,Jaipur,Rajasthan,Laptop,Electronics,5,47231.78,0,0.0,236158.9,Net Banking,Cancelled
+ORD0035,2025-02-11,Charan,Kochi,Kerala,Office Chair,Furniture,2,9283.32,0,0.0,18566.64,Cash on Delivery,Delivered
+ORD0036,2025-10-19,Divya,Chennai,Tamil Nadu,Smartphone,Electronics,4,23943.02,0,0.0,95772.08,Cash on Delivery,Cancelled
+ORD0037,2025-10-17,Ravi,Jaipur,Rajasthan,Laptop,Electronics,1,46416.36,10,4641.64,41774.72,Debit Card,Delivered
+ORD0038,2025-12-10,Varun,Pune,Maharashtra,Headphones,Electronics,2,2447.89,5,244.79,4650.99,Net Banking,Delivered
+ORD0039,2025-10-16,Arjun,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,1,4609.04,10,460.9,4148.14,Cash on Delivery,Delivered
+ORD0040,2025-02-05,Divya,Kochi,Kerala,Headphones,Electronics,3,2716.63,0,0.0,8149.89,Debit Card,Delivered
+ORD0041,2025-12-01,Ravi,Kolkata,West Bengal,Tablet,Electronics,5,17289.06,15,12966.8,73478.5,Cash on Delivery,Delivered
+ORD0042,2025-02-24,Riya,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,2,5076.97,5,507.7,9646.24,Debit Card,Delivered
+ORD0043,2025-12-18,Varun,Jaipur,Rajasthan,Smartwatch,Electronics,2,5327.17,15,1598.15,9056.19,Cash on Delivery,Delivered
+ORD0044,2025-05-22,Aditya,Mumbai,Maharashtra,Monitor,Electronics,1,12322.28,0,0.0,12322.28,Debit Card,Delivered
+ORD0045,2025-10-10,Nikhil,Bengaluru,Karnataka,T-Shirt,Fashion,3,943.42,0,0.0,2830.26,UPI,Cancelled
+ORD0046,2025-07-09,Sanjay,Vijayawada,Andhra Pradesh,Smartphone,Electronics,2,19958.52,10,3991.7,35925.34,Credit Card,Cancelled
+ORD0047,2025-01-21,Manoj,Bengaluru,Karnataka,Gaming Mouse,Gaming,1,2140.45,5,107.02,2033.43,Credit Card,Delivered
+ORD0048,2025-07-28,Sneha,Vijayawada,Andhra Pradesh,Backpack,Accessories,3,1821.56,20,1092.94,4371.74,Credit Card,Returned
+ORD0049,2025-07-31,Aarav,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6904.0,20,2761.6,11046.4,Debit Card,Delivered
+ORD0050,2025-12-26,Arjun,Delhi,Delhi,T-Shirt,Fashion,2,838.66,5,83.87,1593.45,UPI,Shipped
+ORD0051,2025-08-24,Manoj,Kolkata,West Bengal,Jeans,Fashion,2,1913.97,0,0.0,3827.94,Credit Card,Delivered
+ORD0052,2025-02-05,Harsha,Hyderabad,Telangana,Headphones,Electronics,2,2414.13,10,482.83,4345.43,Cash on Delivery,Delivered
+ORD0053,2025-05-14,Charan,Kochi,Kerala,Gaming Mouse,Gaming,3,2030.75,0,0.0,6092.25,Debit Card,Cancelled
+ORD0054,2025-06-10,Nikhil,Vijayawada,Andhra Pradesh,Laptop,Electronics,5,43611.18,10,21805.59,196250.31,Cash on Delivery,Cancelled
+ORD0055,2025-12-29,Nikhil,Delhi,Delhi,Smartphone,Electronics,5,20920.78,0,0.0,104603.9,Cash on Delivery,Delivered
+ORD0056,2025-12-07,Kiran,Kochi,Kerala,Coffee Maker,Home Appliances,2,6410.69,5,641.07,12180.31,Debit Card,Cancelled
+ORD0057,2025-07-29,Kiran,Vijayawada,Andhra Pradesh,Backpack,Accessories,3,1731.34,10,519.4,4674.62,Debit Card,Shipped
+ORD0058,2025-07-14,Vishnu,Bengaluru,Karnataka,Office Chair,Furniture,2,8780.38,10,1756.08,15804.68,Credit Card,Returned
+ORD0059,2025-01-01,Kavya,Jaipur,Rajasthan,Desk,Furniture,3,7067.11,10,2120.13,19081.2,Credit Card,Delivered
+ORD0060,2025-08-15,Pooja,Jaipur,Rajasthan,Gaming Mouse,Gaming,5,2121.79,15,1591.34,9017.61,Credit Card,Returned
+ORD0061,2025-09-21,Vishnu,Kolkata,West Bengal,Office Chair,Furniture,2,7794.15,15,2338.24,13250.06,Cash on Delivery,Returned
+ORD0062,2025-04-12,Bhavya,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,2,4329.38,15,1298.81,7359.95,UPI,Delivered
+ORD0063,2025-08-22,Nikhil,Kolkata,West Bengal,Headphones,Electronics,5,2634.24,20,2634.24,10536.96,Cash on Delivery,Returned
+ORD0064,2025-12-02,Aarav,Delhi,Delhi,Headphones,Electronics,4,2371.99,10,948.8,8539.16,Net Banking,Delivered
+ORD0065,2025-05-08,Arjun,Bengaluru,Karnataka,Headphones,Electronics,5,2275.11,10,1137.56,10237.99,Credit Card,Shipped
+ORD0066,2025-08-15,Sneha,Kolkata,West Bengal,T-Shirt,Fashion,5,917.18,10,458.59,4127.31,Cash on Delivery,Returned
+ORD0067,2025-09-01,Pooja,Kochi,Kerala,Gaming Mouse,Gaming,4,2307.21,0,0.0,9228.84,Credit Card,Delivered
+ORD0068,2025-05-21,Pooja,Mumbai,Maharashtra,Jeans,Fashion,5,1845.63,10,922.82,8305.33,Debit Card,Delivered
+ORD0069,2025-02-11,Bhavya,Mumbai,Maharashtra,Headphones,Electronics,3,2696.51,5,404.48,7685.05,Credit Card,Delivered
+ORD0070,2025-06-19,Riya,Bengaluru,Karnataka,Gaming Mouse,Gaming,2,2162.54,0,0.0,4325.08,Net Banking,Shipped
+ORD0071,2025-10-27,Aarav,Chennai,Tamil Nadu,Laptop,Electronics,4,48643.55,10,19457.42,175116.78,Net Banking,Cancelled
+ORD0072,2025-08-03,Riya,Hyderabad,Telangana,Monitor,Electronics,3,12608.34,5,1891.25,35933.77,Cash on Delivery,Returned
+ORD0073,2025-08-12,Rahul,Jaipur,Rajasthan,T-Shirt,Fashion,2,849.5,10,169.9,1529.1,Net Banking,Delivered
+ORD0074,2025-03-07,Sneha,Delhi,Delhi,Gaming Keyboard,Gaming,2,4470.65,20,1788.26,7153.04,UPI,Cancelled
+ORD0075,2025-02-12,Varun,Delhi,Delhi,Coffee Maker,Home Appliances,5,6711.9,10,3355.95,30203.55,Credit Card,Shipped
+ORD0076,2025-06-17,Deepak,Kolkata,West Bengal,Jeans,Fashion,2,1713.66,0,0.0,3427.32,Debit Card,Shipped
+ORD0077,2025-08-04,Harsha,Delhi,Delhi,Gaming Keyboard,Gaming,3,4906.08,20,2943.65,11774.59,Net Banking,Delivered
+ORD0078,2025-02-05,Varun,Kochi,Kerala,Laptop,Electronics,1,42518.0,5,2125.9,40392.1,UPI,Delivered
+ORD0079,2025-03-06,Rahul,Chennai,Tamil Nadu,Headphones,Electronics,1,2326.19,10,232.62,2093.57,UPI,Returned
+ORD0080,2025-07-08,Charan,Chennai,Tamil Nadu,Desk,Furniture,4,6658.74,15,3995.24,22639.72,Cash on Delivery,Cancelled
+ORD0081,2025-01-14,Kavya,Vijayawada,Andhra Pradesh,Shoes,Fashion,2,2949.18,5,294.92,5603.44,Net Banking,Cancelled
+ORD0082,2025-11-18,Divya,Chennai,Tamil Nadu,Gaming Mouse,Gaming,1,2283.87,10,228.39,2055.48,Debit Card,Delivered
+ORD0083,2025-01-22,Manoj,Jaipur,Rajasthan,Jeans,Fashion,1,1974.18,20,394.84,1579.34,Net Banking,Cancelled
+ORD0084,2025-01-07,Nikhil,Pune,Maharashtra,Backpack,Accessories,1,1853.12,10,185.31,1667.81,UPI,Shipped
+ORD0085,2025-04-01,Ravi,Pune,Maharashtra,Gaming Mouse,Gaming,4,2047.32,15,1228.39,6960.89,Debit Card,Returned
+ORD0086,2025-10-31,Harsha,Kochi,Kerala,Desk,Furniture,4,6909.8,10,2763.92,24875.28,Credit Card,Delivered
+ORD0087,2025-08-26,Sanjay,Vijayawada,Andhra Pradesh,Jeans,Fashion,3,1707.79,10,512.34,4611.03,Net Banking,Cancelled
+ORD0088,2025-09-07,Deepak,Hyderabad,Telangana,Gaming Keyboard,Gaming,4,4342.51,20,3474.01,13896.03,Debit Card,Delivered
+ORD0089,2025-10-12,Aarav,Mumbai,Maharashtra,Gaming Keyboard,Gaming,5,4842.1,15,3631.57,20578.93,Credit Card,Cancelled
+ORD0090,2025-05-04,Rahul,Chennai,Tamil Nadu,Smartphone,Electronics,4,22242.78,10,8897.11,80074.01,Net Banking,Returned
+ORD0091,2025-12-21,Divya,Hyderabad,Telangana,Monitor,Electronics,1,11331.83,5,566.59,10765.24,Cash on Delivery,Delivered
+ORD0092,2025-10-09,Kiran,Kolkata,West Bengal,Gaming Keyboard,Gaming,5,4359.38,10,2179.69,19617.21,Net Banking,Delivered
+ORD0093,2025-04-09,Kiran,Mumbai,Maharashtra,Smartwatch,Electronics,3,5082.72,0,0.0,15248.16,Cash on Delivery,Delivered
+ORD0094,2025-05-22,Sanjay,Bengaluru,Karnataka,T-Shirt,Fashion,2,942.95,0,0.0,1885.9,Cash on Delivery,Cancelled
+ORD0095,2025-04-02,Kavya,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,2,5200.23,5,520.02,9880.44,Cash on Delivery,Delivered
+ORD0096,2025-12-24,Bhavya,Mumbai,Maharashtra,Tablet,Electronics,1,18192.09,0,0.0,18192.09,Net Banking,Returned
+ORD0097,2025-08-14,Kiran,Hyderabad,Telangana,Smartphone,Electronics,5,21865.35,5,5466.34,103860.41,UPI,Delivered
+ORD0098,2025-09-09,Ananya,Kolkata,West Bengal,Smartwatch,Electronics,1,5021.88,20,1004.38,4017.5,UPI,Cancelled
+ORD0099,2025-05-08,Arjun,Bengaluru,Karnataka,Tablet,Electronics,5,16506.65,5,4126.66,78406.59,Net Banking,Cancelled
+ORD0100,2025-07-14,Pooja,Jaipur,Rajasthan,Desk,Furniture,5,7385.97,0,0.0,36929.85,Debit Card,Shipped
+ORD0101,2025-01-31,Sneha,Jaipur,Rajasthan,Jeans,Fashion,4,1824.71,5,364.94,6933.9,UPI,Returned
+ORD0102,2025-03-22,Divya,Chennai,Tamil Nadu,T-Shirt,Fashion,2,928.88,5,92.89,1764.87,Cash on Delivery,Delivered
+ORD0103,2025-11-01,Rahul,Bengaluru,Karnataka,Smartphone,Electronics,1,21782.22,10,2178.22,19604.0,UPI,Delivered
+ORD0104,2025-02-06,Vishnu,Mumbai,Maharashtra,Headphones,Electronics,3,2679.8,15,1205.91,6833.49,Debit Card,Delivered
+ORD0105,2025-04-26,Varun,Jaipur,Rajasthan,T-Shirt,Fashion,2,830.66,10,166.13,1495.19,Debit Card,Delivered
+ORD0106,2025-06-07,Sneha,Bengaluru,Karnataka,Jeans,Fashion,1,1679.73,0,0.0,1679.73,Cash on Delivery,Returned
+ORD0107,2025-06-05,Meena,Mumbai,Maharashtra,Coffee Maker,Home Appliances,4,6459.31,0,0.0,25837.24,Cash on Delivery,Delivered
+ORD0108,2025-08-10,Kiran,Kolkata,West Bengal,Office Chair,Furniture,4,8666.66,0,0.0,34666.64,Debit Card,Cancelled
+ORD0109,2025-10-22,Sanjay,Vijayawada,Andhra Pradesh,Laptop,Electronics,2,48023.63,15,14407.09,81640.17,Debit Card,Delivered
+ORD0110,2025-08-15,Harsha,Hyderabad,Telangana,Desk,Furniture,2,7026.55,10,1405.31,12647.79,Cash on Delivery,Delivered
+ORD0111,2025-06-20,Kiran,Kolkata,West Bengal,Gaming Mouse,Gaming,1,2133.1,10,213.31,1919.79,UPI,Returned
+ORD0112,2025-05-28,Vishnu,Bengaluru,Karnataka,Jeans,Fashion,3,1869.72,10,560.92,5048.24,Cash on Delivery,Shipped
+ORD0113,2025-03-01,Meena,Kolkata,West Bengal,Laptop,Electronics,1,42771.59,5,2138.58,40633.01,UPI,Cancelled
+ORD0114,2025-09-23,Manoj,Kochi,Kerala,Backpack,Accessories,4,1639.51,10,655.8,5902.24,Net Banking,Cancelled
+ORD0115,2025-03-09,Kavya,Kolkata,West Bengal,Backpack,Accessories,1,1716.14,0,0.0,1716.14,Net Banking,Shipped
+ORD0116,2025-03-23,Kavya,Hyderabad,Telangana,Smartphone,Electronics,5,20852.91,20,20852.91,83411.64,UPI,Cancelled
+ORD0117,2025-02-28,Pooja,Delhi,Delhi,Office Chair,Furniture,1,9336.84,0,0.0,9336.84,Credit Card,Delivered
+ORD0118,2025-09-05,Rahul,Mumbai,Maharashtra,Monitor,Electronics,5,11456.22,15,8592.17,48688.93,Net Banking,Delivered
+ORD0119,2025-09-18,Bhavya,Bengaluru,Karnataka,Office Chair,Furniture,4,9217.18,0,0.0,36868.72,Debit Card,Delivered
+ORD0120,2025-01-02,Kavya,Delhi,Delhi,T-Shirt,Fashion,3,901.39,20,540.83,2163.34,Debit Card,Returned
+ORD0121,2025-03-18,Pooja,Jaipur,Rajasthan,Jeans,Fashion,5,1796.27,15,1347.2,7634.15,Net Banking,Cancelled
+ORD0122,2025-08-22,Kiran,Pune,Maharashtra,Gaming Keyboard,Gaming,5,4539.09,20,4539.09,18156.36,Credit Card,Delivered
+ORD0123,2025-01-23,Kiran,Delhi,Delhi,Desk,Furniture,2,7385.76,20,2954.3,11817.22,Net Banking,Returned
+ORD0124,2025-11-30,Bhavya,Delhi,Delhi,Shoes,Fashion,4,3387.13,15,2032.28,11516.24,UPI,Shipped
+ORD0125,2025-08-14,Arjun,Kochi,Kerala,Tablet,Electronics,5,19330.92,5,4832.73,91821.87,Net Banking,Cancelled
+ORD0126,2025-03-21,Ananya,Bengaluru,Karnataka,Laptop,Electronics,4,46393.03,20,37114.42,148457.7,Debit Card,Shipped
+ORD0127,2025-06-18,Vishnu,Jaipur,Rajasthan,Gaming Keyboard,Gaming,4,4122.28,15,2473.37,14015.75,Net Banking,Cancelled
+ORD0128,2025-05-01,Varun,Kolkata,West Bengal,Gaming Keyboard,Gaming,5,4605.71,0,0.0,23028.55,Debit Card,Returned
+ORD0129,2025-12-27,Arjun,Vijayawada,Andhra Pradesh,Headphones,Electronics,4,2630.18,0,0.0,10520.72,Credit Card,Shipped
+ORD0130,2025-01-29,Kavya,Mumbai,Maharashtra,Shoes,Fashion,1,3087.6,0,0.0,3087.6,Debit Card,Delivered
+ORD0131,2025-12-16,Charan,Bengaluru,Karnataka,Gaming Mouse,Gaming,2,2161.3,10,432.26,3890.34,Credit Card,Delivered
+ORD0132,2025-09-12,Sanjay,Jaipur,Rajasthan,Smartphone,Electronics,4,22805.79,10,9122.32,82100.84,Credit Card,Delivered
+ORD0133,2025-08-27,Kavya,Mumbai,Maharashtra,Monitor,Electronics,4,12400.42,5,2480.08,47121.6,Cash on Delivery,Returned
+ORD0134,2025-06-03,Varun,Vijayawada,Andhra Pradesh,Tablet,Electronics,4,19755.55,5,3951.11,75071.09,Debit Card,Shipped
+ORD0135,2025-02-24,Divya,Mumbai,Maharashtra,Monitor,Electronics,2,12848.01,10,2569.6,23126.42,Cash on Delivery,Shipped
+ORD0136,2025-12-04,Meena,Jaipur,Rajasthan,Gaming Keyboard,Gaming,3,4315.71,15,1942.07,11005.06,UPI,Delivered
+ORD0137,2025-05-27,Divya,Hyderabad,Telangana,Desk,Furniture,5,6995.42,15,5246.56,29730.54,Debit Card,Cancelled
+ORD0138,2025-12-04,Vishnu,Chennai,Tamil Nadu,Headphones,Electronics,5,2588.88,5,647.22,12297.18,UPI,Delivered
+ORD0139,2025-10-24,Manoj,Hyderabad,Telangana,Coffee Maker,Home Appliances,3,6423.07,20,3853.84,15415.37,Credit Card,Returned
+ORD0140,2025-04-13,Bhavya,Mumbai,Maharashtra,Smartphone,Electronics,3,21628.21,15,9732.69,55151.94,Debit Card,Cancelled
+ORD0141,2025-09-04,Kavya,Kochi,Kerala,Office Chair,Furniture,3,7929.73,20,4757.84,19031.35,Debit Card,Returned
+ORD0142,2025-04-26,Vishnu,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,4,835.34,0,0.0,3341.36,Net Banking,Returned
+ORD0143,2025-01-08,Harsha,Kochi,Kerala,Jeans,Fashion,3,1904.65,0,0.0,5713.95,UPI,Cancelled
+ORD0144,2025-11-23,Manoj,Pune,Maharashtra,Monitor,Electronics,3,11714.46,10,3514.34,31629.04,Credit Card,Delivered
+ORD0145,2025-11-09,Divya,Hyderabad,Telangana,Monitor,Electronics,5,11587.22,10,5793.61,52142.49,UPI,Returned
+ORD0146,2025-03-13,Aditya,Kolkata,West Bengal,Backpack,Accessories,3,1766.99,15,795.15,4505.82,Debit Card,Delivered
+ORD0147,2025-03-11,Meena,Vijayawada,Andhra Pradesh,Monitor,Electronics,1,12929.42,0,0.0,12929.42,Debit Card,Shipped
+ORD0148,2025-03-21,Nikhil,Kochi,Kerala,Backpack,Accessories,4,1887.22,10,754.89,6793.99,UPI,Returned
+ORD0149,2025-05-24,Aditya,Kolkata,West Bengal,Jeans,Fashion,5,1958.06,10,979.03,8811.27,Debit Card,Returned
+ORD0150,2025-02-20,Vishnu,Kolkata,West Bengal,Headphones,Electronics,4,2677.73,0,0.0,10710.92,Cash on Delivery,Delivered
+ORD0151,2025-03-04,Pooja,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6208.65,10,620.87,5587.78,Credit Card,Delivered
+ORD0152,2025-05-05,Bhavya,Jaipur,Rajasthan,Backpack,Accessories,1,1903.25,0,0.0,1903.25,Credit Card,Cancelled
+ORD0153,2025-04-30,Kiran,Kochi,Kerala,Smartphone,Electronics,2,20750.19,10,4150.04,37350.34,Cash on Delivery,Delivered
+ORD0154,2025-03-31,Arjun,Mumbai,Maharashtra,Laptop,Electronics,2,45361.94,0,0.0,90723.88,UPI,Returned
+ORD0155,2025-10-29,Kiran,Hyderabad,Telangana,Tablet,Electronics,3,19038.35,20,11423.01,45692.04,Credit Card,Delivered
+ORD0156,2025-02-28,Ananya,Hyderabad,Telangana,Smartwatch,Electronics,2,5413.06,15,1623.92,9202.2,Net Banking,Shipped
+ORD0157,2025-09-15,Divya,Pune,Maharashtra,T-Shirt,Fashion,5,829.63,10,414.81,3733.34,UPI,Cancelled
+ORD0158,2025-01-16,Aditya,Kochi,Kerala,Shoes,Fashion,3,3291.74,10,987.52,8887.7,Net Banking,Shipped
+ORD0159,2025-02-07,Ananya,Vijayawada,Andhra Pradesh,Gaming Mouse,Gaming,4,2380.27,15,1428.16,8092.92,Cash on Delivery,Delivered
+ORD0160,2025-10-27,Riya,Vijayawada,Andhra Pradesh,Tablet,Electronics,2,18447.54,5,1844.75,35050.33,Debit Card,Returned
+ORD0161,2025-11-06,Nikhil,Jaipur,Rajasthan,Gaming Mouse,Gaming,5,2179.63,5,544.91,10353.24,UPI,Delivered
+ORD0162,2025-04-27,Nikhil,Kochi,Kerala,Jeans,Fashion,2,1782.56,10,356.51,3208.61,Net Banking,Delivered
+ORD0163,2025-12-07,Harsha,Delhi,Delhi,Gaming Mouse,Gaming,1,2167.78,5,108.39,2059.39,Credit Card,Delivered
+ORD0164,2025-02-17,Nikhil,Kolkata,West Bengal,Backpack,Accessories,1,1919.44,0,0.0,1919.44,Debit Card,Delivered
+ORD0165,2025-10-15,Riya,Bengaluru,Karnataka,T-Shirt,Fashion,5,915.56,0,0.0,4577.8,UPI,Delivered
+ORD0166,2025-01-27,Kavya,Pune,Maharashtra,Gaming Mouse,Gaming,4,2382.97,20,1906.38,7625.5,Debit Card,Cancelled
+ORD0167,2025-12-03,Rahul,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,5,4241.46,10,2120.73,19086.57,UPI,Delivered
+ORD0168,2025-10-21,Divya,Kochi,Kerala,Gaming Keyboard,Gaming,3,4736.35,0,0.0,14209.05,Cash on Delivery,Shipped
+ORD0169,2025-01-14,Sneha,Jaipur,Rajasthan,T-Shirt,Fashion,5,925.69,15,694.27,3934.18,Debit Card,Returned
+ORD0170,2025-06-23,Manoj,Bengaluru,Karnataka,Laptop,Electronics,3,47361.69,15,21312.76,120772.31,Credit Card,Delivered
+ORD0171,2025-03-14,Varun,Bengaluru,Karnataka,Jeans,Fashion,5,1764.28,15,1323.21,7498.19,UPI,Delivered
+ORD0172,2025-06-24,Charan,Kochi,Kerala,Shoes,Fashion,2,3148.69,10,629.74,5667.64,Debit Card,Delivered
+ORD0173,2025-01-27,Bhavya,Pune,Maharashtra,Shoes,Fashion,5,2934.37,10,1467.18,13204.67,Cash on Delivery,Delivered
+ORD0174,2025-09-06,Sneha,Vijayawada,Andhra Pradesh,Laptop,Electronics,3,46457.45,10,13937.23,125435.12,Net Banking,Shipped
+ORD0175,2025-02-26,Kavya,Chennai,Tamil Nadu,Smartwatch,Electronics,5,5329.69,0,0.0,26648.45,Cash on Delivery,Returned
+ORD0176,2025-11-03,Aditya,Kochi,Kerala,Monitor,Electronics,3,11329.24,0,0.0,33987.72,Credit Card,Delivered
+ORD0177,2025-06-17,Arjun,Chennai,Tamil Nadu,Smartwatch,Electronics,2,5231.07,20,2092.43,8369.71,Net Banking,Delivered
+ORD0178,2025-12-27,Divya,Delhi,Delhi,Shoes,Fashion,2,3123.33,0,0.0,6246.66,Cash on Delivery,Cancelled
+ORD0179,2025-01-22,Nikhil,Pune,Maharashtra,Jeans,Fashion,1,1930.24,10,193.02,1737.22,Net Banking,Delivered
+ORD0180,2025-07-27,Varun,Vijayawada,Andhra Pradesh,Coffee Maker,Home Appliances,3,6408.07,10,1922.42,17301.79,Debit Card,Shipped
+ORD0181,2025-11-13,Pooja,Delhi,Delhi,Smartphone,Electronics,1,20556.24,5,1027.81,19528.43,Debit Card,Returned
+ORD0182,2025-07-25,Ravi,Delhi,Delhi,Smartphone,Electronics,1,21716.98,0,0.0,21716.98,Net Banking,Delivered
+ORD0183,2025-03-28,Ananya,Mumbai,Maharashtra,Jeans,Fashion,3,1739.9,0,0.0,5219.7,UPI,Cancelled
+ORD0184,2025-11-27,Bhavya,Kochi,Kerala,Office Chair,Furniture,2,8243.94,20,3297.58,13190.3,UPI,Delivered
+ORD0185,2025-12-02,Ananya,Mumbai,Maharashtra,Tablet,Electronics,2,18368.64,0,0.0,36737.28,Net Banking,Delivered
+ORD0186,2025-10-17,Varun,Jaipur,Rajasthan,Monitor,Electronics,5,12434.72,10,6217.36,55956.24,Cash on Delivery,Returned
+ORD0187,2025-08-15,Varun,Pune,Maharashtra,Gaming Keyboard,Gaming,2,4111.46,10,822.29,7400.63,Debit Card,Delivered
+ORD0188,2025-08-25,Pooja,Hyderabad,Telangana,Desk,Furniture,3,6403.87,10,1921.16,17290.45,UPI,Delivered
+ORD0189,2025-02-16,Sneha,Mumbai,Maharashtra,Gaming Keyboard,Gaming,1,4827.83,15,724.17,4103.66,Cash on Delivery,Cancelled
+ORD0190,2025-01-22,Pooja,Kolkata,West Bengal,Gaming Mouse,Gaming,5,2399.86,10,1199.93,10799.37,Credit Card,Cancelled
+ORD0191,2025-02-01,Pooja,Jaipur,Rajasthan,Gaming Keyboard,Gaming,4,4185.77,10,1674.31,15068.77,Debit Card,Delivered
+ORD0192,2025-05-07,Pooja,Vijayawada,Andhra Pradesh,Shoes,Fashion,5,2990.44,15,2242.83,12709.37,Cash on Delivery,Shipped
+ORD0193,2025-05-25,Meena,Jaipur,Rajasthan,Office Chair,Furniture,2,8283.85,5,828.38,15739.32,Debit Card,Shipped
+ORD0194,2025-06-21,Ananya,Jaipur,Rajasthan,Backpack,Accessories,1,1847.12,20,369.42,1477.7,UPI,Delivered
+ORD0195,2025-12-03,Sneha,Delhi,Delhi,Office Chair,Furniture,3,8880.35,5,1332.05,25309.0,Debit Card,Delivered
+ORD0196,2025-12-02,Vishnu,Jaipur,Rajasthan,Smartphone,Electronics,2,21165.02,5,2116.5,40213.54,Credit Card,Shipped
+ORD0197,2025-06-18,Bhavya,Vijayawada,Andhra Pradesh,Desk,Furniture,3,6827.35,10,2048.21,18433.84,Cash on Delivery,Returned
+ORD0198,2025-06-08,Charan,Delhi,Delhi,Smartphone,Electronics,5,19880.21,5,4970.05,94431.0,Debit Card,Delivered
+ORD0199,2025-03-21,Ananya,Kolkata,West Bengal,T-Shirt,Fashion,2,990.0,0,0.0,1980.0,UPI,Delivered
+ORD0200,2025-11-13,Bhavya,Kochi,Kerala,Office Chair,Furniture,5,8775.28,0,0.0,43876.4,Net Banking,Cancelled
+ORD0201,2025-11-16,Charan,Bengaluru,Karnataka,Tablet,Electronics,2,18694.24,20,7477.7,29910.78,Net Banking,Returned
+ORD0202,2025-08-16,Sneha,Delhi,Delhi,Laptop,Electronics,3,46976.27,15,21139.32,119789.49,Net Banking,Delivered
+ORD0203,2025-08-29,Deepak,Kochi,Kerala,Headphones,Electronics,2,2732.8,5,273.28,5192.32,Cash on Delivery,Delivered
+ORD0204,2025-09-28,Nikhil,Kolkata,West Bengal,Monitor,Electronics,3,11716.49,20,7029.89,28119.58,Credit Card,Delivered
+ORD0205,2025-11-25,Rahul,Jaipur,Rajasthan,T-Shirt,Fashion,2,855.0,20,342.0,1368.0,Cash on Delivery,Delivered
+ORD0206,2025-02-12,Charan,Vijayawada,Andhra Pradesh,Coffee Maker,Home Appliances,5,6012.08,20,6012.08,24048.32,Net Banking,Delivered
+ORD0207,2025-04-24,Pooja,Kochi,Kerala,Coffee Maker,Home Appliances,2,6418.71,20,2567.48,10269.94,UPI,Delivered
+ORD0208,2025-07-17,Ananya,Hyderabad,Telangana,Gaming Mouse,Gaming,4,2144.54,10,857.82,7720.34,Credit Card,Delivered
+ORD0209,2025-06-21,Bhavya,Pune,Maharashtra,Laptop,Electronics,1,46932.34,20,9386.47,37545.87,UPI,Delivered
+ORD0210,2025-08-18,Sneha,Kolkata,West Bengal,Smartwatch,Electronics,2,5726.09,20,2290.44,9161.74,UPI,Delivered
+ORD0211,2025-11-08,Ravi,Mumbai,Maharashtra,Laptop,Electronics,2,41845.68,20,16738.27,66953.09,UPI,Shipped
+ORD0212,2025-05-03,Nikhil,Mumbai,Maharashtra,T-Shirt,Fashion,2,831.93,5,83.19,1580.67,Cash on Delivery,Returned
+ORD0213,2025-11-02,Riya,Vijayawada,Andhra Pradesh,Monitor,Electronics,1,12972.35,20,2594.47,10377.88,Cash on Delivery,Delivered
+ORD0214,2025-11-11,Manoj,Chennai,Tamil Nadu,Desk,Furniture,2,6900.93,5,690.09,13111.77,Cash on Delivery,Delivered
+ORD0215,2025-02-04,Ravi,Bengaluru,Karnataka,Gaming Mouse,Gaming,1,2408.85,10,240.88,2167.97,Cash on Delivery,Cancelled
+ORD0216,2025-08-29,Aditya,Kochi,Kerala,T-Shirt,Fashion,5,880.28,0,0.0,4401.4,Net Banking,Returned
+ORD0217,2025-06-26,Divya,Mumbai,Maharashtra,Gaming Keyboard,Gaming,1,4759.67,5,237.98,4521.69,UPI,Returned
+ORD0218,2025-10-07,Kiran,Jaipur,Rajasthan,T-Shirt,Fashion,3,817.98,0,0.0,2453.94,Credit Card,Returned
+ORD0219,2025-03-11,Ananya,Kolkata,West Bengal,Jeans,Fashion,4,1685.62,15,1011.37,5731.11,Net Banking,Returned
+ORD0220,2025-01-22,Kiran,Mumbai,Maharashtra,Laptop,Electronics,2,47619.98,0,0.0,95239.96,Cash on Delivery,Delivered
+ORD0221,2025-11-28,Deepak,Kochi,Kerala,Gaming Mouse,Gaming,4,1996.11,5,399.22,7585.22,Debit Card,Delivered
+ORD0222,2025-07-08,Nikhil,Hyderabad,Telangana,Jeans,Fashion,3,1664.81,5,249.72,4744.71,Net Banking,Shipped
+ORD0223,2025-09-12,Manoj,Delhi,Delhi,Coffee Maker,Home Appliances,3,6495.06,0,0.0,19485.18,Debit Card,Cancelled
+ORD0224,2025-04-03,Riya,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,4,887.51,0,0.0,3550.04,Debit Card,Delivered
+ORD0225,2025-08-17,Sneha,Vijayawada,Andhra Pradesh,Smartphone,Electronics,3,21100.82,15,9495.37,53807.09,Net Banking,Returned
+ORD0226,2025-06-30,Sneha,Kolkata,West Bengal,Tablet,Electronics,3,16352.48,10,4905.74,44151.7,Debit Card,Shipped
+ORD0227,2025-07-06,Ravi,Hyderabad,Telangana,Backpack,Accessories,1,1849.5,15,277.43,1572.07,Credit Card,Returned
+ORD0228,2025-01-18,Bhavya,Bengaluru,Karnataka,Laptop,Electronics,5,47531.81,15,35648.86,202010.19,Credit Card,Delivered
+ORD0229,2025-01-17,Sneha,Pune,Maharashtra,T-Shirt,Fashion,3,980.9,10,294.27,2648.43,Net Banking,Delivered
+ORD0230,2025-03-12,Ravi,Pune,Maharashtra,Gaming Keyboard,Gaming,4,4119.2,20,3295.36,13181.44,Net Banking,Delivered
+ORD0231,2025-04-06,Rahul,Mumbai,Maharashtra,Gaming Keyboard,Gaming,2,4073.32,0,0.0,8146.64,Net Banking,Cancelled
+ORD0232,2025-12-27,Pooja,Kochi,Kerala,Coffee Maker,Home Appliances,1,6857.45,5,342.87,6514.58,Cash on Delivery,Delivered
+ORD0233,2025-02-07,Pooja,Kolkata,West Bengal,Smartwatch,Electronics,2,5099.3,0,0.0,10198.6,Net Banking,Delivered
+ORD0234,2025-10-05,Kavya,Pune,Maharashtra,Smartphone,Electronics,3,20085.73,15,9038.58,51218.61,Credit Card,Delivered
+ORD0235,2025-04-13,Bhavya,Bengaluru,Karnataka,Shoes,Fashion,3,3023.51,10,907.05,8163.48,Net Banking,Delivered
+ORD0236,2025-10-10,Bhavya,Pune,Maharashtra,Laptop,Electronics,5,43820.2,10,21910.1,197190.9,UPI,Cancelled
+ORD0237,2025-09-27,Nikhil,Mumbai,Maharashtra,Smartphone,Electronics,4,22963.03,15,13777.82,78074.3,Cash on Delivery,Shipped
+ORD0238,2025-08-27,Vishnu,Bengaluru,Karnataka,Smartphone,Electronics,3,20126.33,15,9056.85,51322.14,Debit Card,Cancelled
+ORD0239,2025-03-08,Nikhil,Kochi,Kerala,Tablet,Electronics,5,18964.01,0,0.0,94820.05,UPI,Cancelled
+ORD0240,2025-03-24,Kiran,Vijayawada,Andhra Pradesh,Jeans,Fashion,5,1729.48,0,0.0,8647.4,Credit Card,Returned
+ORD0241,2025-04-11,Varun,Kochi,Kerala,Gaming Keyboard,Gaming,3,4120.97,20,2472.58,9890.33,Debit Card,Cancelled
+ORD0242,2025-11-25,Charan,Mumbai,Maharashtra,Tablet,Electronics,5,16536.34,10,8268.17,74413.53,Cash on Delivery,Cancelled
+ORD0243,2025-06-22,Sanjay,Bengaluru,Karnataka,Tablet,Electronics,5,19447.2,15,14585.4,82650.6,UPI,Delivered
+ORD0244,2025-10-20,Nikhil,Hyderabad,Telangana,Smartphone,Electronics,5,22664.97,5,5666.24,107658.61,UPI,Cancelled
+ORD0245,2025-09-05,Divya,Kochi,Kerala,Monitor,Electronics,3,13095.96,15,5893.18,33394.7,Net Banking,Returned
+ORD0246,2025-08-14,Nikhil,Kolkata,West Bengal,Smartwatch,Electronics,1,5015.9,15,752.38,4263.52,Net Banking,Shipped
+ORD0247,2025-06-13,Manoj,Pune,Maharashtra,Headphones,Electronics,5,2406.29,0,0.0,12031.45,Credit Card,Shipped
+ORD0248,2025-05-04,Pooja,Pune,Maharashtra,T-Shirt,Fashion,5,829.11,10,414.56,3730.99,Debit Card,Delivered
+ORD0249,2025-07-16,Sneha,Chennai,Tamil Nadu,Monitor,Electronics,2,10921.45,0,0.0,21842.9,Credit Card,Shipped
+ORD0250,2025-04-08,Charan,Bengaluru,Karnataka,Jeans,Fashion,3,1879.61,10,563.88,5074.95,Cash on Delivery,Shipped
+ORD0251,2025-07-21,Ravi,Kolkata,West Bengal,Monitor,Electronics,3,10855.62,10,3256.69,29310.17,Credit Card,Shipped
+ORD0252,2025-09-11,Sneha,Jaipur,Rajasthan,Headphones,Electronics,3,2275.27,0,0.0,6825.81,Net Banking,Returned
+ORD0253,2025-03-10,Harsha,Kochi,Kerala,Smartwatch,Electronics,1,5068.25,20,1013.65,4054.6,Debit Card,Returned
+ORD0254,2025-10-19,Riya,Delhi,Delhi,T-Shirt,Fashion,3,882.1,0,0.0,2646.3,Debit Card,Delivered
+ORD0255,2025-10-09,Harsha,Mumbai,Maharashtra,Office Chair,Furniture,1,8507.23,10,850.72,7656.51,Cash on Delivery,Cancelled
+ORD0256,2025-06-23,Riya,Bengaluru,Karnataka,Smartphone,Electronics,1,21442.07,10,2144.21,19297.86,Credit Card,Delivered
+ORD0257,2025-01-24,Aditya,Jaipur,Rajasthan,Headphones,Electronics,5,2500.04,10,1250.02,11250.18,Debit Card,Delivered
+ORD0258,2025-09-21,Bhavya,Kolkata,West Bengal,T-Shirt,Fashion,5,836.81,10,418.4,3765.65,Cash on Delivery,Delivered
+ORD0259,2025-06-03,Sanjay,Bengaluru,Karnataka,Gaming Keyboard,Gaming,4,4715.39,10,1886.16,16975.4,Cash on Delivery,Delivered
+ORD0260,2025-06-03,Rahul,Kochi,Kerala,Jeans,Fashion,5,1875.15,10,937.58,8438.17,Debit Card,Delivered
+ORD0261,2025-12-19,Varun,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,4,4326.91,10,1730.76,15576.88,Cash on Delivery,Delivered
+ORD0262,2025-01-27,Sanjay,Mumbai,Maharashtra,Monitor,Electronics,5,11346.1,10,5673.05,51057.45,Credit Card,Shipped
+ORD0263,2025-05-05,Aditya,Jaipur,Rajasthan,Office Chair,Furniture,4,9046.82,0,0.0,36187.28,UPI,Cancelled
+ORD0264,2025-07-31,Deepak,Hyderabad,Telangana,Headphones,Electronics,4,2459.39,5,491.88,9345.68,Cash on Delivery,Shipped
+ORD0265,2025-02-01,Bhavya,Jaipur,Rajasthan,T-Shirt,Fashion,4,962.71,20,770.17,3080.67,Credit Card,Cancelled
+ORD0266,2025-03-30,Pooja,Pune,Maharashtra,Office Chair,Furniture,4,8290.6,10,3316.24,29846.16,Debit Card,Cancelled
+ORD0267,2025-05-07,Harsha,Pune,Maharashtra,Office Chair,Furniture,3,8473.11,10,2541.93,22877.4,Debit Card,Cancelled
+ORD0268,2025-12-27,Rahul,Mumbai,Maharashtra,Headphones,Electronics,3,2353.64,15,1059.14,6001.78,Net Banking,Delivered
+ORD0269,2025-12-13,Riya,Kochi,Kerala,Gaming Keyboard,Gaming,3,4159.69,5,623.95,11855.12,Net Banking,Shipped
+ORD0270,2025-02-10,Manoj,Pune,Maharashtra,Jeans,Fashion,2,1635.14,5,163.51,3106.77,Debit Card,Shipped
+ORD0271,2025-05-19,Riya,Kolkata,West Bengal,Shoes,Fashion,2,3409.89,0,0.0,6819.78,Debit Card,Returned
+ORD0272,2025-05-05,Aditya,Vijayawada,Andhra Pradesh,Tablet,Electronics,5,18312.59,15,13734.44,77828.51,Cash on Delivery,Returned
+ORD0273,2025-08-30,Arjun,Chennai,Tamil Nadu,Headphones,Electronics,1,2456.65,0,0.0,2456.65,Credit Card,Returned
+ORD0274,2025-09-01,Rahul,Kochi,Kerala,Laptop,Electronics,2,46376.04,10,9275.21,83476.87,Credit Card,Returned
+ORD0275,2025-02-15,Varun,Mumbai,Maharashtra,T-Shirt,Fashion,3,926.26,5,138.94,2639.84,Credit Card,Cancelled
+ORD0276,2025-04-01,Aditya,Hyderabad,Telangana,Office Chair,Furniture,2,9149.82,10,1829.96,16469.68,Net Banking,Shipped
+ORD0277,2025-11-05,Arjun,Mumbai,Maharashtra,Tablet,Electronics,1,17274.21,0,0.0,17274.21,Debit Card,Delivered
+ORD0278,2025-03-10,Ravi,Kochi,Kerala,Monitor,Electronics,5,12934.22,10,6467.11,58203.99,Debit Card,Shipped
+ORD0279,2025-11-28,Harsha,Vijayawada,Andhra Pradesh,Headphones,Electronics,3,2615.56,0,0.0,7846.68,Credit Card,Returned
+ORD0280,2025-04-09,Charan,Pune,Maharashtra,Laptop,Electronics,3,46569.61,10,13970.88,125737.95,Net Banking,Cancelled
+ORD0281,2025-12-09,Arjun,Delhi,Delhi,Jeans,Fashion,5,1651.23,5,412.81,7843.34,Credit Card,Delivered
+ORD0282,2025-05-01,Pooja,Pune,Maharashtra,Monitor,Electronics,2,11425.88,0,0.0,22851.76,Debit Card,Delivered
+ORD0283,2025-07-04,Divya,Jaipur,Rajasthan,Smartwatch,Electronics,5,5237.71,0,0.0,26188.55,UPI,Delivered
+ORD0284,2025-12-27,Kavya,Mumbai,Maharashtra,Monitor,Electronics,2,12446.58,10,2489.32,22403.84,UPI,Returned
+ORD0285,2025-03-10,Rahul,Mumbai,Maharashtra,Backpack,Accessories,3,1699.51,10,509.85,4588.68,Net Banking,Delivered
+ORD0286,2025-08-30,Riya,Jaipur,Rajasthan,Shoes,Fashion,3,3329.24,10,998.77,8988.95,Credit Card,Returned
+ORD0287,2025-09-27,Pooja,Chennai,Tamil Nadu,T-Shirt,Fashion,5,951.73,20,951.73,3806.92,Debit Card,Cancelled
+ORD0288,2025-09-16,Deepak,Jaipur,Rajasthan,Smartphone,Electronics,1,23446.61,0,0.0,23446.61,Cash on Delivery,Cancelled
+ORD0289,2025-03-01,Vishnu,Bengaluru,Karnataka,Tablet,Electronics,3,18073.23,20,10843.94,43375.75,Cash on Delivery,Delivered
+ORD0290,2025-08-21,Bhavya,Vijayawada,Andhra Pradesh,Monitor,Electronics,5,12740.86,10,6370.43,57333.87,Net Banking,Cancelled
+ORD0291,2025-06-07,Aarav,Jaipur,Rajasthan,Monitor,Electronics,1,11909.71,10,1190.97,10718.74,Debit Card,Shipped
+ORD0292,2025-08-05,Manoj,Hyderabad,Telangana,Jeans,Fashion,2,1646.29,10,329.26,2963.32,UPI,Returned
+ORD0293,2025-07-29,Charan,Hyderabad,Telangana,Office Chair,Furniture,1,7703.95,10,770.39,6933.56,Net Banking,Delivered
+ORD0294,2025-07-13,Meena,Delhi,Delhi,Gaming Keyboard,Gaming,4,4875.4,20,3900.32,15601.28,Cash on Delivery,Delivered
+ORD0295,2025-07-21,Ravi,Pune,Maharashtra,Tablet,Electronics,1,19774.25,0,0.0,19774.25,Credit Card,Delivered
+ORD0296,2025-10-06,Nikhil,Hyderabad,Telangana,Jeans,Fashion,1,1786.68,5,89.33,1697.35,Net Banking,Cancelled
+ORD0297,2025-05-22,Deepak,Chennai,Tamil Nadu,Jeans,Fashion,2,1744.62,10,348.92,3140.32,UPI,Returned
+ORD0298,2025-01-09,Divya,Delhi,Delhi,Laptop,Electronics,5,48926.14,20,48926.14,195704.56,UPI,Delivered
+ORD0299,2025-12-27,Aditya,Jaipur,Rajasthan,Smartphone,Electronics,1,22430.25,10,2243.03,20187.22,UPI,Delivered
+ORD0300,2025-01-29,Bhavya,Kolkata,West Bengal,Gaming Mouse,Gaming,2,2075.6,10,415.12,3736.08,Debit Card,Cancelled
+ORD0301,2025-12-11,Kiran,Jaipur,Rajasthan,Headphones,Electronics,3,2548.96,10,764.69,6882.19,Debit Card,Delivered
+ORD0302,2025-05-21,Aditya,Bengaluru,Karnataka,Coffee Maker,Home Appliances,5,6387.63,0,0.0,31938.15,Cash on Delivery,Cancelled
+ORD0303,2025-06-26,Varun,Bengaluru,Karnataka,Coffee Maker,Home Appliances,4,6494.31,10,2597.72,23379.52,Net Banking,Returned
+ORD0304,2025-03-18,Kavya,Kochi,Kerala,T-Shirt,Fashion,3,884.94,15,398.22,2256.6,Credit Card,Shipped
+ORD0305,2025-06-03,Bhavya,Kochi,Kerala,T-Shirt,Fashion,4,962.88,0,0.0,3851.52,UPI,Shipped
+ORD0306,2025-07-18,Divya,Delhi,Delhi,Office Chair,Furniture,4,8550.99,10,3420.4,30783.56,Credit Card,Delivered
+ORD0307,2025-10-02,Deepak,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,4,4383.97,20,3507.18,14028.7,Debit Card,Delivered
+ORD0308,2025-04-07,Sanjay,Jaipur,Rajasthan,Gaming Mouse,Gaming,5,2364.39,0,0.0,11821.95,Cash on Delivery,Returned
+ORD0309,2025-06-05,Aarav,Kolkata,West Bengal,Headphones,Electronics,2,2703.52,20,1081.41,4325.63,Credit Card,Delivered
+ORD0310,2025-12-27,Deepak,Vijayawada,Andhra Pradesh,Shoes,Fashion,4,3325.2,0,0.0,13300.8,Credit Card,Shipped
+ORD0311,2025-11-29,Manoj,Pune,Maharashtra,Office Chair,Furniture,3,8442.63,10,2532.79,22795.1,Debit Card,Delivered
+ORD0312,2025-08-29,Kiran,Kochi,Kerala,Gaming Keyboard,Gaming,4,4138.75,10,1655.5,14899.5,Debit Card,Delivered
+ORD0313,2025-03-16,Aarav,Delhi,Delhi,Gaming Keyboard,Gaming,1,4827.68,10,482.77,4344.91,Cash on Delivery,Delivered
+ORD0314,2025-03-20,Deepak,Jaipur,Rajasthan,Coffee Maker,Home Appliances,5,6392.85,15,4794.64,27169.61,Credit Card,Delivered
+ORD0315,2025-12-17,Kiran,Jaipur,Rajasthan,Gaming Mouse,Gaming,2,2222.28,10,444.46,4000.1,Net Banking,Delivered
+ORD0316,2025-06-30,Charan,Kolkata,West Bengal,Shoes,Fashion,4,3348.97,0,0.0,13395.88,Cash on Delivery,Delivered
+ORD0317,2025-09-26,Aditya,Bengaluru,Karnataka,Monitor,Electronics,5,13097.37,15,9823.03,55663.82,UPI,Delivered
+ORD0318,2025-04-29,Ananya,Hyderabad,Telangana,T-Shirt,Fashion,4,961.66,0,0.0,3846.64,Credit Card,Returned
+ORD0319,2025-11-13,Varun,Chennai,Tamil Nadu,Laptop,Electronics,5,43858.81,10,21929.4,197364.65,Cash on Delivery,Returned
+ORD0320,2025-10-10,Nikhil,Kolkata,West Bengal,Coffee Maker,Home Appliances,4,5858.6,0,0.0,23434.4,UPI,Delivered
+ORD0321,2025-12-24,Vishnu,Mumbai,Maharashtra,Office Chair,Furniture,5,7679.14,5,1919.79,36475.91,Credit Card,Shipped
+ORD0322,2025-11-14,Ravi,Vijayawada,Andhra Pradesh,Smartphone,Electronics,5,20860.26,0,0.0,104301.3,Debit Card,Delivered
+ORD0323,2025-08-24,Sanjay,Delhi,Delhi,Smartwatch,Electronics,1,6005.23,5,300.26,5704.97,Credit Card,Delivered
+ORD0324,2025-07-13,Riya,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,1,5395.81,0,0.0,5395.81,UPI,Shipped
+ORD0325,2025-08-11,Varun,Hyderabad,Telangana,Backpack,Accessories,2,1799.95,0,0.0,3599.9,Cash on Delivery,Delivered
+ORD0326,2025-12-21,Sanjay,Vijayawada,Andhra Pradesh,Jeans,Fashion,5,1702.72,0,0.0,8513.6,Debit Card,Shipped
+ORD0327,2025-01-17,Charan,Vijayawada,Andhra Pradesh,Laptop,Electronics,3,45571.59,10,13671.48,123043.29,UPI,Delivered
+ORD0328,2025-07-23,Ananya,Jaipur,Rajasthan,Headphones,Electronics,2,2660.35,20,1064.14,4256.56,Credit Card,Delivered
+ORD0329,2025-12-13,Riya,Chennai,Tamil Nadu,Desk,Furniture,5,7489.22,20,7489.22,29956.88,Net Banking,Delivered
+ORD0330,2025-06-27,Aditya,Bengaluru,Karnataka,T-Shirt,Fashion,1,944.18,10,94.42,849.76,Net Banking,Delivered
+ORD0331,2025-11-01,Meena,Vijayawada,Andhra Pradesh,Headphones,Electronics,3,2634.5,10,790.35,7113.15,UPI,Delivered
+ORD0332,2025-10-11,Meena,Mumbai,Maharashtra,Backpack,Accessories,4,1702.13,10,680.85,6127.67,Credit Card,Shipped
+ORD0333,2025-06-01,Divya,Jaipur,Rajasthan,Backpack,Accessories,4,1897.98,0,0.0,7591.92,UPI,Returned
+ORD0334,2025-11-21,Bhavya,Mumbai,Maharashtra,Smartphone,Electronics,2,22931.38,10,4586.28,41276.48,Net Banking,Returned
+ORD0335,2025-06-07,Pooja,Pune,Maharashtra,Gaming Keyboard,Gaming,1,4054.68,0,0.0,4054.68,Debit Card,Delivered
+ORD0336,2025-10-13,Riya,Bengaluru,Karnataka,Smartphone,Electronics,1,21696.31,0,0.0,21696.31,Net Banking,Cancelled
+ORD0337,2025-11-02,Sneha,Hyderabad,Telangana,Smartphone,Electronics,1,22238.57,5,1111.93,21126.64,Net Banking,Delivered
+ORD0338,2025-10-14,Divya,Mumbai,Maharashtra,Laptop,Electronics,4,47512.52,10,19005.01,171045.07,Cash on Delivery,Cancelled
+ORD0339,2025-05-18,Rahul,Delhi,Delhi,Tablet,Electronics,2,17168.11,0,0.0,34336.22,UPI,Delivered
+ORD0340,2025-02-09,Manoj,Delhi,Delhi,Tablet,Electronics,3,17279.11,10,5183.73,46653.6,Credit Card,Delivered
+ORD0341,2025-02-24,Bhavya,Kolkata,West Bengal,Shoes,Fashion,5,3005.15,10,1502.58,13523.17,UPI,Delivered
+ORD0342,2025-06-18,Pooja,Pune,Maharashtra,Gaming Mouse,Gaming,5,2333.79,10,1166.89,10502.06,Net Banking,Delivered
+ORD0343,2025-12-22,Deepak,Jaipur,Rajasthan,Jeans,Fashion,2,1735.44,5,173.54,3297.34,Debit Card,Shipped
+ORD0344,2025-11-21,Rahul,Delhi,Delhi,Tablet,Electronics,3,18845.55,5,2826.83,53709.82,Credit Card,Cancelled
+ORD0345,2025-07-06,Arjun,Delhi,Delhi,Gaming Keyboard,Gaming,3,4757.28,20,2854.37,11417.47,Credit Card,Cancelled
+ORD0346,2025-01-14,Pooja,Kochi,Kerala,Desk,Furniture,2,7374.67,15,2212.4,12536.94,Credit Card,Returned
+ORD0347,2025-07-29,Vishnu,Mumbai,Maharashtra,Monitor,Electronics,1,12834.69,20,2566.94,10267.75,Credit Card,Shipped
+ORD0348,2025-08-05,Meena,Mumbai,Maharashtra,Backpack,Accessories,2,1857.12,5,185.71,3528.53,Net Banking,Delivered
+ORD0349,2025-12-21,Nikhil,Kolkata,West Bengal,Desk,Furniture,5,7048.11,10,3524.05,31716.5,UPI,Cancelled
+ORD0350,2025-02-13,Arjun,Pune,Maharashtra,T-Shirt,Fashion,5,924.87,10,462.44,4161.91,Debit Card,Delivered
+ORD0351,2025-12-13,Varun,Jaipur,Rajasthan,Tablet,Electronics,1,19740.99,10,1974.1,17766.89,Debit Card,Shipped
+ORD0352,2025-04-24,Ravi,Delhi,Delhi,T-Shirt,Fashion,1,827.75,0,0.0,827.75,Cash on Delivery,Returned
+ORD0353,2025-07-20,Pooja,Jaipur,Rajasthan,Office Chair,Furniture,5,8407.82,0,0.0,42039.1,Cash on Delivery,Returned
+ORD0354,2025-09-05,Arjun,Kochi,Kerala,Shoes,Fashion,2,3518.53,5,351.85,6685.21,Net Banking,Delivered
+ORD0355,2025-03-14,Manoj,Vijayawada,Andhra Pradesh,Coffee Maker,Home Appliances,1,7072.88,20,1414.58,5658.3,Debit Card,Delivered
+ORD0356,2025-02-19,Pooja,Chennai,Tamil Nadu,Monitor,Electronics,5,11635.92,10,5817.96,52361.64,Net Banking,Returned
+ORD0357,2025-02-28,Aarav,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,3,4779.17,0,0.0,14337.51,UPI,Delivered
+ORD0358,2025-03-23,Kiran,Bengaluru,Karnataka,Backpack,Accessories,2,1682.8,10,336.56,3029.04,Net Banking,Cancelled
+ORD0359,2025-11-24,Vishnu,Chennai,Tamil Nadu,Monitor,Electronics,4,11242.68,15,6745.61,38225.11,Net Banking,Shipped
+ORD0360,2025-07-19,Aarav,Jaipur,Rajasthan,Laptop,Electronics,2,45829.83,10,9165.97,82493.69,Credit Card,Returned
+ORD0361,2025-10-02,Charan,Mumbai,Maharashtra,Headphones,Electronics,1,2300.88,10,230.09,2070.79,Debit Card,Delivered
+ORD0362,2025-09-08,Ravi,Kolkata,West Bengal,Headphones,Electronics,1,2585.35,5,129.27,2456.08,Debit Card,Returned
+ORD0363,2025-06-28,Manoj,Delhi,Delhi,Desk,Furniture,5,7121.81,10,3560.91,32048.14,Cash on Delivery,Shipped
+ORD0364,2025-03-10,Kiran,Mumbai,Maharashtra,Tablet,Electronics,5,16505.11,10,8252.56,74272.99,Credit Card,Delivered
+ORD0365,2025-09-19,Meena,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,2,5712.78,5,571.28,10854.28,Cash on Delivery,Shipped
+ORD0366,2025-11-22,Riya,Jaipur,Rajasthan,Tablet,Electronics,4,16868.71,10,6747.48,60727.36,Credit Card,Returned
+ORD0367,2025-06-11,Pooja,Bengaluru,Karnataka,Office Chair,Furniture,4,7888.5,5,1577.7,29976.3,UPI,Cancelled
+ORD0368,2025-07-16,Riya,Pune,Maharashtra,Jeans,Fashion,1,1669.15,10,166.91,1502.24,Net Banking,Cancelled
+ORD0369,2025-09-08,Charan,Kolkata,West Bengal,Gaming Mouse,Gaming,4,2349.55,15,1409.73,7988.47,Cash on Delivery,Delivered
+ORD0370,2025-10-03,Kavya,Chennai,Tamil Nadu,Laptop,Electronics,3,42973.68,0,0.0,128921.04,Net Banking,Delivered
+ORD0371,2025-02-28,Harsha,Kolkata,West Bengal,Desk,Furniture,5,6458.5,10,3229.25,29063.25,Debit Card,Cancelled
+ORD0372,2025-08-06,Arjun,Hyderabad,Telangana,Office Chair,Furniture,4,8021.52,10,3208.61,28877.47,Credit Card,Returned
+ORD0373,2025-02-14,Pooja,Hyderabad,Telangana,Smartwatch,Electronics,4,5333.43,5,1066.69,20267.03,Credit Card,Delivered
+ORD0374,2025-11-20,Nikhil,Jaipur,Rajasthan,Headphones,Electronics,3,2605.38,20,1563.23,6252.91,Cash on Delivery,Delivered
+ORD0375,2025-06-29,Riya,Chennai,Tamil Nadu,Tablet,Electronics,2,16413.69,20,6565.48,26261.9,Cash on Delivery,Delivered
+ORD0376,2025-10-21,Harsha,Bengaluru,Karnataka,Office Chair,Furniture,3,8147.48,15,3666.37,20776.07,UPI,Cancelled
+ORD0377,2025-03-06,Bhavya,Delhi,Delhi,Tablet,Electronics,1,19321.37,5,966.07,18355.3,Credit Card,Delivered
+ORD0378,2025-07-21,Rahul,Pune,Maharashtra,Shoes,Fashion,2,3419.88,20,1367.95,5471.81,Cash on Delivery,Delivered
+ORD0379,2025-11-21,Ananya,Mumbai,Maharashtra,Backpack,Accessories,4,1782.72,10,713.09,6417.79,Cash on Delivery,Shipped
+ORD0380,2025-06-17,Sanjay,Mumbai,Maharashtra,Shoes,Fashion,3,3488.16,10,1046.45,9418.03,UPI,Delivered
+ORD0381,2025-10-01,Meena,Kolkata,West Bengal,Shoes,Fashion,3,2920.53,20,1752.32,7009.27,Net Banking,Delivered
+ORD0382,2025-05-26,Kiran,Chennai,Tamil Nadu,Jeans,Fashion,4,1736.23,5,347.25,6597.67,Cash on Delivery,Cancelled
+ORD0383,2025-12-16,Aditya,Jaipur,Rajasthan,Tablet,Electronics,4,17437.46,20,13949.97,55799.87,UPI,Delivered
+ORD0384,2025-03-22,Pooja,Kolkata,West Bengal,Backpack,Accessories,1,1954.6,0,0.0,1954.6,UPI,Shipped
+ORD0385,2025-05-21,Ananya,Chennai,Tamil Nadu,Gaming Mouse,Gaming,2,2112.82,15,633.85,3591.79,Debit Card,Returned
+ORD0386,2025-03-26,Aditya,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,3,5944.18,15,2674.88,15157.66,Debit Card,Shipped
+ORD0387,2025-02-18,Aarav,Chennai,Tamil Nadu,Shoes,Fashion,4,2938.37,15,1763.02,9990.46,Net Banking,Delivered
+ORD0388,2025-08-16,Aarav,Bengaluru,Karnataka,Smartphone,Electronics,5,22085.55,0,0.0,110427.75,Debit Card,Delivered
+ORD0389,2025-02-06,Divya,Vijayawada,Andhra Pradesh,Jeans,Fashion,4,1667.58,15,1000.55,5669.77,UPI,Shipped
+ORD0390,2025-06-03,Bhavya,Vijayawada,Andhra Pradesh,Shoes,Fashion,1,3115.24,5,155.76,2959.48,Credit Card,Shipped
+ORD0391,2025-11-09,Varun,Bengaluru,Karnataka,Backpack,Accessories,1,1822.78,10,182.28,1640.5,Net Banking,Delivered
+ORD0392,2025-08-15,Deepak,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,2,4604.47,10,920.89,8288.05,UPI,Delivered
+ORD0393,2025-08-08,Kiran,Vijayawada,Andhra Pradesh,Tablet,Electronics,5,17582.51,15,13186.88,74725.67,Credit Card,Delivered
+ORD0394,2025-11-08,Kavya,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,2,5611.1,10,1122.22,10099.98,UPI,Returned
+ORD0395,2025-04-07,Meena,Mumbai,Maharashtra,Jeans,Fashion,2,1838.49,10,367.7,3309.28,UPI,Delivered
+ORD0396,2025-09-13,Varun,Chennai,Tamil Nadu,T-Shirt,Fashion,4,830.29,10,332.12,2989.04,UPI,Cancelled
+ORD0397,2025-10-19,Nikhil,Hyderabad,Telangana,Office Chair,Furniture,3,7874.37,5,1181.16,22441.95,Cash on Delivery,Delivered
+ORD0398,2025-10-28,Ananya,Bengaluru,Karnataka,Backpack,Accessories,4,1646.28,20,1317.02,5268.1,Debit Card,Delivered
+ORD0399,2025-05-27,Varun,Hyderabad,Telangana,Headphones,Electronics,1,2448.99,20,489.8,1959.19,Cash on Delivery,Returned
+ORD0400,2025-11-24,Riya,Delhi,Delhi,T-Shirt,Fashion,4,882.41,15,529.45,3000.19,Cash on Delivery,Cancelled
+ORD0401,2025-04-15,Bhavya,Mumbai,Maharashtra,Tablet,Electronics,1,16484.48,5,824.22,15660.26,Debit Card,Cancelled
+ORD0402,2025-05-03,Aditya,Jaipur,Rajasthan,Gaming Mouse,Gaming,1,2287.42,5,114.37,2173.05,UPI,Delivered
+ORD0403,2025-01-29,Kavya,Delhi,Delhi,Coffee Maker,Home Appliances,1,6645.99,10,664.6,5981.39,Credit Card,Returned
+ORD0404,2025-09-12,Manoj,Hyderabad,Telangana,Smartphone,Electronics,2,19849.94,15,5954.98,33744.9,Cash on Delivery,Cancelled
+ORD0405,2025-05-18,Arjun,Mumbai,Maharashtra,T-Shirt,Fashion,2,832.85,5,83.28,1582.42,Debit Card,Delivered
+ORD0406,2025-12-31,Sanjay,Delhi,Delhi,T-Shirt,Fashion,3,821.5,10,246.45,2218.05,UPI,Returned
+ORD0407,2025-10-18,Charan,Kolkata,West Bengal,Monitor,Electronics,5,10933.05,5,2733.26,51931.99,Credit Card,Delivered
+ORD0408,2025-04-27,Ravi,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,5,5745.06,15,4308.8,24416.5,UPI,Delivered
+ORD0409,2025-07-16,Bhavya,Hyderabad,Telangana,Jeans,Fashion,2,1789.84,0,0.0,3579.68,UPI,Delivered
+ORD0410,2025-06-13,Harsha,Delhi,Delhi,Office Chair,Furniture,2,8072.05,5,807.21,15336.89,Cash on Delivery,Delivered
+ORD0411,2025-04-02,Divya,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,5,4861.75,15,3646.31,20662.44,UPI,Cancelled
+ORD0412,2025-06-09,Kiran,Vijayawada,Andhra Pradesh,Gaming Mouse,Gaming,4,2104.22,20,1683.38,6733.5,Cash on Delivery,Delivered
+ORD0413,2025-06-05,Sneha,Hyderabad,Telangana,Monitor,Electronics,3,11499.83,0,0.0,34499.49,Net Banking,Delivered
+ORD0414,2025-10-07,Divya,Jaipur,Rajasthan,Gaming Keyboard,Gaming,4,4748.3,20,3798.64,15194.56,UPI,Delivered
+ORD0415,2025-11-22,Aarav,Delhi,Delhi,Coffee Maker,Home Appliances,1,6554.01,0,0.0,6554.01,UPI,Delivered
+ORD0416,2025-05-02,Nikhil,Delhi,Delhi,T-Shirt,Fashion,3,846.93,0,0.0,2540.79,UPI,Shipped
+ORD0417,2025-09-24,Nikhil,Mumbai,Maharashtra,Tablet,Electronics,1,19516.59,0,0.0,19516.59,Debit Card,Returned
+ORD0418,2025-11-23,Meena,Vijayawada,Andhra Pradesh,Monitor,Electronics,5,12013.03,0,0.0,60065.15,Cash on Delivery,Delivered
+ORD0419,2025-05-02,Kavya,Hyderabad,Telangana,Desk,Furniture,4,7649.91,15,4589.95,26009.69,Debit Card,Delivered
+ORD0420,2025-04-30,Ananya,Delhi,Delhi,Coffee Maker,Home Appliances,3,6438.59,5,965.79,18349.98,Credit Card,Delivered
+ORD0421,2025-08-19,Pooja,Jaipur,Rajasthan,T-Shirt,Fashion,1,829.02,0,0.0,829.02,Net Banking,Delivered
+ORD0422,2025-06-07,Pooja,Kochi,Kerala,Smartphone,Electronics,3,20713.6,20,12428.16,49712.64,UPI,Delivered
+ORD0423,2025-11-05,Aditya,Bengaluru,Karnataka,Smartphone,Electronics,3,22900.7,20,13740.42,54961.68,Debit Card,Delivered
+ORD0424,2025-01-26,Vishnu,Vijayawada,Andhra Pradesh,Tablet,Electronics,2,17626.48,5,1762.65,33490.31,Debit Card,Delivered
+ORD0425,2025-10-12,Riya,Bengaluru,Karnataka,Jeans,Fashion,1,1927.66,10,192.77,1734.89,UPI,Delivered
+ORD0426,2025-04-24,Bhavya,Vijayawada,Andhra Pradesh,Monitor,Electronics,2,10828.7,0,0.0,21657.4,Net Banking,Delivered
+ORD0427,2025-02-08,Aarav,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,5,4282.94,10,2141.47,19273.23,Credit Card,Delivered
+ORD0428,2025-06-19,Arjun,Kolkata,West Bengal,Coffee Maker,Home Appliances,2,7026.6,0,0.0,14053.2,Net Banking,Delivered
+ORD0429,2025-07-22,Rahul,Bengaluru,Karnataka,Laptop,Electronics,5,47895.17,10,23947.58,215528.27,Net Banking,Delivered
+ORD0430,2025-04-06,Harsha,Delhi,Delhi,Backpack,Accessories,2,1697.3,5,169.73,3224.87,Net Banking,Delivered
+ORD0431,2025-05-06,Varun,Bengaluru,Karnataka,Coffee Maker,Home Appliances,1,6654.93,10,665.49,5989.44,Net Banking,Delivered
+ORD0432,2025-07-16,Bhavya,Kochi,Kerala,Gaming Mouse,Gaming,4,2018.6,0,0.0,8074.4,Credit Card,Shipped
+ORD0433,2025-10-06,Aarav,Kochi,Kerala,Backpack,Accessories,2,1977.87,15,593.36,3362.38,Debit Card,Shipped
+ORD0434,2025-09-15,Kiran,Kochi,Kerala,Monitor,Electronics,4,12990.42,5,2598.08,49363.6,Debit Card,Shipped
+ORD0435,2025-05-24,Aditya,Hyderabad,Telangana,Tablet,Electronics,3,16988.47,10,5096.54,45868.87,Cash on Delivery,Shipped
+ORD0436,2025-12-03,Divya,Jaipur,Rajasthan,Gaming Keyboard,Gaming,2,4140.12,0,0.0,8280.24,Cash on Delivery,Delivered
+ORD0437,2025-07-18,Manoj,Hyderabad,Telangana,Jeans,Fashion,2,1924.74,10,384.95,3464.53,Credit Card,Delivered
+ORD0438,2025-07-03,Sanjay,Jaipur,Rajasthan,Headphones,Electronics,3,2619.05,20,1571.43,6285.72,Debit Card,Delivered
+ORD0439,2025-09-10,Riya,Jaipur,Rajasthan,Desk,Furniture,2,7627.72,10,1525.54,13729.9,Credit Card,Delivered
+ORD0440,2025-04-23,Aarav,Hyderabad,Telangana,Monitor,Electronics,1,11358.3,0,0.0,11358.3,Net Banking,Cancelled
+ORD0441,2025-06-24,Charan,Pune,Maharashtra,Laptop,Electronics,5,47758.01,0,0.0,238790.05,UPI,Delivered
+ORD0442,2025-02-26,Ravi,Bengaluru,Karnataka,Laptop,Electronics,5,48755.02,15,36566.26,207208.84,UPI,Delivered
+ORD0443,2025-06-15,Bhavya,Delhi,Delhi,Gaming Keyboard,Gaming,5,4352.9,0,0.0,21764.5,Net Banking,Delivered
+ORD0444,2025-10-15,Sneha,Kolkata,West Bengal,T-Shirt,Fashion,3,937.29,0,0.0,2811.87,Credit Card,Delivered
+ORD0445,2025-12-19,Kavya,Jaipur,Rajasthan,Backpack,Accessories,2,1730.46,10,346.09,3114.83,Credit Card,Delivered
+ORD0446,2025-10-18,Aditya,Hyderabad,Telangana,Shoes,Fashion,5,3424.48,10,1712.24,15410.16,Cash on Delivery,Delivered
+ORD0447,2025-09-12,Bhavya,Jaipur,Rajasthan,Gaming Keyboard,Gaming,2,4559.0,15,1367.7,7750.3,UPI,Delivered
+ORD0448,2025-02-15,Vishnu,Pune,Maharashtra,Headphones,Electronics,3,2568.09,0,0.0,7704.27,Debit Card,Returned
+ORD0449,2025-02-04,Manoj,Hyderabad,Telangana,Monitor,Electronics,3,11398.9,0,0.0,34196.7,UPI,Delivered
+ORD0450,2025-08-03,Charan,Hyderabad,Telangana,Shoes,Fashion,1,3160.46,10,316.05,2844.41,Net Banking,Shipped
+ORD0451,2025-09-03,Sanjay,Delhi,Delhi,Coffee Maker,Home Appliances,3,6337.95,10,1901.38,17112.47,Credit Card,Returned
+ORD0452,2025-05-31,Aarav,Kolkata,West Bengal,Tablet,Electronics,1,19244.74,20,3848.95,15395.79,Debit Card,Delivered
+ORD0453,2025-03-24,Ananya,Vijayawada,Andhra Pradesh,Smartphone,Electronics,3,23706.9,0,0.0,71120.7,UPI,Cancelled
+ORD0454,2025-08-09,Varun,Jaipur,Rajasthan,Gaming Keyboard,Gaming,5,4684.05,10,2342.03,21078.22,Cash on Delivery,Delivered
+ORD0455,2025-04-16,Deepak,Delhi,Delhi,Coffee Maker,Home Appliances,2,5981.64,0,0.0,11963.28,Cash on Delivery,Shipped
+ORD0456,2025-05-02,Arjun,Kochi,Kerala,Shoes,Fashion,3,3060.17,15,1377.08,7803.43,Net Banking,Delivered
+ORD0457,2025-01-02,Nikhil,Kochi,Kerala,Desk,Furniture,4,6376.31,0,0.0,25505.24,Debit Card,Delivered
+ORD0458,2025-04-16,Charan,Jaipur,Rajasthan,Jeans,Fashion,4,1654.92,0,0.0,6619.68,Debit Card,Returned
+ORD0459,2025-08-30,Rahul,Kolkata,West Bengal,Smartphone,Electronics,1,23253.46,5,1162.67,22090.79,Debit Card,Returned
+ORD0460,2025-07-15,Manoj,Kochi,Kerala,Smartphone,Electronics,4,21432.49,0,0.0,85729.96,Net Banking,Delivered
+ORD0461,2025-05-18,Sanjay,Mumbai,Maharashtra,Laptop,Electronics,4,42870.61,10,17148.24,154334.2,Credit Card,Delivered
+ORD0462,2025-10-05,Nikhil,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,1,871.88,15,130.78,741.1,Credit Card,Cancelled
+ORD0463,2025-10-02,Vishnu,Hyderabad,Telangana,Office Chair,Furniture,4,8538.39,20,6830.71,27322.85,Cash on Delivery,Shipped
+ORD0464,2025-01-18,Ravi,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,4,5952.64,5,1190.53,22620.03,Cash on Delivery,Cancelled
+ORD0465,2025-08-18,Charan,Jaipur,Rajasthan,T-Shirt,Fashion,5,831.65,0,0.0,4158.25,Credit Card,Delivered
+ORD0466,2025-12-16,Nikhil,Chennai,Tamil Nadu,T-Shirt,Fashion,2,886.21,0,0.0,1772.42,Credit Card,Delivered
+ORD0467,2025-02-04,Ananya,Jaipur,Rajasthan,Jeans,Fashion,3,1947.89,5,292.18,5551.49,Cash on Delivery,Shipped
+ORD0468,2025-08-23,Aarav,Kochi,Kerala,Gaming Mouse,Gaming,3,2101.53,20,1260.92,5043.67,Cash on Delivery,Returned
+ORD0469,2025-03-17,Sanjay,Kochi,Kerala,Desk,Furniture,4,6880.22,0,0.0,27520.88,Cash on Delivery,Cancelled
+ORD0470,2025-05-27,Riya,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,1,950.32,10,95.03,855.29,Net Banking,Delivered
+ORD0471,2025-01-20,Charan,Delhi,Delhi,Smartwatch,Electronics,4,5619.86,10,2247.94,20231.5,Net Banking,Delivered
+ORD0472,2025-01-20,Meena,Jaipur,Rajasthan,Tablet,Electronics,5,18697.18,15,14022.89,79463.01,Credit Card,Delivered
+ORD0473,2025-06-05,Kavya,Kolkata,West Bengal,Laptop,Electronics,3,40682.1,5,6102.31,115943.99,Net Banking,Delivered
+ORD0474,2025-08-15,Kiran,Vijayawada,Andhra Pradesh,Jeans,Fashion,2,1728.17,0,0.0,3456.34,Net Banking,Delivered
+ORD0475,2025-07-28,Rahul,Vijayawada,Andhra Pradesh,Desk,Furniture,2,6595.95,10,1319.19,11872.71,Debit Card,Cancelled
+ORD0476,2025-06-09,Ravi,Hyderabad,Telangana,Jeans,Fashion,5,1677.23,20,1677.23,6708.92,Credit Card,Shipped
+ORD0477,2025-04-13,Aditya,Kochi,Kerala,T-Shirt,Fashion,5,841.27,0,0.0,4206.35,UPI,Delivered
+ORD0478,2025-07-08,Pooja,Hyderabad,Telangana,Monitor,Electronics,3,11277.86,15,5075.04,28758.54,Net Banking,Cancelled
+ORD0479,2025-11-01,Pooja,Vijayawada,Andhra Pradesh,Backpack,Accessories,1,1754.09,0,0.0,1754.09,Net Banking,Delivered
+ORD0480,2025-05-13,Ananya,Kochi,Kerala,Desk,Furniture,3,6528.92,5,979.34,18607.42,UPI,Delivered
+ORD0481,2025-04-20,Divya,Hyderabad,Telangana,Gaming Mouse,Gaming,2,2231.79,20,892.72,3570.86,Credit Card,Returned
+ORD0482,2025-01-11,Vishnu,Chennai,Tamil Nadu,Backpack,Accessories,3,1767.42,15,795.34,4506.92,Net Banking,Delivered
+ORD0483,2025-04-25,Harsha,Bengaluru,Karnataka,Coffee Maker,Home Appliances,2,6891.12,10,1378.22,12404.02,Debit Card,Cancelled
+ORD0484,2025-08-24,Harsha,Mumbai,Maharashtra,Shoes,Fashion,4,3425.02,10,1370.01,12330.07,Net Banking,Delivered
+ORD0485,2025-01-04,Ravi,Kochi,Kerala,Smartwatch,Electronics,5,5592.94,10,2796.47,25168.23,Debit Card,Returned
+ORD0486,2025-02-25,Rahul,Jaipur,Rajasthan,Office Chair,Furniture,5,8157.41,5,2039.35,38747.7,Debit Card,Delivered
+ORD0487,2025-11-30,Kavya,Pune,Maharashtra,Smartwatch,Electronics,3,5671.73,5,850.76,16164.43,Credit Card,Delivered
+ORD0488,2025-11-04,Meena,Chennai,Tamil Nadu,Office Chair,Furniture,1,9107.44,20,1821.49,7285.95,Debit Card,Returned
+ORD0489,2025-06-01,Harsha,Bengaluru,Karnataka,Backpack,Accessories,1,1799.05,15,269.86,1529.19,Net Banking,Shipped
+ORD0490,2025-04-08,Kiran,Hyderabad,Telangana,Gaming Mouse,Gaming,5,2417.69,15,1813.27,10275.18,Credit Card,Returned
+ORD0491,2025-06-03,Charan,Kochi,Kerala,Backpack,Accessories,4,1749.06,15,1049.44,5946.8,Cash on Delivery,Returned
+ORD0492,2025-05-13,Riya,Mumbai,Maharashtra,Tablet,Electronics,1,16660.6,10,1666.06,14994.54,Debit Card,Delivered
+ORD0493,2025-06-07,Nikhil,Vijayawada,Andhra Pradesh,Backpack,Accessories,2,1700.4,5,170.04,3230.76,Debit Card,Delivered
+ORD0494,2025-08-29,Aditya,Jaipur,Rajasthan,Smartwatch,Electronics,3,5886.34,10,1765.9,15893.12,Cash on Delivery,Returned
+ORD0495,2025-09-14,Arjun,Jaipur,Rajasthan,Desk,Furniture,1,7545.2,10,754.52,6790.68,Net Banking,Returned
+ORD0496,2025-03-19,Bhavya,Mumbai,Maharashtra,Office Chair,Furniture,4,9130.44,0,0.0,36521.76,Debit Card,Delivered
+ORD0497,2025-04-03,Ananya,Jaipur,Rajasthan,Gaming Mouse,Gaming,4,2119.21,0,0.0,8476.84,Debit Card,Shipped
+ORD0498,2025-08-20,Harsha,Bengaluru,Karnataka,Backpack,Accessories,3,1640.88,15,738.4,4184.24,Credit Card,Delivered
+ORD0499,2025-02-15,Bhavya,Bengaluru,Karnataka,Desk,Furniture,4,7369.0,20,5895.2,23580.8,Net Banking,Cancelled
+ORD0500,2025-07-16,Aarav,Delhi,Delhi,Backpack,Accessories,4,1967.52,10,787.01,7083.07,Cash on Delivery,Delivered
+ORD0501,2025-09-29,Deepak,Pune,Maharashtra,Headphones,Electronics,1,2628.42,5,131.42,2497.0,UPI,Delivered
+ORD0502,2025-06-09,Bhavya,Chennai,Tamil Nadu,Backpack,Accessories,2,1935.71,15,580.71,3290.71,Net Banking,Delivered
+ORD0503,2025-01-24,Kavya,Jaipur,Rajasthan,Office Chair,Furniture,3,7760.99,0,0.0,23282.97,Net Banking,Delivered
+ORD0504,2025-12-18,Bhavya,Kochi,Kerala,Shoes,Fashion,5,3096.21,10,1548.11,13932.94,Net Banking,Delivered
+ORD0505,2025-04-27,Divya,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,2,4413.05,20,1765.22,7060.88,Credit Card,Returned
+ORD0506,2025-07-07,Varun,Hyderabad,Telangana,Headphones,Electronics,5,2334.49,10,1167.24,10505.21,Net Banking,Delivered
+ORD0507,2025-01-25,Vishnu,Mumbai,Maharashtra,Coffee Maker,Home Appliances,5,5913.16,10,2956.58,26609.22,UPI,Delivered
+ORD0508,2025-10-08,Harsha,Vijayawada,Andhra Pradesh,Laptop,Electronics,4,43922.28,10,17568.91,158120.21,Credit Card,Shipped
+ORD0509,2025-12-06,Ravi,Hyderabad,Telangana,Headphones,Electronics,3,2580.83,10,774.25,6968.24,Cash on Delivery,Delivered
+ORD0510,2025-09-19,Sneha,Bengaluru,Karnataka,Desk,Furniture,4,7558.07,20,6046.46,24185.82,Debit Card,Delivered
+ORD0511,2025-05-15,Ravi,Vijayawada,Andhra Pradesh,Smartphone,Electronics,4,22479.61,0,0.0,89918.44,Debit Card,Delivered
+ORD0512,2025-09-12,Deepak,Delhi,Delhi,Shoes,Fashion,3,2905.22,0,0.0,8715.66,Net Banking,Returned
+ORD0513,2025-02-26,Sanjay,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,1,4654.47,0,0.0,4654.47,Net Banking,Returned
+ORD0514,2025-02-21,Harsha,Vijayawada,Andhra Pradesh,Tablet,Electronics,5,18804.83,0,0.0,94024.15,Credit Card,Returned
+ORD0515,2025-03-31,Aditya,Mumbai,Maharashtra,Monitor,Electronics,3,10920.19,10,3276.06,29484.51,Debit Card,Delivered
+ORD0516,2025-01-24,Aarav,Pune,Maharashtra,T-Shirt,Fashion,4,830.86,15,498.52,2824.92,Credit Card,Delivered
+ORD0517,2025-02-17,Manoj,Pune,Maharashtra,Gaming Keyboard,Gaming,4,4291.48,10,1716.59,15449.33,Credit Card,Delivered
+ORD0518,2025-07-17,Rahul,Delhi,Delhi,Smartphone,Electronics,4,20996.07,10,8398.43,75585.85,Credit Card,Shipped
+ORD0519,2025-08-02,Sanjay,Bengaluru,Karnataka,Smartphone,Electronics,1,20501.34,20,4100.27,16401.07,Cash on Delivery,Shipped
+ORD0520,2025-07-03,Sneha,Kolkata,West Bengal,Backpack,Accessories,2,1756.71,10,351.34,3162.08,Credit Card,Delivered
+ORD0521,2025-02-02,Harsha,Kolkata,West Bengal,Monitor,Electronics,1,11857.65,10,1185.77,10671.88,Debit Card,Returned
+ORD0522,2025-12-09,Kiran,Kochi,Kerala,Laptop,Electronics,5,45585.11,15,34188.83,193736.72,Cash on Delivery,Cancelled
+ORD0523,2025-05-08,Rahul,Jaipur,Rajasthan,Shoes,Fashion,1,3303.5,10,330.35,2973.15,Net Banking,Delivered
+ORD0524,2025-03-22,Ravi,Kochi,Kerala,Tablet,Electronics,5,16241.92,0,0.0,81209.6,Net Banking,Shipped
+ORD0525,2025-05-04,Kiran,Bengaluru,Karnataka,Jeans,Fashion,1,1796.99,20,359.4,1437.59,UPI,Delivered
+ORD0526,2025-05-01,Ananya,Chennai,Tamil Nadu,Office Chair,Furniture,5,8293.68,15,6220.26,35248.14,Net Banking,Shipped
+ORD0527,2025-08-17,Kiran,Jaipur,Rajasthan,T-Shirt,Fashion,4,964.19,0,0.0,3856.76,Net Banking,Delivered
+ORD0528,2025-10-13,Riya,Hyderabad,Telangana,Shoes,Fashion,1,3143.9,10,314.39,2829.51,UPI,Delivered
+ORD0529,2025-09-18,Riya,Jaipur,Rajasthan,T-Shirt,Fashion,5,864.83,15,648.62,3675.53,Net Banking,Delivered
+ORD0530,2025-08-21,Kiran,Pune,Maharashtra,Gaming Keyboard,Gaming,1,4250.63,20,850.13,3400.5,Cash on Delivery,Cancelled
+ORD0531,2025-02-19,Vishnu,Kolkata,West Bengal,Desk,Furniture,3,6933.55,15,3120.1,17680.55,UPI,Delivered
+ORD0532,2025-12-26,Arjun,Pune,Maharashtra,Gaming Keyboard,Gaming,3,4519.79,10,1355.94,12203.43,Credit Card,Delivered
+ORD0533,2025-04-11,Deepak,Bengaluru,Karnataka,Monitor,Electronics,4,11410.29,0,0.0,45641.16,Net Banking,Delivered
+ORD0534,2025-08-01,Aditya,Kolkata,West Bengal,Headphones,Electronics,2,2418.97,15,725.69,4112.25,Cash on Delivery,Returned
+ORD0535,2025-09-16,Bhavya,Kolkata,West Bengal,Smartphone,Electronics,4,22392.99,15,13435.79,76136.17,UPI,Shipped
+ORD0536,2025-09-05,Ravi,Hyderabad,Telangana,Office Chair,Furniture,5,9075.99,10,4537.99,40841.96,Cash on Delivery,Delivered
+ORD0537,2025-11-07,Kiran,Bengaluru,Karnataka,Tablet,Electronics,1,18567.08,10,1856.71,16710.37,Net Banking,Cancelled
+ORD0538,2025-06-25,Kavya,Jaipur,Rajasthan,Gaming Mouse,Gaming,2,2155.06,5,215.51,4094.61,Credit Card,Shipped
+ORD0539,2025-09-20,Kavya,Delhi,Delhi,Tablet,Electronics,5,19391.17,15,14543.38,82412.47,Cash on Delivery,Returned
+ORD0540,2025-04-18,Sneha,Pune,Maharashtra,Jeans,Fashion,5,1698.24,15,1273.68,7217.52,Debit Card,Returned
+ORD0541,2025-04-02,Ravi,Pune,Maharashtra,Backpack,Accessories,2,1854.03,15,556.21,3151.85,Debit Card,Cancelled
+ORD0542,2025-10-20,Vishnu,Vijayawada,Andhra Pradesh,Shoes,Fashion,3,3187.44,10,956.23,8606.09,Net Banking,Returned
+ORD0543,2025-01-07,Ravi,Kochi,Kerala,Backpack,Accessories,3,1772.06,20,1063.24,4252.94,UPI,Delivered
+ORD0544,2025-05-17,Charan,Bengaluru,Karnataka,Gaming Mouse,Gaming,1,2004.91,15,300.74,1704.17,Debit Card,Delivered
+ORD0545,2025-01-17,Manoj,Hyderabad,Telangana,Tablet,Electronics,3,18912.94,0,0.0,56738.82,UPI,Shipped
+ORD0546,2025-07-19,Divya,Kochi,Kerala,Desk,Furniture,2,7205.97,15,2161.79,12250.15,Debit Card,Cancelled
+ORD0547,2025-12-17,Kiran,Hyderabad,Telangana,Shoes,Fashion,4,3146.6,10,1258.64,11327.76,UPI,Cancelled
+ORD0548,2025-08-15,Divya,Mumbai,Maharashtra,Laptop,Electronics,2,48319.65,10,9663.93,86975.37,Debit Card,Returned
+ORD0549,2025-04-10,Kavya,Jaipur,Rajasthan,T-Shirt,Fashion,5,918.61,15,688.96,3904.09,Credit Card,Shipped
+ORD0550,2025-03-03,Meena,Vijayawada,Andhra Pradesh,Backpack,Accessories,2,1884.63,0,0.0,3769.26,Net Banking,Delivered
+ORD0551,2025-05-11,Aarav,Kochi,Kerala,Smartwatch,Electronics,3,5127.02,0,0.0,15381.06,Net Banking,Delivered
+ORD0552,2025-11-02,Aditya,Bengaluru,Karnataka,Shoes,Fashion,1,3474.32,0,0.0,3474.32,Cash on Delivery,Returned
+ORD0553,2025-07-03,Ananya,Mumbai,Maharashtra,Jeans,Fashion,4,1826.16,20,1460.93,5843.71,Debit Card,Returned
+ORD0554,2025-09-16,Charan,Chennai,Tamil Nadu,Office Chair,Furniture,2,7765.9,10,1553.18,13978.62,Cash on Delivery,Shipped
+ORD0555,2025-04-20,Vishnu,Delhi,Delhi,Office Chair,Furniture,1,8026.04,5,401.3,7624.74,Debit Card,Delivered
+ORD0556,2025-09-01,Riya,Mumbai,Maharashtra,Gaming Keyboard,Gaming,2,4606.45,20,1842.58,7370.32,UPI,Returned
+ORD0557,2025-11-11,Sneha,Pune,Maharashtra,Smartphone,Electronics,4,23779.78,0,0.0,95119.12,UPI,Delivered
+ORD0558,2025-07-17,Harsha,Pune,Maharashtra,Backpack,Accessories,4,1960.2,20,1568.16,6272.64,Debit Card,Cancelled
+ORD0559,2025-08-17,Rahul,Kochi,Kerala,Laptop,Electronics,3,47725.35,10,14317.6,128858.45,Debit Card,Delivered
+ORD0560,2025-02-19,Charan,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,3,5957.05,10,1787.12,16084.03,Cash on Delivery,Cancelled
+ORD0561,2025-04-20,Vishnu,Vijayawada,Andhra Pradesh,Laptop,Electronics,2,46165.63,15,13849.69,78481.57,UPI,Shipped
+ORD0562,2025-02-06,Vishnu,Kochi,Kerala,Headphones,Electronics,4,2658.38,15,1595.03,9038.49,UPI,Delivered
+ORD0563,2025-04-02,Harsha,Pune,Maharashtra,Monitor,Electronics,1,10975.8,0,0.0,10975.8,UPI,Cancelled
+ORD0564,2025-11-19,Meena,Chennai,Tamil Nadu,Desk,Furniture,3,6843.25,10,2052.97,18476.78,Debit Card,Shipped
+ORD0565,2025-11-13,Ananya,Delhi,Delhi,Laptop,Electronics,1,40553.09,10,4055.31,36497.78,Cash on Delivery,Returned
+ORD0566,2025-12-18,Kavya,Vijayawada,Andhra Pradesh,Laptop,Electronics,3,41455.22,10,12436.57,111929.09,UPI,Cancelled
+ORD0567,2025-01-16,Rahul,Kolkata,West Bengal,Smartwatch,Electronics,4,5854.33,10,2341.73,21075.59,Cash on Delivery,Delivered
+ORD0568,2025-10-07,Kavya,Bengaluru,Karnataka,Headphones,Electronics,4,2648.74,20,2118.99,8475.97,Credit Card,Returned
+ORD0569,2025-03-14,Arjun,Pune,Maharashtra,Smartwatch,Electronics,1,5912.24,10,591.22,5321.02,UPI,Delivered
+ORD0570,2025-02-13,Kavya,Jaipur,Rajasthan,Desk,Furniture,4,7066.54,10,2826.62,25439.54,Debit Card,Delivered
+ORD0571,2025-04-24,Sneha,Delhi,Delhi,Headphones,Electronics,5,2330.48,0,0.0,11652.4,Credit Card,Delivered
+ORD0572,2025-10-09,Pooja,Bengaluru,Karnataka,Smartphone,Electronics,5,20039.31,20,20039.31,80157.24,Cash on Delivery,Returned
+ORD0573,2025-10-25,Rahul,Mumbai,Maharashtra,Smartphone,Electronics,1,20232.09,5,1011.6,19220.49,Debit Card,Delivered
+ORD0574,2025-04-10,Kiran,Chennai,Tamil Nadu,Tablet,Electronics,1,18430.26,5,921.51,17508.75,Net Banking,Shipped
+ORD0575,2025-10-17,Sanjay,Jaipur,Rajasthan,Gaming Keyboard,Gaming,3,4575.75,15,2059.09,11668.16,Debit Card,Delivered
+ORD0576,2025-04-24,Varun,Bengaluru,Karnataka,Gaming Mouse,Gaming,1,2088.32,5,104.42,1983.9,Debit Card,Shipped
+ORD0577,2025-09-03,Pooja,Pune,Maharashtra,Jeans,Fashion,2,1883.87,15,565.16,3202.58,Debit Card,Shipped
+ORD0578,2025-11-27,Sneha,Mumbai,Maharashtra,T-Shirt,Fashion,4,829.59,10,331.84,2986.52,Debit Card,Delivered
+ORD0579,2025-11-17,Ananya,Bengaluru,Karnataka,Jeans,Fashion,5,1714.76,0,0.0,8573.8,UPI,Returned
+ORD0580,2025-10-25,Sanjay,Hyderabad,Telangana,Coffee Maker,Home Appliances,5,5890.55,15,4417.91,25034.84,Cash on Delivery,Shipped
+ORD0581,2025-10-04,Rahul,Hyderabad,Telangana,Headphones,Electronics,5,2521.73,5,630.43,11978.22,Credit Card,Returned
+ORD0582,2025-05-29,Bhavya,Delhi,Delhi,Gaming Keyboard,Gaming,2,4580.64,20,1832.26,7329.02,Cash on Delivery,Shipped
+ORD0583,2025-12-06,Divya,Vijayawada,Andhra Pradesh,Office Chair,Furniture,4,8503.68,5,1700.74,32313.98,Credit Card,Cancelled
+ORD0584,2025-10-17,Sanjay,Kochi,Kerala,T-Shirt,Fashion,2,838.66,10,167.73,1509.59,Credit Card,Returned
+ORD0585,2025-09-07,Divya,Kolkata,West Bengal,Shoes,Fashion,3,3020.04,0,0.0,9060.12,Debit Card,Delivered
+ORD0586,2025-07-04,Meena,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,1,4236.1,15,635.42,3600.68,Net Banking,Shipped
+ORD0587,2025-12-27,Ravi,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6271.29,15,940.69,5330.6,Debit Card,Returned
+ORD0588,2025-07-12,Varun,Mumbai,Maharashtra,Jeans,Fashion,5,1825.26,10,912.63,8213.67,Debit Card,Shipped
+ORD0589,2025-04-25,Ravi,Vijayawada,Andhra Pradesh,Desk,Furniture,5,6826.86,5,1706.71,32427.59,Debit Card,Shipped
+ORD0590,2025-11-06,Aarav,Pune,Maharashtra,Jeans,Fashion,4,1793.56,20,1434.85,5739.39,Credit Card,Cancelled
+ORD0591,2025-05-24,Deepak,Bengaluru,Karnataka,Monitor,Electronics,2,12034.9,0,0.0,24069.8,Credit Card,Delivered
+ORD0592,2025-12-05,Divya,Pune,Maharashtra,Tablet,Electronics,5,19141.04,15,14355.78,81349.42,Debit Card,Shipped
+ORD0593,2025-04-18,Sanjay,Vijayawada,Andhra Pradesh,Shoes,Fashion,4,3186.44,15,1911.86,10833.9,Net Banking,Delivered
+ORD0594,2025-03-24,Bhavya,Chennai,Tamil Nadu,Laptop,Electronics,1,45661.38,0,0.0,45661.38,Cash on Delivery,Returned
+ORD0595,2025-04-03,Ravi,Jaipur,Rajasthan,Laptop,Electronics,2,41997.07,0,0.0,83994.14,Cash on Delivery,Shipped
+ORD0596,2025-11-07,Rahul,Hyderabad,Telangana,Desk,Furniture,3,6603.23,0,0.0,19809.69,Credit Card,Shipped
+ORD0597,2025-04-04,Sneha,Delhi,Delhi,Headphones,Electronics,5,2647.31,0,0.0,13236.55,Cash on Delivery,Returned
+ORD0598,2025-02-05,Divya,Bengaluru,Karnataka,Smartwatch,Electronics,3,5606.19,10,1681.86,15136.71,Net Banking,Shipped
+ORD0599,2025-09-16,Vishnu,Vijayawada,Andhra Pradesh,Tablet,Electronics,1,18081.76,0,0.0,18081.76,Credit Card,Shipped
+ORD0600,2025-11-04,Aditya,Vijayawada,Andhra Pradesh,Desk,Furniture,2,7562.25,10,1512.45,13612.05,Cash on Delivery,Cancelled
+ORD0601,2025-11-05,Riya,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,1,928.69,10,92.87,835.82,Net Banking,Delivered
+ORD0602,2025-09-29,Nikhil,Delhi,Delhi,Office Chair,Furniture,3,7723.85,20,4634.31,18537.24,Net Banking,Delivered
+ORD0603,2025-12-23,Sanjay,Delhi,Delhi,T-Shirt,Fashion,3,954.83,10,286.45,2578.04,Net Banking,Delivered
+ORD0604,2025-02-12,Kavya,Mumbai,Maharashtra,Tablet,Electronics,4,17037.05,20,13629.64,54518.56,Cash on Delivery,Cancelled
+ORD0605,2025-01-04,Sanjay,Mumbai,Maharashtra,Gaming Mouse,Gaming,2,2292.03,0,0.0,4584.06,UPI,Cancelled
+ORD0606,2025-06-11,Nikhil,Hyderabad,Telangana,Office Chair,Furniture,4,7999.21,15,4799.53,27197.31,UPI,Delivered
+ORD0607,2025-10-02,Nikhil,Delhi,Delhi,Tablet,Electronics,5,17140.69,5,4285.17,81418.28,Debit Card,Cancelled
+ORD0608,2025-10-10,Riya,Mumbai,Maharashtra,Desk,Furniture,4,6585.17,20,5268.14,21072.54,Credit Card,Shipped
+ORD0609,2025-06-07,Sanjay,Kochi,Kerala,Gaming Keyboard,Gaming,5,4278.4,10,2139.2,19252.8,Net Banking,Delivered
+ORD0610,2025-12-25,Charan,Bengaluru,Karnataka,Shoes,Fashion,1,3027.05,15,454.06,2572.99,Credit Card,Delivered
+ORD0611,2025-12-23,Vishnu,Delhi,Delhi,Office Chair,Furniture,3,8585.98,20,5151.59,20606.35,UPI,Returned
+ORD0612,2025-03-16,Rahul,Delhi,Delhi,Tablet,Electronics,1,16527.92,20,3305.58,13222.34,Net Banking,Cancelled
+ORD0613,2025-11-08,Aditya,Vijayawada,Andhra Pradesh,Smartphone,Electronics,3,21431.67,0,0.0,64295.01,Net Banking,Returned
+ORD0614,2025-12-31,Sneha,Delhi,Delhi,Coffee Maker,Home Appliances,5,6527.31,15,4895.48,27741.07,Credit Card,Delivered
+ORD0615,2025-12-03,Ravi,Kolkata,West Bengal,Backpack,Accessories,4,1692.61,0,0.0,6770.44,Credit Card,Delivered
+ORD0616,2025-11-11,Charan,Jaipur,Rajasthan,Laptop,Electronics,5,46786.05,10,23393.03,210537.22,UPI,Returned
+ORD0617,2025-05-22,Meena,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,1,4128.16,0,0.0,4128.16,Net Banking,Delivered
+ORD0618,2025-12-27,Ananya,Jaipur,Rajasthan,Gaming Mouse,Gaming,2,1986.76,10,397.35,3576.17,Cash on Delivery,Delivered
+ORD0619,2025-05-22,Divya,Kochi,Kerala,Smartwatch,Electronics,5,5332.22,5,1333.06,25328.04,Credit Card,Cancelled
+ORD0620,2025-07-28,Ravi,Delhi,Delhi,Monitor,Electronics,5,11426.66,0,0.0,57133.3,Cash on Delivery,Delivered
+ORD0621,2025-09-20,Harsha,Kochi,Kerala,Smartphone,Electronics,3,23966.87,5,3595.03,68305.58,Cash on Delivery,Cancelled
+ORD0622,2025-05-05,Kiran,Kolkata,West Bengal,Smartwatch,Electronics,4,5481.99,10,2192.8,19735.16,Net Banking,Shipped
+ORD0623,2025-02-04,Meena,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6001.15,10,600.12,5401.03,Credit Card,Returned
+ORD0624,2025-09-22,Riya,Chennai,Tamil Nadu,Backpack,Accessories,3,1963.96,10,589.19,5302.69,Debit Card,Delivered
+ORD0625,2025-06-25,Ananya,Mumbai,Maharashtra,Headphones,Electronics,1,2586.85,10,258.69,2328.16,Credit Card,Cancelled
+ORD0626,2025-05-18,Charan,Pune,Maharashtra,Monitor,Electronics,3,12946.36,0,0.0,38839.08,Credit Card,Returned
+ORD0627,2025-05-16,Deepak,Chennai,Tamil Nadu,Monitor,Electronics,2,11380.94,15,3414.28,19347.6,Credit Card,Delivered
+ORD0628,2025-02-24,Arjun,Chennai,Tamil Nadu,Jeans,Fashion,5,1676.16,5,419.04,7961.76,Net Banking,Delivered
+ORD0629,2025-07-10,Sneha,Hyderabad,Telangana,Desk,Furniture,5,7487.21,0,0.0,37436.05,Net Banking,Delivered
+ORD0630,2025-09-19,Harsha,Jaipur,Rajasthan,Coffee Maker,Home Appliances,3,6087.73,10,1826.32,16436.87,Credit Card,Shipped
+ORD0631,2025-08-05,Rahul,Jaipur,Rajasthan,T-Shirt,Fashion,2,904.63,0,0.0,1809.26,UPI,Cancelled
+ORD0632,2025-03-31,Pooja,Pune,Maharashtra,Office Chair,Furniture,4,8816.78,20,7053.42,28213.7,Cash on Delivery,Delivered
+ORD0633,2025-07-14,Sanjay,Pune,Maharashtra,Monitor,Electronics,1,12417.85,0,0.0,12417.85,Debit Card,Delivered
+ORD0634,2025-05-02,Harsha,Jaipur,Rajasthan,Gaming Keyboard,Gaming,3,4543.71,0,0.0,13631.13,Cash on Delivery,Shipped
+ORD0635,2025-08-03,Manoj,Pune,Maharashtra,Gaming Keyboard,Gaming,2,4431.55,10,886.31,7976.79,Net Banking,Delivered
+ORD0636,2025-10-22,Vishnu,Kolkata,West Bengal,Smartwatch,Electronics,2,5094.25,10,1018.85,9169.65,UPI,Delivered
+ORD0637,2025-07-15,Deepak,Mumbai,Maharashtra,Shoes,Fashion,2,3156.62,10,631.32,5681.92,Credit Card,Delivered
+ORD0638,2025-11-19,Ravi,Hyderabad,Telangana,Monitor,Electronics,2,11999.03,10,2399.81,21598.25,Debit Card,Cancelled
+ORD0639,2025-10-18,Aditya,Kolkata,West Bengal,T-Shirt,Fashion,3,911.18,5,136.68,2596.86,UPI,Shipped
+ORD0640,2025-09-01,Varun,Bengaluru,Karnataka,Shoes,Fashion,1,3400.84,0,0.0,3400.84,Net Banking,Delivered
+ORD0641,2025-10-13,Harsha,Pune,Maharashtra,Shoes,Fashion,3,3110.6,5,466.59,8865.21,UPI,Delivered
+ORD0642,2025-11-07,Deepak,Vijayawada,Andhra Pradesh,Gaming Mouse,Gaming,3,2279.02,20,1367.41,5469.65,Cash on Delivery,Cancelled
+ORD0643,2025-06-16,Vishnu,Kochi,Kerala,Backpack,Accessories,2,1722.46,20,688.98,2755.94,Net Banking,Cancelled
+ORD0644,2025-08-26,Varun,Kolkata,West Bengal,T-Shirt,Fashion,1,920.46,10,92.05,828.41,Credit Card,Delivered
+ORD0645,2025-07-27,Ananya,Pune,Maharashtra,Backpack,Accessories,4,1840.43,15,1104.26,6257.46,Credit Card,Delivered
+ORD0646,2025-12-30,Harsha,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,3,4637.71,5,695.66,13217.47,Net Banking,Cancelled
+ORD0647,2025-08-19,Nikhil,Kolkata,West Bengal,Smartwatch,Electronics,3,5595.61,15,2518.02,14268.81,Credit Card,Delivered
+ORD0648,2025-05-09,Ananya,Hyderabad,Telangana,Jeans,Fashion,2,1704.47,15,511.34,2897.6,Credit Card,Delivered
+ORD0649,2025-08-31,Riya,Vijayawada,Andhra Pradesh,Gaming Mouse,Gaming,1,2392.19,0,0.0,2392.19,UPI,Delivered
+ORD0650,2025-02-23,Harsha,Delhi,Delhi,T-Shirt,Fashion,5,989.28,20,989.28,3957.12,Credit Card,Cancelled
+ORD0651,2025-05-26,Pooja,Delhi,Delhi,Smartphone,Electronics,3,20888.54,0,0.0,62665.62,Credit Card,Returned
+ORD0652,2025-07-02,Kiran,Kochi,Kerala,Tablet,Electronics,2,16326.56,0,0.0,32653.12,Net Banking,Shipped
+ORD0653,2025-12-24,Riya,Kochi,Kerala,Jeans,Fashion,3,1780.14,10,534.04,4806.38,Cash on Delivery,Delivered
+ORD0654,2025-11-24,Riya,Kolkata,West Bengal,Desk,Furniture,5,7032.84,10,3516.42,31647.78,Debit Card,Delivered
+ORD0655,2025-06-07,Manoj,Kochi,Kerala,Monitor,Electronics,2,11014.93,20,4405.97,17623.89,Debit Card,Shipped
+ORD0656,2025-03-11,Manoj,Mumbai,Maharashtra,Tablet,Electronics,1,18083.94,0,0.0,18083.94,Net Banking,Delivered
+ORD0657,2025-01-05,Nikhil,Hyderabad,Telangana,Office Chair,Furniture,4,8461.01,20,6768.81,27075.23,Cash on Delivery,Delivered
+ORD0658,2025-10-15,Nikhil,Hyderabad,Telangana,Headphones,Electronics,5,2344.29,5,586.07,11135.38,Credit Card,Shipped
+ORD0659,2025-08-05,Varun,Delhi,Delhi,Tablet,Electronics,4,17146.73,0,0.0,68586.92,Cash on Delivery,Delivered
+ORD0660,2025-09-30,Harsha,Jaipur,Rajasthan,T-Shirt,Fashion,3,926.72,5,139.01,2641.15,Credit Card,Shipped
+ORD0661,2025-11-23,Pooja,Vijayawada,Andhra Pradesh,Jeans,Fashion,2,1724.25,0,0.0,3448.5,Net Banking,Cancelled
+ORD0662,2025-03-19,Aditya,Jaipur,Rajasthan,Smartwatch,Electronics,4,5302.71,0,0.0,21210.84,UPI,Cancelled
+ORD0663,2025-08-13,Aarav,Vijayawada,Andhra Pradesh,Tablet,Electronics,3,16650.14,5,2497.52,47452.9,UPI,Delivered
+ORD0664,2025-06-09,Rahul,Hyderabad,Telangana,Tablet,Electronics,4,17430.89,0,0.0,69723.56,Net Banking,Delivered
+ORD0665,2025-03-16,Aditya,Hyderabad,Telangana,Shoes,Fashion,3,3419.87,0,0.0,10259.61,Net Banking,Delivered
+ORD0666,2025-05-09,Meena,Kochi,Kerala,Smartphone,Electronics,4,20645.65,0,0.0,82582.6,UPI,Delivered
+ORD0667,2025-05-07,Aditya,Chennai,Tamil Nadu,T-Shirt,Fashion,4,985.49,20,788.39,3153.57,Net Banking,Delivered
+ORD0668,2025-08-31,Meena,Vijayawada,Andhra Pradesh,Shoes,Fashion,5,3508.55,15,2631.41,14911.34,Debit Card,Returned
+ORD0669,2025-10-09,Ravi,Pune,Maharashtra,Coffee Maker,Home Appliances,2,6796.71,15,2039.01,11554.41,Debit Card,Delivered
+ORD0670,2025-12-08,Deepak,Mumbai,Maharashtra,Monitor,Electronics,2,12930.05,5,1293.01,24567.09,Credit Card,Delivered
+ORD0671,2025-05-22,Sanjay,Delhi,Delhi,Backpack,Accessories,3,1680.25,0,0.0,5040.75,Net Banking,Delivered
+ORD0672,2025-12-20,Rahul,Chennai,Tamil Nadu,T-Shirt,Fashion,1,914.59,0,0.0,914.59,Cash on Delivery,Returned
+ORD0673,2025-02-16,Vishnu,Pune,Maharashtra,Tablet,Electronics,1,16767.71,0,0.0,16767.71,Debit Card,Cancelled
+ORD0674,2025-12-26,Riya,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6687.95,5,334.4,6353.55,Credit Card,Delivered
+ORD0675,2025-06-27,Pooja,Chennai,Tamil Nadu,Monitor,Electronics,3,12692.55,10,3807.76,34269.89,Credit Card,Returned
+ORD0676,2025-01-21,Rahul,Delhi,Delhi,Laptop,Electronics,3,41712.59,15,18770.67,106367.1,Net Banking,Returned
+ORD0677,2025-10-18,Charan,Mumbai,Maharashtra,Office Chair,Furniture,5,8483.16,15,6362.37,36053.43,Debit Card,Cancelled
+ORD0678,2025-10-11,Charan,Kolkata,West Bengal,Gaming Keyboard,Gaming,3,4798.21,20,2878.93,11515.7,Cash on Delivery,Delivered
+ORD0679,2025-07-07,Pooja,Kolkata,West Bengal,Tablet,Electronics,3,17148.06,20,10288.84,41155.34,Cash on Delivery,Delivered
+ORD0680,2025-11-14,Divya,Bengaluru,Karnataka,Gaming Mouse,Gaming,1,2357.0,10,235.7,2121.3,UPI,Delivered
+ORD0681,2025-09-12,Riya,Kochi,Kerala,Backpack,Accessories,4,1808.67,0,0.0,7234.68,Cash on Delivery,Delivered
+ORD0682,2025-02-19,Ravi,Pune,Maharashtra,Smartwatch,Electronics,4,5304.23,15,3182.54,18034.38,UPI,Returned
+ORD0683,2025-02-24,Rahul,Bengaluru,Karnataka,Laptop,Electronics,2,40781.46,20,16312.58,65250.34,UPI,Delivered
+ORD0684,2025-11-16,Sanjay,Jaipur,Rajasthan,Laptop,Electronics,4,44909.19,15,26945.51,152691.25,UPI,Delivered
+ORD0685,2025-04-17,Varun,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,5,4113.79,15,3085.34,17483.61,UPI,Shipped
+ORD0686,2025-08-01,Manoj,Hyderabad,Telangana,Monitor,Electronics,3,12584.35,10,3775.3,33977.75,UPI,Returned
+ORD0687,2025-02-06,Kavya,Jaipur,Rajasthan,Jeans,Fashion,3,1634.64,10,490.39,4413.53,Credit Card,Delivered
+ORD0688,2025-07-17,Deepak,Vijayawada,Andhra Pradesh,Office Chair,Furniture,1,8042.73,15,1206.41,6836.32,Cash on Delivery,Delivered
+ORD0689,2025-10-13,Riya,Chennai,Tamil Nadu,Backpack,Accessories,5,1961.1,15,1470.83,8334.67,UPI,Shipped
+ORD0690,2025-12-07,Nikhil,Jaipur,Rajasthan,T-Shirt,Fashion,3,892.57,15,401.66,2276.05,Credit Card,Delivered
+ORD0691,2025-12-03,Charan,Bengaluru,Karnataka,T-Shirt,Fashion,5,900.84,10,450.42,4053.78,Cash on Delivery,Cancelled
+ORD0692,2025-06-16,Manoj,Pune,Maharashtra,Monitor,Electronics,3,13179.51,10,3953.85,35584.68,Net Banking,Shipped
+ORD0693,2025-04-20,Meena,Pune,Maharashtra,Jeans,Fashion,5,1822.73,0,0.0,9113.65,Debit Card,Cancelled
+ORD0694,2025-01-18,Kavya,Kolkata,West Bengal,Gaming Keyboard,Gaming,4,4050.18,10,1620.07,14580.65,UPI,Cancelled
+ORD0695,2025-04-24,Deepak,Bengaluru,Karnataka,Office Chair,Furniture,3,8160.57,0,0.0,24481.71,UPI,Delivered
+ORD0696,2025-10-20,Bhavya,Mumbai,Maharashtra,T-Shirt,Fashion,5,910.14,10,455.07,4095.63,UPI,Delivered
+ORD0697,2025-10-26,Divya,Pune,Maharashtra,Monitor,Electronics,2,11435.97,0,0.0,22871.94,Debit Card,Delivered
+ORD0698,2025-04-22,Ananya,Mumbai,Maharashtra,T-Shirt,Fashion,1,881.96,10,88.2,793.76,Debit Card,Returned
+ORD0699,2025-12-20,Sanjay,Kolkata,West Bengal,T-Shirt,Fashion,2,958.63,10,191.73,1725.53,Cash on Delivery,Delivered
+ORD0700,2025-07-15,Ananya,Mumbai,Maharashtra,Backpack,Accessories,1,1911.0,15,286.65,1624.35,Debit Card,Delivered
+ORD0701,2025-04-27,Varun,Delhi,Delhi,Gaming Keyboard,Gaming,4,4158.49,20,3326.79,13307.17,UPI,Cancelled
+ORD0702,2025-06-13,Riya,Delhi,Delhi,Backpack,Accessories,1,1808.78,5,90.44,1718.34,Credit Card,Cancelled
+ORD0703,2025-07-21,Pooja,Kochi,Kerala,Gaming Keyboard,Gaming,2,4095.47,0,0.0,8190.94,Cash on Delivery,Cancelled
+ORD0704,2025-07-21,Bhavya,Vijayawada,Andhra Pradesh,Office Chair,Furniture,2,8142.63,10,1628.53,14656.73,Debit Card,Delivered
+ORD0705,2025-07-24,Harsha,Kolkata,West Bengal,Smartphone,Electronics,5,20016.97,15,15012.73,85072.12,Net Banking,Delivered
+ORD0706,2025-10-14,Deepak,Delhi,Delhi,Office Chair,Furniture,2,7879.28,20,3151.71,12606.85,Net Banking,Shipped
+ORD0707,2025-09-26,Divya,Jaipur,Rajasthan,Backpack,Accessories,2,1841.76,10,368.35,3315.17,UPI,Delivered
+ORD0708,2025-02-15,Arjun,Delhi,Delhi,Smartwatch,Electronics,3,5966.55,15,2684.95,15214.7,Net Banking,Returned
+ORD0709,2025-11-01,Varun,Pune,Maharashtra,Gaming Mouse,Gaming,3,2121.12,0,0.0,6363.36,Debit Card,Delivered
+ORD0710,2025-08-15,Sneha,Pune,Maharashtra,Tablet,Electronics,5,19764.57,20,19764.57,79058.28,Net Banking,Delivered
+ORD0711,2025-02-13,Arjun,Chennai,Tamil Nadu,Laptop,Electronics,2,43864.39,15,13159.32,74569.46,UPI,Returned
+ORD0712,2025-05-28,Aarav,Jaipur,Rajasthan,Headphones,Electronics,2,2666.22,20,1066.49,4265.95,UPI,Delivered
+ORD0713,2025-10-03,Deepak,Kolkata,West Bengal,Smartwatch,Electronics,4,5315.06,0,0.0,21260.24,Cash on Delivery,Delivered
+ORD0714,2025-03-14,Vishnu,Mumbai,Maharashtra,Office Chair,Furniture,5,8709.17,10,4354.59,39191.26,Net Banking,Delivered
+ORD0715,2025-05-26,Deepak,Kochi,Kerala,Desk,Furniture,1,6538.45,5,326.92,6211.53,Cash on Delivery,Returned
+ORD0716,2025-02-04,Meena,Hyderabad,Telangana,Smartwatch,Electronics,4,5989.69,15,3593.81,20364.95,Debit Card,Returned
+ORD0717,2025-11-29,Meena,Pune,Maharashtra,Backpack,Accessories,1,1725.3,0,0.0,1725.3,Net Banking,Delivered
+ORD0718,2025-09-30,Ananya,Vijayawada,Andhra Pradesh,Office Chair,Furniture,3,9123.51,10,2737.05,24633.48,Credit Card,Delivered
+ORD0719,2025-05-07,Ravi,Kolkata,West Bengal,Office Chair,Furniture,5,7686.53,15,5764.9,32667.75,Debit Card,Delivered
+ORD0720,2025-06-30,Manoj,Delhi,Delhi,Monitor,Electronics,2,11632.27,0,0.0,23264.54,Debit Card,Returned
+ORD0721,2025-05-12,Meena,Kochi,Kerala,Headphones,Electronics,3,2281.0,20,1368.6,5474.4,Cash on Delivery,Delivered
+ORD0722,2025-12-03,Bhavya,Chennai,Tamil Nadu,Smartwatch,Electronics,2,5936.89,5,593.69,11280.09,Net Banking,Delivered
+ORD0723,2025-03-20,Nikhil,Jaipur,Rajasthan,Office Chair,Furniture,2,8058.61,10,1611.72,14505.5,Cash on Delivery,Delivered
+ORD0724,2025-03-12,Sanjay,Kolkata,West Bengal,Gaming Keyboard,Gaming,5,4236.08,0,0.0,21180.4,Credit Card,Cancelled
+ORD0725,2025-09-26,Bhavya,Bengaluru,Karnataka,Jeans,Fashion,3,1873.85,15,843.23,4778.32,Credit Card,Shipped
+ORD0726,2025-09-30,Arjun,Jaipur,Rajasthan,Backpack,Accessories,2,1644.41,5,164.44,3124.38,Debit Card,Delivered
+ORD0727,2025-07-31,Nikhil,Bengaluru,Karnataka,Jeans,Fashion,1,1734.73,20,346.95,1387.78,Net Banking,Delivered
+ORD0728,2025-03-09,Charan,Mumbai,Maharashtra,Shoes,Fashion,2,3000.28,20,1200.11,4800.45,Cash on Delivery,Delivered
+ORD0729,2025-11-02,Divya,Mumbai,Maharashtra,Desk,Furniture,5,7157.31,10,3578.66,32207.89,UPI,Delivered
+ORD0730,2025-11-06,Rahul,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,4,4502.09,0,0.0,18008.36,Debit Card,Returned
+ORD0731,2025-04-09,Divya,Delhi,Delhi,Tablet,Electronics,4,16695.05,10,6678.02,60102.18,Net Banking,Delivered
+ORD0732,2025-12-10,Deepak,Hyderabad,Telangana,T-Shirt,Fashion,3,850.06,10,255.02,2295.16,UPI,Delivered
+ORD0733,2025-08-23,Divya,Kolkata,West Bengal,Tablet,Electronics,5,18676.31,10,9338.16,84043.39,Net Banking,Shipped
+ORD0734,2025-06-10,Meena,Hyderabad,Telangana,T-Shirt,Fashion,5,958.38,15,718.78,4073.12,Cash on Delivery,Cancelled
+ORD0735,2025-01-20,Ravi,Kochi,Kerala,Desk,Furniture,5,7526.1,15,5644.57,31985.93,Net Banking,Delivered
+ORD0736,2025-01-21,Riya,Hyderabad,Telangana,Monitor,Electronics,2,12090.89,10,2418.18,21763.6,Cash on Delivery,Shipped
+ORD0737,2025-06-05,Kavya,Hyderabad,Telangana,T-Shirt,Fashion,2,889.12,5,88.91,1689.33,Credit Card,Shipped
+ORD0738,2025-03-14,Pooja,Mumbai,Maharashtra,Gaming Mouse,Gaming,5,2283.58,0,0.0,11417.9,Net Banking,Returned
+ORD0739,2025-12-23,Riya,Kochi,Kerala,Smartphone,Electronics,1,23226.42,0,0.0,23226.42,Net Banking,Delivered
+ORD0740,2025-10-30,Deepak,Pune,Maharashtra,Gaming Mouse,Gaming,4,2058.71,0,0.0,8234.84,UPI,Shipped
+ORD0741,2025-02-16,Arjun,Pune,Maharashtra,Smartwatch,Electronics,2,5756.59,15,1726.98,9786.2,Net Banking,Returned
+ORD0742,2025-09-19,Sneha,Pune,Maharashtra,Backpack,Accessories,1,1874.62,10,187.46,1687.16,Net Banking,Delivered
+ORD0743,2025-06-21,Sanjay,Delhi,Delhi,Office Chair,Furniture,1,7940.5,20,1588.1,6352.4,Credit Card,Returned
+ORD0744,2025-08-03,Kavya,Bengaluru,Karnataka,Tablet,Electronics,2,18763.37,20,7505.35,30021.39,Net Banking,Delivered
+ORD0745,2025-01-02,Sneha,Bengaluru,Karnataka,Smartwatch,Electronics,1,6006.48,0,0.0,6006.48,UPI,Delivered
+ORD0746,2025-11-08,Rahul,Kolkata,West Bengal,Monitor,Electronics,4,12737.89,10,5095.16,45856.4,Credit Card,Delivered
+ORD0747,2025-11-04,Sneha,Kolkata,West Bengal,Desk,Furniture,4,6918.63,10,2767.45,24907.07,Credit Card,Delivered
+ORD0748,2025-04-17,Aditya,Kochi,Kerala,Coffee Maker,Home Appliances,3,6667.23,10,2000.17,18001.52,Credit Card,Delivered
+ORD0749,2025-12-08,Sanjay,Pune,Maharashtra,Laptop,Electronics,1,48184.46,0,0.0,48184.46,Debit Card,Cancelled
+ORD0750,2025-04-02,Charan,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,1,4425.26,0,0.0,4425.26,Debit Card,Returned
+ORD0751,2025-08-22,Sanjay,Jaipur,Rajasthan,Desk,Furniture,5,7087.05,20,7087.05,28348.2,UPI,Delivered
+ORD0752,2025-02-04,Nikhil,Mumbai,Maharashtra,Smartphone,Electronics,3,23749.13,5,3562.37,67685.02,UPI,Cancelled
+ORD0753,2025-05-21,Kiran,Kolkata,West Bengal,Smartwatch,Electronics,2,5714.08,0,0.0,11428.16,Net Banking,Cancelled
+ORD0754,2025-10-20,Varun,Chennai,Tamil Nadu,Office Chair,Furniture,2,7748.91,10,1549.78,13948.04,UPI,Cancelled
+ORD0755,2025-06-12,Harsha,Jaipur,Rajasthan,Monitor,Electronics,3,12261.23,10,3678.37,33105.32,Cash on Delivery,Cancelled
+ORD0756,2025-09-24,Varun,Pune,Maharashtra,Desk,Furniture,2,7087.69,10,1417.54,12757.84,Net Banking,Shipped
+ORD0757,2025-04-10,Aarav,Bengaluru,Karnataka,T-Shirt,Fashion,5,937.55,0,0.0,4687.75,UPI,Delivered
+ORD0758,2025-08-01,Nikhil,Vijayawada,Andhra Pradesh,Monitor,Electronics,2,12276.74,20,4910.7,19642.78,Debit Card,Delivered
+ORD0759,2025-12-20,Kavya,Kochi,Kerala,Gaming Keyboard,Gaming,2,4626.56,0,0.0,9253.12,UPI,Delivered
+ORD0760,2025-01-04,Arjun,Mumbai,Maharashtra,Smartwatch,Electronics,5,5306.32,10,2653.16,23878.44,Debit Card,Returned
+ORD0761,2025-03-31,Deepak,Delhi,Delhi,Gaming Keyboard,Gaming,5,4914.1,10,2457.05,22113.45,Debit Card,Delivered
+ORD0762,2025-03-11,Rahul,Kolkata,West Bengal,Coffee Maker,Home Appliances,4,5896.23,20,4716.98,18867.94,Net Banking,Delivered
+ORD0763,2025-07-31,Aditya,Kochi,Kerala,Coffee Maker,Home Appliances,3,6869.19,10,2060.76,18546.81,Debit Card,Cancelled
+ORD0764,2025-10-23,Vishnu,Pune,Maharashtra,Desk,Furniture,5,6326.21,10,3163.11,28467.94,Debit Card,Delivered
+ORD0765,2025-07-12,Varun,Bengaluru,Karnataka,Smartphone,Electronics,3,19937.16,20,11962.3,47849.18,Credit Card,Cancelled
+ORD0766,2025-06-07,Kiran,Jaipur,Rajasthan,Desk,Furniture,4,7133.27,0,0.0,28533.08,UPI,Returned
+ORD0767,2025-07-10,Pooja,Delhi,Delhi,Smartwatch,Electronics,1,5914.75,10,591.48,5323.27,Credit Card,Delivered
+ORD0768,2025-01-20,Deepak,Mumbai,Maharashtra,Office Chair,Furniture,2,8286.17,0,0.0,16572.34,Net Banking,Delivered
+ORD0769,2025-06-24,Rahul,Hyderabad,Telangana,Office Chair,Furniture,4,7911.93,10,3164.77,28482.95,Cash on Delivery,Returned
+ORD0770,2025-09-22,Vishnu,Pune,Maharashtra,Smartwatch,Electronics,2,5908.98,20,2363.59,9454.37,Credit Card,Delivered
+ORD0771,2025-09-25,Arjun,Hyderabad,Telangana,Shoes,Fashion,4,3336.75,10,1334.7,12012.3,Debit Card,Delivered
+ORD0772,2025-08-28,Aditya,Hyderabad,Telangana,Coffee Maker,Home Appliances,5,5963.2,20,5963.2,23852.8,Cash on Delivery,Delivered
+ORD0773,2025-11-24,Deepak,Mumbai,Maharashtra,T-Shirt,Fashion,1,946.53,10,94.65,851.88,Credit Card,Delivered
+ORD0774,2025-08-14,Vishnu,Mumbai,Maharashtra,Headphones,Electronics,3,2409.57,10,722.87,6505.84,Debit Card,Delivered
+ORD0775,2025-11-15,Riya,Bengaluru,Karnataka,Tablet,Electronics,3,16254.92,0,0.0,48764.76,UPI,Cancelled
+ORD0776,2025-03-14,Kavya,Kochi,Kerala,Headphones,Electronics,3,2409.24,10,722.77,6504.95,Credit Card,Cancelled
+ORD0777,2025-10-04,Pooja,Vijayawada,Andhra Pradesh,Tablet,Electronics,3,19412.08,10,5823.62,52412.62,Credit Card,Delivered
+ORD0778,2025-02-14,Nikhil,Kolkata,West Bengal,Laptop,Electronics,1,43952.4,0,0.0,43952.4,Credit Card,Shipped
+ORD0779,2025-12-25,Pooja,Jaipur,Rajasthan,Shoes,Fashion,5,3415.15,15,2561.36,14514.39,Debit Card,Cancelled
+ORD0780,2025-10-01,Ananya,Pune,Maharashtra,Smartwatch,Electronics,2,5784.24,15,1735.27,9833.21,Cash on Delivery,Shipped
+ORD0781,2025-12-17,Varun,Vijayawada,Andhra Pradesh,Tablet,Electronics,4,17840.1,0,0.0,71360.4,Net Banking,Returned
+ORD0782,2025-11-12,Harsha,Chennai,Tamil Nadu,Monitor,Electronics,2,12866.63,0,0.0,25733.26,Net Banking,Delivered
+ORD0783,2025-02-03,Rahul,Pune,Maharashtra,Tablet,Electronics,3,17955.02,10,5386.51,48478.55,Debit Card,Delivered
+ORD0784,2025-11-06,Sanjay,Kolkata,West Bengal,Monitor,Electronics,2,12643.06,5,1264.31,24021.81,Cash on Delivery,Delivered
+ORD0785,2025-02-06,Kavya,Delhi,Delhi,Smartphone,Electronics,1,22247.06,5,1112.35,21134.71,Net Banking,Cancelled
+ORD0786,2025-10-08,Charan,Jaipur,Rajasthan,Gaming Mouse,Gaming,4,2253.18,0,0.0,9012.72,Net Banking,Shipped
+ORD0787,2025-08-09,Nikhil,Pune,Maharashtra,Smartphone,Electronics,2,22853.86,20,9141.54,36566.18,Debit Card,Cancelled
+ORD0788,2025-12-31,Sanjay,Chennai,Tamil Nadu,Office Chair,Furniture,2,8788.33,15,2636.5,14940.16,UPI,Shipped
+ORD0789,2025-08-16,Charan,Jaipur,Rajasthan,Desk,Furniture,4,7077.12,5,1415.42,26893.06,Net Banking,Delivered
+ORD0790,2025-07-14,Kiran,Jaipur,Rajasthan,Smartphone,Electronics,1,23381.89,15,3507.28,19874.61,UPI,Shipped
+ORD0791,2025-11-22,Aarav,Chennai,Tamil Nadu,Smartphone,Electronics,2,23774.33,10,4754.87,42793.79,Credit Card,Delivered
+ORD0792,2025-08-17,Deepak,Kochi,Kerala,Monitor,Electronics,3,12277.37,10,3683.21,33148.9,Debit Card,Delivered
+ORD0793,2025-06-26,Ananya,Jaipur,Rajasthan,Smartwatch,Electronics,3,5739.57,10,1721.87,15496.84,UPI,Cancelled
+ORD0794,2025-05-31,Aditya,Kochi,Kerala,Desk,Furniture,4,6478.58,20,5182.86,20731.46,Cash on Delivery,Delivered
+ORD0795,2025-02-26,Kavya,Hyderabad,Telangana,Laptop,Electronics,5,49308.27,20,49308.27,197233.08,Credit Card,Delivered
+ORD0796,2025-07-15,Meena,Jaipur,Rajasthan,Gaming Mouse,Gaming,4,2119.98,15,1271.99,7207.93,Net Banking,Shipped
+ORD0797,2025-10-12,Meena,Chennai,Tamil Nadu,Office Chair,Furniture,2,7886.42,10,1577.28,14195.56,Net Banking,Delivered
+ORD0798,2025-11-28,Aarav,Mumbai,Maharashtra,Tablet,Electronics,2,16241.77,0,0.0,32483.54,Net Banking,Delivered
+ORD0799,2025-08-01,Pooja,Delhi,Delhi,Backpack,Accessories,2,1669.4,0,0.0,3338.8,Cash on Delivery,Returned
+ORD0800,2025-08-06,Riya,Delhi,Delhi,Coffee Maker,Home Appliances,5,6440.71,0,0.0,32203.55,Net Banking,Shipped
+ORD0801,2025-10-23,Rahul,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,2,4594.12,10,918.82,8269.42,Credit Card,Returned
+ORD0802,2025-10-23,Manoj,Kochi,Kerala,Shoes,Fashion,3,3473.0,10,1041.9,9377.1,UPI,Delivered
+ORD0803,2025-12-20,Ananya,Kolkata,West Bengal,Desk,Furniture,3,7112.38,0,0.0,21337.14,Cash on Delivery,Delivered
+ORD0804,2025-11-09,Ananya,Mumbai,Maharashtra,Jeans,Fashion,4,1648.16,10,659.26,5933.38,Net Banking,Delivered
+ORD0805,2025-11-10,Aditya,Vijayawada,Andhra Pradesh,Backpack,Accessories,5,1828.67,20,1828.67,7314.68,Cash on Delivery,Delivered
+ORD0806,2025-08-29,Sanjay,Hyderabad,Telangana,T-Shirt,Fashion,4,902.28,10,360.91,3248.21,Debit Card,Returned
+ORD0807,2025-12-22,Sneha,Pune,Maharashtra,Gaming Mouse,Gaming,3,2053.7,5,308.05,5853.05,Debit Card,Returned
+ORD0808,2025-10-24,Charan,Jaipur,Rajasthan,Shoes,Fashion,3,3282.75,0,0.0,9848.25,UPI,Cancelled
+ORD0809,2025-02-12,Bhavya,Mumbai,Maharashtra,Backpack,Accessories,5,1723.25,0,0.0,8616.25,UPI,Cancelled
+ORD0810,2025-05-21,Harsha,Mumbai,Maharashtra,Jeans,Fashion,3,1841.69,0,0.0,5525.07,UPI,Delivered
+ORD0811,2025-08-17,Manoj,Bengaluru,Karnataka,Desk,Furniture,5,6511.59,15,4883.69,27674.26,Debit Card,Delivered
+ORD0812,2025-01-17,Kiran,Chennai,Tamil Nadu,T-Shirt,Fashion,4,953.89,0,0.0,3815.56,Credit Card,Delivered
+ORD0813,2025-07-16,Divya,Bengaluru,Karnataka,Desk,Furniture,4,7691.02,20,6152.82,24611.26,Net Banking,Returned
+ORD0814,2025-06-26,Aditya,Bengaluru,Karnataka,Shoes,Fashion,2,3349.99,10,670.0,6029.98,Debit Card,Returned
+ORD0815,2025-09-01,Kavya,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,1,893.52,0,0.0,893.52,Cash on Delivery,Shipped
+ORD0816,2025-09-29,Nikhil,Delhi,Delhi,Headphones,Electronics,4,2381.31,10,952.52,8572.72,Debit Card,Delivered
+ORD0817,2025-09-29,Vishnu,Kolkata,West Bengal,Coffee Maker,Home Appliances,4,6260.4,15,3756.24,21285.36,UPI,Delivered
+ORD0818,2025-11-30,Harsha,Kochi,Kerala,Coffee Maker,Home Appliances,3,6411.32,20,3846.79,15387.17,Debit Card,Delivered
+ORD0819,2025-08-25,Vishnu,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,3,5592.59,15,2516.67,14261.1,Credit Card,Returned
+ORD0820,2025-12-20,Charan,Jaipur,Rajasthan,Shoes,Fashion,2,3095.94,10,619.19,5572.69,Cash on Delivery,Delivered
+ORD0821,2025-09-26,Arjun,Hyderabad,Telangana,Laptop,Electronics,1,44201.24,0,0.0,44201.24,Net Banking,Returned
+ORD0822,2025-01-13,Sneha,Chennai,Tamil Nadu,Gaming Keyboard,Gaming,3,4223.77,5,633.57,12037.74,UPI,Delivered
+ORD0823,2025-03-03,Ananya,Chennai,Tamil Nadu,Desk,Furniture,5,6470.51,15,4852.88,27499.67,Credit Card,Cancelled
+ORD0824,2025-05-10,Kavya,Jaipur,Rajasthan,Gaming Mouse,Gaming,2,2286.09,0,0.0,4572.18,UPI,Shipped
+ORD0825,2025-12-08,Kiran,Kolkata,West Bengal,Backpack,Accessories,3,1773.71,20,1064.23,4256.9,Credit Card,Delivered
+ORD0826,2025-07-18,Kiran,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,3,821.23,20,492.74,1970.95,Debit Card,Delivered
+ORD0827,2025-04-13,Sneha,Mumbai,Maharashtra,Jeans,Fashion,2,1644.98,10,329.0,2960.96,Credit Card,Shipped
+ORD0828,2025-08-09,Deepak,Kolkata,West Bengal,Backpack,Accessories,1,1814.63,0,0.0,1814.63,UPI,Cancelled
+ORD0829,2025-02-06,Sanjay,Kolkata,West Bengal,Coffee Maker,Home Appliances,3,5895.32,0,0.0,17685.96,Debit Card,Returned
+ORD0830,2025-11-24,Aarav,Kolkata,West Bengal,T-Shirt,Fashion,1,836.79,10,83.68,753.11,Net Banking,Delivered
+ORD0831,2025-09-21,Rahul,Bengaluru,Karnataka,Smartwatch,Electronics,3,5582.1,10,1674.63,15071.67,Net Banking,Shipped
+ORD0832,2025-12-19,Rahul,Vijayawada,Andhra Pradesh,Gaming Mouse,Gaming,5,1981.46,0,0.0,9907.3,Cash on Delivery,Delivered
+ORD0833,2025-01-29,Varun,Pune,Maharashtra,Office Chair,Furniture,3,8164.81,15,3674.16,20820.27,UPI,Returned
+ORD0834,2025-05-29,Varun,Kochi,Kerala,Gaming Keyboard,Gaming,3,4807.06,0,0.0,14421.18,Credit Card,Delivered
+ORD0835,2025-12-23,Meena,Hyderabad,Telangana,Office Chair,Furniture,4,7974.71,15,4784.83,27114.01,Debit Card,Delivered
+ORD0836,2025-01-19,Deepak,Vijayawada,Andhra Pradesh,Monitor,Electronics,4,11254.71,15,6752.83,38266.01,Cash on Delivery,Delivered
+ORD0837,2025-11-26,Kavya,Kolkata,West Bengal,Headphones,Electronics,4,2646.37,0,0.0,10585.48,Cash on Delivery,Shipped
+ORD0838,2025-06-22,Aditya,Kolkata,West Bengal,Jeans,Fashion,1,1742.14,0,0.0,1742.14,UPI,Shipped
+ORD0839,2025-10-02,Bhavya,Kochi,Kerala,Headphones,Electronics,4,2685.1,15,1611.06,9129.34,Cash on Delivery,Returned
+ORD0840,2025-12-01,Aarav,Vijayawada,Andhra Pradesh,Headphones,Electronics,1,2320.8,15,348.12,1972.68,Cash on Delivery,Shipped
+ORD0841,2025-01-26,Kavya,Chennai,Tamil Nadu,Laptop,Electronics,2,42050.24,0,0.0,84100.48,Net Banking,Delivered
+ORD0842,2025-02-24,Arjun,Bengaluru,Karnataka,Desk,Furniture,5,7444.92,0,0.0,37224.6,Cash on Delivery,Shipped
+ORD0843,2025-08-07,Kiran,Jaipur,Rajasthan,T-Shirt,Fashion,2,954.8,0,0.0,1909.6,Net Banking,Returned
+ORD0844,2025-04-20,Aditya,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,5,4173.6,10,2086.8,18781.2,Credit Card,Cancelled
+ORD0845,2025-08-01,Charan,Vijayawada,Andhra Pradesh,Gaming Keyboard,Gaming,1,4177.11,5,208.86,3968.25,Debit Card,Returned
+ORD0846,2025-01-21,Bhavya,Bengaluru,Karnataka,Office Chair,Furniture,4,9223.65,0,0.0,36894.6,Cash on Delivery,Delivered
+ORD0847,2025-01-04,Charan,Bengaluru,Karnataka,Gaming Mouse,Gaming,1,2015.52,10,201.55,1813.97,Cash on Delivery,Delivered
+ORD0848,2025-09-01,Bhavya,Mumbai,Maharashtra,Coffee Maker,Home Appliances,4,6899.64,15,4139.78,23458.78,Credit Card,Delivered
+ORD0849,2025-03-31,Sneha,Mumbai,Maharashtra,Backpack,Accessories,5,1768.33,10,884.16,7957.49,UPI,Returned
+ORD0850,2025-11-18,Kavya,Bengaluru,Karnataka,Desk,Furniture,4,7630.42,10,3052.17,27469.51,Net Banking,Delivered
+ORD0851,2025-09-29,Arjun,Kochi,Kerala,Laptop,Electronics,2,41557.57,0,0.0,83115.14,Debit Card,Cancelled
+ORD0852,2025-11-17,Vishnu,Kochi,Kerala,Jeans,Fashion,5,1787.12,0,0.0,8935.6,Debit Card,Delivered
+ORD0853,2025-08-31,Rahul,Chennai,Tamil Nadu,Laptop,Electronics,1,41842.96,20,8368.59,33474.37,Credit Card,Delivered
+ORD0854,2025-04-18,Nikhil,Hyderabad,Telangana,Backpack,Accessories,1,1751.11,15,262.67,1488.44,Debit Card,Delivered
+ORD0855,2025-10-03,Charan,Kolkata,West Bengal,Desk,Furniture,1,7336.58,0,0.0,7336.58,UPI,Delivered
+ORD0856,2025-08-16,Sanjay,Kochi,Kerala,Monitor,Electronics,1,12948.19,0,0.0,12948.19,Debit Card,Cancelled
+ORD0857,2025-06-16,Divya,Chennai,Tamil Nadu,Gaming Mouse,Gaming,3,2322.75,0,0.0,6968.25,Credit Card,Delivered
+ORD0858,2025-02-07,Rahul,Delhi,Delhi,Shoes,Fashion,2,3450.47,10,690.09,6210.85,Net Banking,Cancelled
+ORD0859,2025-08-21,Charan,Delhi,Delhi,Laptop,Electronics,2,48850.98,0,0.0,97701.96,Debit Card,Shipped
+ORD0860,2025-05-19,Deepak,Kolkata,West Bengal,Tablet,Electronics,2,17490.92,15,5247.28,29734.56,Credit Card,Delivered
+ORD0861,2025-08-27,Pooja,Jaipur,Rajasthan,Laptop,Electronics,1,41728.51,5,2086.43,39642.08,Credit Card,Shipped
+ORD0862,2025-11-23,Sneha,Pune,Maharashtra,T-Shirt,Fashion,2,918.65,5,91.86,1745.44,Cash on Delivery,Delivered
+ORD0863,2025-09-08,Deepak,Chennai,Tamil Nadu,Office Chair,Furniture,1,9106.86,10,910.69,8196.17,Net Banking,Cancelled
+ORD0864,2025-05-07,Divya,Kolkata,West Bengal,Jeans,Fashion,3,1882.81,0,0.0,5648.43,Net Banking,Delivered
+ORD0865,2025-01-03,Nikhil,Chennai,Tamil Nadu,Desk,Furniture,5,7579.26,0,0.0,37896.3,UPI,Delivered
+ORD0866,2025-09-03,Arjun,Kochi,Kerala,Monitor,Electronics,1,12074.69,10,1207.47,10867.22,Net Banking,Shipped
+ORD0867,2025-07-28,Deepak,Vijayawada,Andhra Pradesh,Headphones,Electronics,5,2256.21,20,2256.21,9024.84,Debit Card,Delivered
+ORD0868,2025-06-06,Charan,Chennai,Tamil Nadu,Smartwatch,Electronics,1,5477.76,0,0.0,5477.76,Net Banking,Returned
+ORD0869,2025-08-26,Bhavya,Jaipur,Rajasthan,Jeans,Fashion,5,1971.51,0,0.0,9857.55,Net Banking,Returned
+ORD0870,2025-11-18,Ananya,Pune,Maharashtra,Tablet,Electronics,4,18480.25,15,11088.15,62832.85,Debit Card,Shipped
+ORD0871,2025-12-24,Sneha,Hyderabad,Telangana,Office Chair,Furniture,3,8929.91,10,2678.97,24110.76,Cash on Delivery,Cancelled
+ORD0872,2025-01-29,Ravi,Chennai,Tamil Nadu,T-Shirt,Fashion,1,968.55,10,96.86,871.69,Debit Card,Returned
+ORD0873,2025-11-13,Aditya,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6325.27,10,632.53,5692.74,Debit Card,Delivered
+ORD0874,2025-04-15,Bhavya,Kochi,Kerala,Tablet,Electronics,1,18753.61,10,1875.36,16878.25,Credit Card,Delivered
+ORD0875,2025-10-25,Deepak,Vijayawada,Andhra Pradesh,Office Chair,Furniture,4,9246.55,15,5547.93,31438.27,Credit Card,Returned
+ORD0876,2025-05-22,Aditya,Pune,Maharashtra,Gaming Keyboard,Gaming,3,4662.2,10,1398.66,12587.94,Debit Card,Delivered
+ORD0877,2025-03-04,Rahul,Kolkata,West Bengal,Gaming Keyboard,Gaming,4,4524.01,10,1809.6,16286.44,Cash on Delivery,Returned
+ORD0878,2025-12-11,Ananya,Kochi,Kerala,Backpack,Accessories,3,1843.54,10,553.06,4977.56,Net Banking,Delivered
+ORD0879,2025-02-09,Arjun,Vijayawada,Andhra Pradesh,Smartphone,Electronics,4,21068.84,0,0.0,84275.36,Debit Card,Delivered
+ORD0880,2025-09-24,Varun,Bengaluru,Karnataka,Smartphone,Electronics,4,23649.97,0,0.0,94599.88,Debit Card,Delivered
+ORD0881,2025-08-16,Varun,Kochi,Kerala,Gaming Mouse,Gaming,2,2132.55,10,426.51,3838.59,Debit Card,Delivered
+ORD0882,2025-09-24,Varun,Vijayawada,Andhra Pradesh,Headphones,Electronics,1,2650.99,20,530.2,2120.79,Net Banking,Delivered
+ORD0883,2025-12-23,Ravi,Pune,Maharashtra,Desk,Furniture,3,7130.7,10,2139.21,19252.89,Net Banking,Cancelled
+ORD0884,2025-06-06,Charan,Mumbai,Maharashtra,Monitor,Electronics,5,12955.88,0,0.0,64779.4,Credit Card,Delivered
+ORD0885,2025-03-17,Manoj,Pune,Maharashtra,Monitor,Electronics,3,12829.23,20,7697.54,30790.15,Net Banking,Delivered
+ORD0886,2025-04-04,Charan,Jaipur,Rajasthan,Tablet,Electronics,2,18127.14,15,5438.14,30816.14,Credit Card,Returned
+ORD0887,2025-10-22,Bhavya,Chennai,Tamil Nadu,Tablet,Electronics,1,19777.58,0,0.0,19777.58,Debit Card,Shipped
+ORD0888,2025-12-07,Kiran,Bengaluru,Karnataka,Gaming Keyboard,Gaming,2,4686.42,10,937.28,8435.56,Credit Card,Delivered
+ORD0889,2025-03-04,Aarav,Kolkata,West Bengal,Gaming Keyboard,Gaming,5,4530.28,0,0.0,22651.4,Net Banking,Shipped
+ORD0890,2025-10-07,Ravi,Bengaluru,Karnataka,T-Shirt,Fashion,4,838.09,5,167.62,3184.74,Debit Card,Delivered
+ORD0891,2025-10-17,Pooja,Mumbai,Maharashtra,Monitor,Electronics,5,11153.0,15,8364.75,47400.25,UPI,Delivered
+ORD0892,2025-03-01,Kavya,Kolkata,West Bengal,Shoes,Fashion,1,3313.93,0,0.0,3313.93,Net Banking,Delivered
+ORD0893,2025-01-29,Sneha,Chennai,Tamil Nadu,Desk,Furniture,4,6429.47,5,1285.89,24431.99,Credit Card,Returned
+ORD0894,2025-05-23,Deepak,Kochi,Kerala,Desk,Furniture,2,7609.93,20,3043.97,12175.89,UPI,Delivered
+ORD0895,2025-09-09,Kiran,Kolkata,West Bengal,Office Chair,Furniture,1,8320.52,10,832.05,7488.47,Cash on Delivery,Cancelled
+ORD0896,2025-08-07,Manoj,Hyderabad,Telangana,Office Chair,Furniture,3,7901.51,10,2370.45,21334.08,Debit Card,Shipped
+ORD0897,2025-08-17,Riya,Mumbai,Maharashtra,Laptop,Electronics,3,43272.77,5,6490.92,123327.39,Credit Card,Delivered
+ORD0898,2025-03-25,Nikhil,Kolkata,West Bengal,Shoes,Fashion,4,3163.2,20,2530.56,10122.24,Net Banking,Returned
+ORD0899,2025-06-05,Rahul,Jaipur,Rajasthan,Tablet,Electronics,5,16717.1,0,0.0,83585.5,Debit Card,Cancelled
+ORD0900,2025-11-24,Harsha,Jaipur,Rajasthan,Smartphone,Electronics,4,19829.12,0,0.0,79316.48,Credit Card,Shipped
+ORD0901,2025-04-13,Charan,Kolkata,West Bengal,Office Chair,Furniture,5,9205.28,20,9205.28,36821.12,Debit Card,Shipped
+ORD0902,2025-10-27,Kavya,Kolkata,West Bengal,Office Chair,Furniture,1,9054.62,20,1810.92,7243.7,Cash on Delivery,Shipped
+ORD0903,2025-03-20,Harsha,Kolkata,West Bengal,Shoes,Fashion,2,3386.38,0,0.0,6772.76,Net Banking,Delivered
+ORD0904,2025-12-19,Varun,Mumbai,Maharashtra,Smartphone,Electronics,4,21964.3,0,0.0,87857.2,UPI,Delivered
+ORD0905,2025-07-05,Sanjay,Mumbai,Maharashtra,Smartphone,Electronics,4,22435.12,0,0.0,89740.48,Cash on Delivery,Shipped
+ORD0906,2025-07-11,Ravi,Mumbai,Maharashtra,Gaming Mouse,Gaming,4,2340.04,15,1404.02,7956.14,Cash on Delivery,Returned
+ORD0907,2025-06-13,Pooja,Mumbai,Maharashtra,Laptop,Electronics,2,41026.59,10,8205.32,73847.86,Credit Card,Returned
+ORD0908,2025-11-22,Manoj,Bengaluru,Karnataka,Gaming Keyboard,Gaming,1,4375.05,5,218.75,4156.3,Debit Card,Delivered
+ORD0909,2025-11-18,Charan,Kochi,Kerala,Smartwatch,Electronics,1,5163.2,10,516.32,4646.88,Cash on Delivery,Delivered
+ORD0910,2025-12-17,Kavya,Bengaluru,Karnataka,T-Shirt,Fashion,5,967.04,5,241.76,4593.44,Debit Card,Delivered
+ORD0911,2025-01-07,Bhavya,Kochi,Kerala,Smartphone,Electronics,5,23422.59,5,5855.65,111257.3,Debit Card,Cancelled
+ORD0912,2025-03-25,Arjun,Kolkata,West Bengal,Gaming Keyboard,Gaming,4,4878.82,5,975.76,18539.52,Credit Card,Delivered
+ORD0913,2025-11-11,Ravi,Chennai,Tamil Nadu,Office Chair,Furniture,2,9175.0,20,3670.0,14680.0,Cash on Delivery,Cancelled
+ORD0914,2025-03-01,Bhavya,Vijayawada,Andhra Pradesh,Shoes,Fashion,4,3466.26,10,1386.5,12478.54,Net Banking,Delivered
+ORD0915,2025-11-02,Ravi,Mumbai,Maharashtra,Gaming Keyboard,Gaming,3,4785.33,0,0.0,14355.99,Credit Card,Delivered
+ORD0916,2025-04-24,Bhavya,Mumbai,Maharashtra,Shoes,Fashion,1,3401.33,15,510.2,2891.13,Credit Card,Returned
+ORD0917,2025-02-10,Nikhil,Chennai,Tamil Nadu,Shoes,Fashion,3,3014.3,0,0.0,9042.9,UPI,Returned
+ORD0918,2025-04-11,Arjun,Hyderabad,Telangana,Smartphone,Electronics,4,21697.49,20,17357.99,69431.97,Cash on Delivery,Delivered
+ORD0919,2025-01-23,Ananya,Hyderabad,Telangana,Desk,Furniture,4,7571.94,0,0.0,30287.76,UPI,Delivered
+ORD0920,2025-04-13,Charan,Vijayawada,Andhra Pradesh,T-Shirt,Fashion,1,846.97,10,84.7,762.27,Debit Card,Returned
+ORD0921,2025-05-23,Sanjay,Vijayawada,Andhra Pradesh,Laptop,Electronics,2,47215.78,20,18886.31,75545.25,Debit Card,Delivered
+ORD0922,2025-02-04,Arjun,Kochi,Kerala,Tablet,Electronics,5,18017.67,0,0.0,90088.35,UPI,Cancelled
+ORD0923,2025-10-03,Aarav,Chennai,Tamil Nadu,Office Chair,Furniture,2,7942.01,5,794.2,15089.82,UPI,Returned
+ORD0924,2025-07-07,Sanjay,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,5,6770.08,20,6770.08,27080.32,Net Banking,Delivered
+ORD0925,2025-07-14,Nikhil,Vijayawada,Andhra Pradesh,Backpack,Accessories,2,1747.74,20,699.1,2796.38,Cash on Delivery,Delivered
+ORD0926,2025-03-05,Pooja,Delhi,Delhi,Headphones,Electronics,1,2742.31,20,548.46,2193.85,Cash on Delivery,Delivered
+ORD0927,2025-01-21,Ananya,Kolkata,West Bengal,Tablet,Electronics,3,17237.78,15,7757.0,43956.34,Net Banking,Delivered
+ORD0928,2025-06-09,Vishnu,Delhi,Delhi,Smartphone,Electronics,3,22441.71,10,6732.51,60592.62,Credit Card,Shipped
+ORD0929,2025-02-05,Rahul,Delhi,Delhi,Office Chair,Furniture,3,8377.53,20,5026.52,20106.07,Debit Card,Returned
+ORD0930,2025-08-13,Ravi,Hyderabad,Telangana,Tablet,Electronics,4,16578.62,15,9947.17,56367.31,UPI,Returned
+ORD0931,2025-02-22,Charan,Bengaluru,Karnataka,Smartphone,Electronics,4,22858.16,10,9143.26,82289.38,Debit Card,Delivered
+ORD0932,2025-07-26,Arjun,Pune,Maharashtra,Headphones,Electronics,2,2672.01,10,534.4,4809.62,Net Banking,Delivered
+ORD0933,2025-10-25,Sanjay,Kolkata,West Bengal,Shoes,Fashion,3,3336.64,20,2001.98,8007.94,Net Banking,Delivered
+ORD0934,2025-09-19,Harsha,Kolkata,West Bengal,Gaming Keyboard,Gaming,5,4938.77,10,2469.39,22224.46,Net Banking,Delivered
+ORD0935,2025-11-18,Bhavya,Vijayawada,Andhra Pradesh,Smartphone,Electronics,3,21988.0,10,6596.4,59367.6,UPI,Delivered
+ORD0936,2025-04-02,Meena,Hyderabad,Telangana,Shoes,Fashion,1,3313.99,10,331.4,2982.59,Debit Card,Cancelled
+ORD0937,2025-02-09,Vishnu,Mumbai,Maharashtra,Tablet,Electronics,5,16546.8,10,8273.4,74460.6,Net Banking,Cancelled
+ORD0938,2025-09-09,Ravi,Kolkata,West Bengal,T-Shirt,Fashion,2,929.18,5,92.92,1765.44,Cash on Delivery,Delivered
+ORD0939,2025-01-17,Nikhil,Kochi,Kerala,Gaming Keyboard,Gaming,5,4907.32,0,0.0,24536.6,Net Banking,Delivered
+ORD0940,2025-01-17,Charan,Pune,Maharashtra,Monitor,Electronics,4,11903.17,10,4761.27,42851.41,Debit Card,Cancelled
+ORD0941,2025-07-19,Rahul,Bengaluru,Karnataka,Coffee Maker,Home Appliances,4,6024.83,10,2409.93,21689.39,Cash on Delivery,Delivered
+ORD0942,2025-08-29,Rahul,Kolkata,West Bengal,Backpack,Accessories,5,1814.18,15,1360.63,7710.27,Credit Card,Cancelled
+ORD0943,2025-07-13,Sneha,Hyderabad,Telangana,Office Chair,Furniture,4,8490.97,5,1698.19,32265.69,Debit Card,Returned
+ORD0944,2025-01-24,Bhavya,Mumbai,Maharashtra,T-Shirt,Fashion,3,815.07,0,0.0,2445.21,Debit Card,Delivered
+ORD0945,2025-06-24,Meena,Jaipur,Rajasthan,T-Shirt,Fashion,1,970.44,20,194.09,776.35,Net Banking,Delivered
+ORD0946,2025-05-06,Divya,Pune,Maharashtra,Gaming Keyboard,Gaming,4,4100.8,5,820.16,15583.04,Debit Card,Delivered
+ORD0947,2025-06-22,Charan,Vijayawada,Andhra Pradesh,Desk,Furniture,1,6726.88,20,1345.38,5381.5,Cash on Delivery,Delivered
+ORD0948,2025-10-18,Ravi,Hyderabad,Telangana,Gaming Keyboard,Gaming,4,4827.03,15,2896.22,16411.9,Debit Card,Shipped
+ORD0949,2025-07-13,Sanjay,Kolkata,West Bengal,Laptop,Electronics,5,49371.88,0,0.0,246859.4,Debit Card,Shipped
+ORD0950,2025-04-16,Kiran,Vijayawada,Andhra Pradesh,Desk,Furniture,4,7267.21,0,0.0,29068.84,Cash on Delivery,Shipped
+ORD0951,2025-08-12,Deepak,Pune,Maharashtra,T-Shirt,Fashion,2,863.91,10,172.78,1555.04,UPI,Shipped
+ORD0952,2025-06-02,Sanjay,Kochi,Kerala,Jeans,Fashion,2,1715.46,5,171.55,3259.37,Credit Card,Shipped
+ORD0953,2025-05-20,Ananya,Vijayawada,Andhra Pradesh,Desk,Furniture,5,7128.61,0,0.0,35643.05,Cash on Delivery,Cancelled
+ORD0954,2025-11-30,Kavya,Delhi,Delhi,Monitor,Electronics,2,12709.56,5,1270.96,24148.16,Debit Card,Cancelled
+ORD0955,2025-05-09,Sneha,Kochi,Kerala,Gaming Mouse,Gaming,3,2162.3,0,0.0,6486.9,Net Banking,Cancelled
+ORD0956,2025-09-22,Charan,Kochi,Kerala,Backpack,Accessories,2,1846.02,0,0.0,3692.04,Net Banking,Cancelled
+ORD0957,2025-11-11,Nikhil,Kolkata,West Bengal,Headphones,Electronics,3,2516.36,15,1132.36,6416.72,UPI,Cancelled
+ORD0958,2025-03-19,Vishnu,Chennai,Tamil Nadu,Office Chair,Furniture,3,7901.16,10,2370.35,21333.13,Net Banking,Delivered
+ORD0959,2025-07-31,Harsha,Pune,Maharashtra,Gaming Mouse,Gaming,1,2069.57,15,310.44,1759.13,Credit Card,Delivered
+ORD0960,2025-03-18,Deepak,Jaipur,Rajasthan,Smartwatch,Electronics,2,5212.33,10,1042.47,9382.19,Credit Card,Delivered
+ORD0961,2025-08-12,Nikhil,Mumbai,Maharashtra,T-Shirt,Fashion,4,910.77,10,364.31,3278.77,UPI,Returned
+ORD0962,2025-05-23,Vishnu,Bengaluru,Karnataka,Headphones,Electronics,3,2264.57,0,0.0,6793.71,Credit Card,Cancelled
+ORD0963,2025-02-12,Kiran,Hyderabad,Telangana,Backpack,Accessories,4,1627.17,20,1301.74,5206.94,Debit Card,Cancelled
+ORD0964,2025-02-16,Meena,Vijayawada,Andhra Pradesh,Jeans,Fashion,4,1861.8,5,372.36,7074.84,Credit Card,Returned
+ORD0965,2025-03-03,Ravi,Vijayawada,Andhra Pradesh,Headphones,Electronics,5,2500.12,15,1875.09,10625.51,Cash on Delivery,Returned
+ORD0966,2025-05-02,Sneha,Kochi,Kerala,T-Shirt,Fashion,3,969.22,10,290.77,2616.89,Debit Card,Delivered
+ORD0967,2025-05-01,Nikhil,Jaipur,Rajasthan,Gaming Keyboard,Gaming,4,4723.54,20,3778.83,15115.33,Credit Card,Delivered
+ORD0968,2025-05-11,Sanjay,Bengaluru,Karnataka,Smartphone,Electronics,2,21733.69,5,2173.37,41294.01,Net Banking,Delivered
+ORD0969,2025-09-01,Vishnu,Pune,Maharashtra,Office Chair,Furniture,1,8577.77,5,428.89,8148.88,Debit Card,Delivered
+ORD0970,2025-06-07,Aarav,Bengaluru,Karnataka,Coffee Maker,Home Appliances,3,6780.37,10,2034.11,18307.0,Cash on Delivery,Returned
+ORD0971,2025-06-08,Varun,Hyderabad,Telangana,Laptop,Electronics,2,45474.55,5,4547.45,86401.65,Debit Card,Returned
+ORD0972,2025-08-15,Meena,Vijayawada,Andhra Pradesh,Coffee Maker,Home Appliances,5,6157.3,20,6157.3,24629.2,Net Banking,Delivered
+ORD0973,2025-05-01,Kavya,Mumbai,Maharashtra,Coffee Maker,Home Appliances,3,7067.22,0,0.0,21201.66,Credit Card,Delivered
+ORD0974,2025-07-28,Aditya,Kolkata,West Bengal,Coffee Maker,Home Appliances,3,6846.76,20,4108.06,16432.22,UPI,Delivered
+ORD0975,2025-06-20,Nikhil,Kolkata,West Bengal,Jeans,Fashion,4,1768.67,15,1061.2,6013.48,Credit Card,Delivered
+ORD0976,2025-11-05,Riya,Mumbai,Maharashtra,Shoes,Fashion,5,3105.19,0,0.0,15525.95,Debit Card,Returned
+ORD0977,2025-11-19,Pooja,Hyderabad,Telangana,Monitor,Electronics,1,12339.82,15,1850.97,10488.85,Credit Card,Returned
+ORD0978,2025-10-22,Ananya,Delhi,Delhi,Laptop,Electronics,2,43249.93,15,12974.98,73524.88,Credit Card,Delivered
+ORD0979,2025-07-30,Kiran,Kochi,Kerala,Headphones,Electronics,2,2547.01,20,1018.8,4075.22,Net Banking,Shipped
+ORD0980,2025-06-17,Kavya,Bengaluru,Karnataka,Jeans,Fashion,3,1867.49,0,0.0,5602.47,UPI,Delivered
+ORD0981,2025-10-20,Divya,Pune,Maharashtra,Gaming Mouse,Gaming,2,2365.61,10,473.12,4258.1,UPI,Delivered
+ORD0982,2025-02-15,Pooja,Kochi,Kerala,Coffee Maker,Home Appliances,5,6147.32,15,4610.49,26126.11,Debit Card,Delivered
+ORD0983,2025-11-04,Harsha,Bengaluru,Karnataka,Shoes,Fashion,1,3275.52,10,327.55,2947.97,UPI,Delivered
+ORD0984,2025-09-27,Nikhil,Bengaluru,Karnataka,Gaming Keyboard,Gaming,5,4062.7,0,0.0,20313.5,Net Banking,Shipped
+ORD0985,2025-05-17,Kavya,Chennai,Tamil Nadu,Smartphone,Electronics,2,23962.63,0,0.0,47925.26,Net Banking,Returned
+ORD0986,2025-04-21,Kavya,Bengaluru,Karnataka,Gaming Mouse,Gaming,4,2070.91,20,1656.73,6626.91,Credit Card,Returned
+ORD0987,2025-05-29,Harsha,Bengaluru,Karnataka,Gaming Mouse,Gaming,4,2044.21,20,1635.37,6541.47,Cash on Delivery,Delivered
+ORD0988,2025-08-23,Ananya,Chennai,Tamil Nadu,Monitor,Electronics,3,12442.24,10,3732.67,33594.05,Net Banking,Delivered
+ORD0989,2025-07-16,Nikhil,Pune,Maharashtra,Tablet,Electronics,4,16963.98,15,10178.39,57677.53,Cash on Delivery,Returned
+ORD0990,2025-06-20,Divya,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,1,5014.63,10,501.46,4513.17,Debit Card,Shipped
+ORD0991,2025-11-14,Meena,Jaipur,Rajasthan,Desk,Furniture,1,6655.12,0,0.0,6655.12,Net Banking,Delivered
+ORD0992,2025-04-02,Harsha,Pune,Maharashtra,Backpack,Accessories,2,1634.8,10,326.96,2942.64,Cash on Delivery,Delivered
+ORD0993,2025-12-30,Ravi,Pune,Maharashtra,Monitor,Electronics,4,11015.16,0,0.0,44060.64,Credit Card,Shipped
+ORD0994,2025-09-13,Harsha,Vijayawada,Andhra Pradesh,Smartwatch,Electronics,3,6026.37,0,0.0,18079.11,Debit Card,Returned
+ORD0995,2025-05-16,Ravi,Delhi,Delhi,Coffee Maker,Home Appliances,3,6646.81,5,997.02,18943.41,Net Banking,Delivered
+ORD0996,2025-03-19,Riya,Bengaluru,Karnataka,Coffee Maker,Home Appliances,3,7142.93,15,3214.32,18214.47,Net Banking,Returned
+ORD0997,2025-01-19,Rahul,Chennai,Tamil Nadu,Laptop,Electronics,2,42568.74,0,0.0,85137.48,Credit Card,Delivered
+ORD0998,2025-09-11,Aditya,Kolkata,West Bengal,Shoes,Fashion,4,3516.93,0,0.0,14067.72,Debit Card,Shipped
+ORD0999,2025-03-17,Arjun,Kochi,Kerala,Shoes,Fashion,4,3195.51,10,1278.2,11503.84,UPI,Delivered
+ORD1000,2025-09-18,Harsha,Mumbai,Maharashtra,Headphones,Electronics,2,2334.15,20,933.66,3734.64,Cash on Delivery,Cancelled

@@ -1,0 +1,754 @@
+Order_ID,Order_Date,Customer,Product,Category,Region,Quantity,Unit_Price,Discount,Revenue
+ORD10001,2025-07-25 00:00:00,Customer_095,Headphones,Accessories,West,5.0,10349.15,0.05,49158.46
+ORD10002,2025-04-09 00:00:00,Customer_012,Monitor,Electronics,North,2.0,22268.58,0.05,42310.3
+ORD10003,2025-05-24 00:00:00,Customer_057,Power Bank,Accessories,Central,2.0,1559.46,0.15,2651.08
+ORD10004,2025-05-02 00:00:00,Customer_005,Speaker,Audio,East,4.0,9781.11,0.2,31299.55
+ORD10005,2025-03-17 00:00:00,Customer_009,USB Hub,Accessories,South,4.0,1201.83,0.0,4807.32
+ORD10006,2025-06-23 00:00:00,Customer_013,Printer,Office,South,3.0,22470.51,0.15,57299.8
+ORD10007,2025-01-29 00:00:00,Customer_037,Power Bank,Accessories,East,1.0,3664.88,0.0,3664.88
+ORD10008,2025-05-25 00:00:00,Customer_071,Keyboard,Accessories,North,2.0,3116.79,0.15,5298.54
+ORD10009,2025-07-01 00:00:00,Customer_039,Headphones,Accessories,East,2.0,4982.36,0.1,8968.25
+ORD10010,2025-06-22 00:00:00,Customer_013,Webcam,Accessories,South,1.0,3316.39,0.05,3150.57
+ORD10011,2025-01-01 00:00:00,,Tablet,Electronics,Central,2.0,13858.01,0.0,27716.02
+ORD10012,2025-04-27 00:00:00,Customer_006,Headphones,Accessories,South,1.0,5522.41,0.05,5246.29
+ORD10013,2025-05-29 00:00:00,Customer_080,USB Hub,Accessories,Central,1.0,2439.76,0.0,2439.76
+ORD10014,2025-01-20 00:00:00,Customer_057,USB Hub,Accessories,South,5.0,647.59,0.1,2914.16
+ORD10015,2025-01-01 00:00:00,Customer_054,Printer,Office,East,1.0,10119.37,0.05,9613.4
+ORD10016,2025-08-12 00:00:00,Customer_016,Keyboard,Accessories,West,4.0,827.25,0.05,3143.55
+ORD10017,2025-06-13 00:00:00,Customer_090,Monitor,Electronics,South,1.0,16048.86,0.0,16048.86
+ORD10018,2025-08-16 00:00:00,Customer_064,Printer,Office,East,1.0,11052.82,0.05,10500.18
+ORD10019,2025-07-31 00:00:00,Customer_077,Printer,Office,West,2.0,16185.83,0.05,30753.08
+ORD10020,2025-03-23 00:00:00,Customer_069,Tablet,Electronics,North,1.0,16395.11,0.0,16395.11
+ORD10021,2025-01-05 00:00:00,Customer_033,Gaming Mouse,Gaming,North,1.0,4724.19,0.15,4015.56
+ORD10022,2025-03-04 00:00:00,Customer_089,Keyboard,Accessories,East,2.0,3458.8,0.05,6571.72
+ORD10023,2025-04-09 00:00:00,Customer_001,Smartphone,Electronics,Central,3.0,61108.08,0.05,174158.03
+ORD10024,2025-05-13 00:00:00,Customer_003,Printer,Office,Central,1.0,22429.73,0.15,19065.27
+ORD10025,2025-03-24 00:00:00,Customer_017,External SSD,Storage,Central,2.0,14439.57,0.1,25991.23
+ORD10026,2025-07-24 00:00:00,Customer_004,Mechanical Keyboard,Gaming, south ,2.0,3339.54,0.2,5343.26
+ORD10027,2025-03-13 00:00:00,Customer_039,Gaming Mouse,Gaming,South,2.0,3434.33,0.05,6525.23
+ORD10028,2025-09-25 00:00:00,Customer_065,Smartphone,Electronics,West,2.0,41191.59,0.15,70025.7
+ORD10029,2025-04-22 00:00:00,Customer_047,External SSD,Storage,Central,2.0,16396.5,0.05,31153.35
+ORD10030,2025-07-11 00:00:00,Customer_098,Keyboard,Accessories,South,2.0,2671.42,0.0,5342.84
+ORD10031,2025-09-06 00:00:00,Customer_038,Laptop,Electronics,North,2.0,62650.98,0.05,119036.86
+ORD10032,2025-02-20 00:00:00,Customer_081,External SSD,Storage,Central,3.0,10155.06,0.1,27418.66
+ORD10033,2025-09-30 00:00:00,Customer_084,Webcam,Accessories,Central,3.0,4026.41,0.15,10267.35
+ORD10034,2025-08-23 00:00:00,Customer_043,Gaming Mouse,Gaming,East,5.0,2919.73,0.05,13868.72
+ORD10035,2025-04-05 00:00:00,Customer_075,Power Bank,Accessories,West,1.0,1299.53,0.0,1299.53
+ORD10036,2025-07-14 00:00:00,Customer_027,External SSD,Storage,Central,1.0,9493.67,0.15,8069.62
+ORD10037,2025-01-05 00:00:00,Customer_082,Smartwatch,Wearables,West,5.0,11830.0,0.0,59150.0
+ORD10038,2025-05-13 00:00:00,Customer_012,Laptop,Electronics,South,1.0,46431.21,0.1,41788.09
+ORD10039,2025-03-14 00:00:00,Customer_026,USB Hub,Accessories,North,4.0,757.5,0.05,2878.5
+ORD10040,2025-04-17 00:00:00,Customer_063,USB Hub,Accessories,Central,2.0,1875.57,0.1,3376.03
+ORD10041,2025-09-10 00:00:00,Customer_052,Speaker,electronics ,South,1.0,8880.56,0.0,8880.56
+ORD10042,2025-06-03 00:00:00,Customer_014,Webcam,Accessories,East,3.0,4421.96,0.1,11939.29
+ORD10043,2025-08-26 00:00:00,Customer_018,External SSD,Storage,South,1.0,14273.54,0.15,12132.51
+ORD10044,2025-04-29 00:00:00,Customer_028,External SSD,Storage,South,1.0,10163.13,0.0,10163.13
+ORD10045,2025-05-06 00:00:00,Customer_044,Speaker,Audio,North,2.0,8646.03,0.0,17292.06
+ORD10046,2025-03-08 00:00:00,Customer_018,Mechanical Keyboard,Gaming,West,4.0,6358.35,0.1,22890.06
+ORD10047,2025-08-24 00:00:00,Customer_083,Mechanical Keyboard,Gaming,South,2.0,6314.47,0.1,11366.05
+ORD10048,2025-08-14 00:00:00,Customer_059,Speaker,Audio,East,1.0,4586.2,0.1,4127.58
+ORD10049,2025-05-30 00:00:00,Customer_021,Mechanical Keyboard,Gaming,West,5.0,6437.54,0.0,32187.7
+ORD10050,2025-06-01 00:00:00,Customer_055,Tablet,Electronics,North,3.0,14900.29,0.15,37995.74
+ORD10051,2025-02-05 00:00:00,Customer_024,External SSD,Storage,South,1.0,11818.65,0.05,11227.72
+ORD10052,2025-04-28 00:00:00,Customer_094,Headphones,Accessories,East,2.0,11107.87,0.0,22215.74
+ORD10053,2025-01-26 00:00:00,Customer_051,Monitor,Electronics,Central,3.0,24087.6,0.1,65036.52
+ORD10054,2025-07-31 00:00:00,Customer_097,Smartwatch,Wearables,West,3.0,5399.18,0.05,15387.66
+ORD10055,2025-02-07 00:00:00,Customer_037,Tablet,Electronics,East,1.0,15789.62,0.1,14210.66
+ORD10056,2025-06-27 00:00:00,Customer_010, laptop ,Accessories,Central,4.0,1597.8,0.1,5752.08
+ORD10057,2025-05-10 00:00:00,Customer_084,Tablet,Electronics,North,1.0,44668.69,0.05,42435.26
+ORD10058,2025-02-07 00:00:00,Customer_035,Headphones,Accessories,North,1.0,1229.28,0.0,1229.28
+ORD10059,2025-05-17 00:00:00,Customer_034,Keyboard,Accessories,West,3.0,2788.73,0.05,7947.88
+ORD10060,2025-03-01 00:00:00,Customer_064,Smartwatch,Wearables,Central,1.0,16859.97,0.1,15173.97
+ORD10061,2025-08-01 00:00:00,Customer_037,Headphones,Accessories,Central,1.0,9788.89,0.0,9788.89
+ORD10062,2025-03-30 00:00:00,Customer_042,Smartphone,Electronics,North,1.0,49856.72,0.15,42378.21
+ORD10063,2025-06-28 00:00:00,Customer_038,Monitor,Electronics,North,2.0,18490.92,0.1,33283.66
+ORD10064,2025-08-13 00:00:00,Customer_066,Smartwatch,Wearables,Central,3.0,10292.17,0.0,30876.51
+ORD10065,2025-05-14 00:00:00,Customer_067,External SSD,Storage,East,4.0,13115.09,0.0,52460.36
+ORD10066,2025-06-06 00:00:00,Customer_033,Mechanical Keyboard,Gaming,West,1.0,3405.27,0.1,3064.74
+ORD10067,2025-04-07 00:00:00,Customer_027,Smartphone,Electronics,North,3.0,46523.3,0.2,111655.92
+ORD10068,2025-05-03 00:00:00,Customer_074,Webcam,Accessories,North,1.0,4634.39,0.1,4170.95
+ORD10069,2025-08-04 00:00:00,Customer_052,Smartwatch,Wearables,Central,1.0,10815.46,0.05,10274.69
+ORD10070,2025-06-22 00:00:00,Customer_002,Webcam,Accessories,East,2.0,4174.97,0.05,7932.44
+ORD10071,2025-03-10 00:00:00,Customer_020,Keyboard,Accessories,East,,2643.06,0.1,4757.51
+ORD10072,2025-01-23 00:00:00,Customer_047,Smartphone,Electronics,South,5.0,33838.83,0.0,169194.15
+ORD10073,2025-07-29 00:00:00,Customer_089,Monitor,Electronics,North,4.0,12220.38,0.1,43993.37
+ORD10074,2025-05-13 00:00:00,Customer_037,External SSD,Storage,South,1.0,16337.61,0.15,13886.97
+ORD10075,2025-02-20 00:00:00,Customer_029,Speaker,Audio,North,3.0,4682.7,0.0,14048.1
+ORD10076,2025-04-20 00:00:00,Customer_036,External SSD,Storage,North,4.0,10860.91,0.0,43443.64
+ORD10077,2025-05-29 00:00:00,Customer_047,Headphones,Accessories,North,1.0,4563.6,0.0,4563.6
+ORD10078,2025-06-03 00:00:00,Customer_041,External SSD,Storage,East,3.0,7672.54,0.1,20715.86
+ORD10079,2025-07-29 00:00:00,Customer_091,Power Bank,Accessories,South,1.0,2565.93,0.15,2181.04
+ORD10080,2025-09-08 00:00:00,Customer_051,Printer,Office,North,4.0,17154.3,0.0,68617.2
+ORD10081,2025-06-26 00:00:00,Customer_029,Speaker,Audio,East,2.0,5060.87,0.15,8603.48
+ORD10082,2025-03-25 00:00:00,Customer_049,Tablet,Electronics,West,2.0,12432.12,0.1,22377.82
+ORD10083,2025-02-18 00:00:00,Customer_071,Mechanical Keyboard,Gaming,North,1.0,3054.77,0.2,2443.82
+ORD10084,2025-07-30 00:00:00,Customer_062,Laptop,Electronics,Central,1.0,62879.32,0.05,59735.35
+ORD10085,2025-01-19 00:00:00,Customer_018,Monitor,Electronics,North,2.0,16932.24,0.15,28784.81
+ORD10086,2025-04-23 00:00:00,Customer_094,Smartphone,Electronics,East,3.0,,0.1,107813.4
+ORD10087,2025-05-11 00:00:00,Customer_032,Printer,Office,South,1.0,9456.63,0.15,8038.14
+ORD10088,2025-03-28 00:00:00,Customer_055,Monitor,Electronics,West,1.0,22523.99,0.05,21397.79
+ORD10089,2025-09-04 00:00:00,Customer_067,Smartphone,Electronics,East,3.0,62684.66,0.05,178651.28
+ORD10090,2025-08-17 00:00:00,Customer_067,Mechanical Keyboard,Gaming,East,2.0,6367.82,0.05,12098.86
+ORD10091,2025-04-06 00:00:00,Customer_088,Gaming Mouse,Gaming,East,2.0,1876.55,0.0,3753.1
+ORD10092,2025-08-11 00:00:00,Customer_055,Gaming Mouse,Gaming,South,5.0,4772.08,0.0,23860.4
+ORD10093,2025-05-27 00:00:00,Customer_019,Webcam,Accessories,West,1.0,1970.3,0.0,1970.3
+ORD10094,2025-07-16 00:00:00,Customer_020,Monitor,Electronics,East,2.0,23782.87,0.15,40430.88
+ORD10095,2025-01-20 00:00:00,Customer_005,Gaming Mouse,Gaming,Central,1.0,2456.74,0.1,2211.07
+ORD10096,2025-03-22 00:00:00,Customer_074,Power Bank,Accessories,East,1.0,2611.35,0.05,2480.78
+ORD10097,2025-04-25 00:00:00,Customer_081,Speaker,Audio,North,4.0,8298.77,0.05,31535.33
+ORD10098,2025-09-03 00:00:00,Customer_022,Smartphone,Electronics,East,2.0,49841.3,0.05,94698.47
+ORD10099,2025-04-08 00:00:00,Customer_087,Webcam,Accessories,Central,2.0,2227.52,0.15,3786.78
+ORD10100,2025-02-10 00:00:00,Customer_038,External SSD,Storage,South,1.0,16885.88,0.0,16885.88
+ORD10101,2025-03-28 00:00:00,Customer_086,Smartphone,Electronics,Central,2.0,50828.12,,86407.8
+ORD10102,2025-04-08 00:00:00,Customer_012,Webcam,Accessories,Central,1.0,2965.74,0.1,2669.17
+ORD10103,2025-07-09 00:00:00,Customer_046,Mechanical Keyboard,Gaming,South,2.0,3639.91,0.15,6187.85
+ORD10104,2025-01-29 00:00:00,Customer_021,Monitor,Electronics,East,1.0,24498.71,0.0,24498.71
+ORD10105,2025-08-20 00:00:00,Customer_099,Mechanical Keyboard,Gaming,South,1.0,4811.87,0.1,4330.68
+ORD10106,2025-09-07 00:00:00,Customer_036,Speaker,Audio,West,1.0,9609.74,0.0,9609.74
+ORD10107,2025-07-20 00:00:00,Customer_026,Speaker,Audio,South,1.0,8653.0,0.15,7355.05
+ORD10108,2025-08-05 00:00:00,Customer_061,Printer,Office,East,1.0,7427.62,0.1,6684.86
+ORD10109,2025-08-17 00:00:00,Customer_044,Mechanical Keyboard,Gaming,East,2.0,5487.93,0.0,10975.86
+ORD10110,2025-02-13 00:00:00,Customer_059,Headphones,Accessories,East,1.0,7574.49,0.05,7195.77
+ORD10111,2025-01-12 00:00:00,Customer_062,External SSD,Storage,East,5.0,15270.18,0.1,68715.81
+ORD10112,2025-07-17 00:00:00,Customer_072,Smartwatch,Wearables,North,3.0,15001.7,0.1,40504.59
+ORD10113,2025-01-26 00:00:00,Customer_047,Mechanical Keyboard,Gaming,South,4.0,6703.32,0.1,24131.95
+ORD10114,2025-03-27 00:00:00,Customer_007,Printer,Office,Central,2.0,24987.72,0.1,44977.9
+ORD10115,2025-08-03 00:00:00,Customer_093,Keyboard,Accessories,South,3.0,1239.28,0.0,3717.84
+ORD10116,2025-04-13 00:00:00,Customer_017,Power Bank,Accessories,East,3.0,1070.14,0.05,3049.9
+ORD10117,2025-06-20 00:00:00,Customer_040,Smartphone,Electronics,South,2.0,41458.4,0.15,70479.28
+ORD10118,2025-01-04 00:00:00,Customer_093,Speaker,Audio,North,3.0,2055.53,0.05,5858.26
+ORD10119,2025-04-18 00:00:00,Customer_066,Keyboard,Accessories,East,3.0,2156.47,0.05,6145.94
+ORD10120,2025-05-21 00:00:00,Customer_018,Printer,Office,East,4.0,6404.12,0.15,21774.01
+ORD10121,2025/02/30,Customer_057,Webcam,Accessories,West,1.0,1552.17,0.0,1552.17
+ORD10122,2025-03-06 00:00:00,Customer_094,Smartwatch,Wearables,North,5.0,14408.24,0.05,68439.14
+ORD10123,2025-05-26 00:00:00,Customer_062,External SSD,Storage,Central,1.0,9610.09,0.05,9129.59
+ORD10124,2025-03-14 00:00:00,Customer_015,External SSD,Storage,North,1.0,5232.36,0.2,4185.89
+ORD10125,2025-03-02 00:00:00,Customer_043,External SSD,Storage,West,1.0,6617.69,0.2,5294.15
+ORD10126,2025-01-11 00:00:00,Customer_062,Power Bank,Accessories,Central,1.0,3625.27,0.15,3081.48
+ORD10127,2025-03-13 00:00:00,Customer_020,Smartwatch,Wearables,Central,5.0,14021.97,0.0,70109.85
+ORD10128,2025-04-17 00:00:00,Customer_098,Power Bank,Accessories,North,2.0,2783.98,0.1,5011.16
+ORD10129,2025-09-19 00:00:00,Customer_005,Speaker,Audio,Central,1.0,3084.73,0.1,2776.26
+ORD10130,2025-01-20 00:00:00,Customer_061,Power Bank,Accessories,East,2.0,1570.6,0.1,2827.08
+ORD10131,2025-08-04 00:00:00,Customer_003,Laptop,Electronics,East,1.0,79120.73,0.1,71208.66
+ORD10132,2025-03-09 00:00:00,Customer_014,Smartwatch,Wearables,Central,1.0,5969.17,0.1,5372.25
+ORD10133,2025-01-29 00:00:00,Customer_009,Headphones,Accessories,East,1.0,10676.58,0.05,10142.75
+ORD10134,2025-02-09 00:00:00,Customer_025,Smartwatch,Wearables,Central,5.0,15862.98,0.15,67417.66
+ORD10135,2025-02-07 00:00:00,Customer_072,Printer,Office,East,3.0,11346.43,0.05,32337.33
+ORD10136,2025-06-25 00:00:00,Customer_077,Laptop,Electronics,West,3.0,67314.41,0.0,201943.23
+ORD10137,2025-08-12 00:00:00,Customer_062,External SSD,Storage,Central,1.0,16065.69,0.05,15262.41
+ORD10138,2025-02-09 00:00:00,Customer_091,Printer,Office,Central,4.0,16855.06,0.1,60678.22
+ORD10139,2025-06-17 00:00:00,Customer_092,Printer,Office,North,1.0,22693.97,0.1,20424.57
+ORD10140,2025-02-14 00:00:00,Customer_089,Speaker,Audio,Central,1.0,2863.4,0.05,2720.23
+ORD10141,2025-01-07 00:00:00,Customer_005,USB Hub,Accessories,East,2.0,1737.22,0.1,3127.0
+ORD10142,2025-06-09 00:00:00,Customer_053,Tablet,Electronics,South,5.0,27360.51,0.15,116282.17
+ORD10143,2025-08-12 00:00:00,Customer_013,Laptop,Electronics,East,3.0,82446.04,0.1,222604.31
+ORD10144,2025-07-07 00:00:00,Customer_064,Printer,Office,Central,5.0,18004.46,0.05,85521.18
+ORD10145,2025-03-15 00:00:00,Customer_096,Tablet,Electronics,South,3.0,15530.36,0.1,41931.97
+ORD10146,2025-07-15 00:00:00,Customer_020,Tablet,Electronics,West,1.0,32876.52,0.15,27945.04
+ORD10147,2025-07-12 00:00:00,Customer_022,Laptop,Electronics,South,1.0,58543.36,0.1,52689.02
+ORD10148,2025-06-24 00:00:00,Customer_029,USB Hub,Accessories,West,1.0,2204.83,0.2,1763.86
+ORD10149,2025-01-07 00:00:00,Customer_029,Keyboard,Accessories,East,3.0,1064.24,0.1,2873.45
+ORD10150,2025-02-27 00:00:00,Customer_087,Webcam,Accessories,South,3.0,3545.08,0.15,9039.95
+ORD10151,2025-04-09 00:00:00,Customer_013,Headphones,Accessories,NORTH,1.0,6260.23,0.15,5321.2
+ORD10152,2025-05-10 00:00:00,Customer_047,Webcam,Accessories,West,1.0,5871.45,0.1,5284.3
+ORD10153,2025-08-24 00:00:00,Customer_056,Smartwatch,Wearables,West,2.0,6735.52,0.2,10776.83
+ORD10154,2025-03-25 00:00:00,Customer_006,External SSD,Storage,East,3.0,16823.82,0.15,42900.74
+ORD10155,2025-01-15 00:00:00,Customer_034,Headphones,Accessories,Central,1.0,11826.96,0.05,11235.61
+ORD10156,2025-09-28 00:00:00,Customer_080,Smartwatch,Wearables,East,1.0,15955.9,0.1,14360.31
+ORD10157,2025-01-08 00:00:00,Customer_079,Printer,Office,East,5.0,9524.98,0.15,40481.16
+ORD10158,2025-06-30 00:00:00,Customer_024,External SSD,Storage,West,3.0,14893.31,0.1,40211.94
+ORD10159,2025-08-10 00:00:00,Customer_078,Smartphone,Electronics,North,5.0,25200.24,0.05,119701.14
+ORD10160,2025-08-02 00:00:00,Customer_002,Laptop,Electronics,East,2.0,56139.3,0.1,101050.74
+ORD10161,2025-04-05 00:00:00,Customer_038,Headphones,Accessories,East,5.0,2815.47,0.05,13373.48
+ORD10162,2025-09-24 00:00:00,Customer_086,Headphones,Accessories,East,2.0,10489.32,0.1,18880.78
+ORD10163,2025-06-09 00:00:00,Customer_079,Mechanical Keyboard,Gaming,West,1.0,4073.29,0.2,3258.63
+ORD10164,2025-01-02 00:00:00,Customer_097,Printer,Office,North,3.0,16633.32,0.0,49899.96
+ORD10165,2025-06-03 00:00:00,Customer_022,Keyboard,Accessories,South,4.0,931.02,0.15,3165.47
+ORD10166,2025-05-23 00:00:00,Customer_098,Tablet,Electronics,South,5.0,18628.35,0.1,83827.58
+ORD10167,2025-05-03 00:00:00,Customer_006,External SSD,Storage,North,1.0,6359.38,0.1,5723.44
+ORD10168,2025-07-23 00:00:00,Customer_008,Printer,Office,South,4.0,6987.45,0.1,25154.82
+ORD10169,2025-01-07 00:00:00,Customer_075,Gaming Mouse,Gaming,West,2.0,4112.03,0.1,7401.65
+ORD10170,2025-01-03 00:00:00,Customer_041,USB Hub,Accessories,West,2.0,1694.95,0.1,3050.91
+ORD10171,2025-03-28 00:00:00,Customer_012,Tablet,Electronics,Central,3.0,14693.79,0.0,44081.37
+ORD10172,2025-08-26 00:00:00,Customer_100,Laptop,Electronics,Central,2.0,72708.39,0.05,138145.94
+ORD10173,2025-03-23 00:00:00,Customer_070,Tablet,Electronics,South,1.0,38060.05,0.1,34254.05
+ORD10174,2025-02-28 00:00:00,Customer_003,Keyboard,Accessories,West,2.0,1630.48,0.1,2934.86
+ORD10175,2025-07-26 00:00:00,Customer_097,Speaker,Audio,West,1.0,7281.94,0.0,7281.94
+ORD10176,2025-01-24 00:00:00,Customer_020,Mechanical Keyboard, ACCESSORIES,Central,1.0,8745.07,0.05,8307.82
+ORD10177,2025-06-01 00:00:00,Customer_050,Tablet,Electronics,North,1.0,24244.28,0.2,19395.42
+ORD10178,2025-08-16 00:00:00,Customer_066,Laptop,Electronics,South,2.0,71462.63,0.0,142925.26
+ORD10179,2025-07-05 00:00:00,Customer_012,Keyboard,Accessories,East,3.0,2534.03,0.2,6081.67
+ORD10180,2025-01-08 00:00:00,Customer_100,Webcam,Accessories,South,2.0,4973.58,0.1,8952.44
+ORD10181,2025-02-10 00:00:00,Customer_062,Headphones,Accessories,West,1.0,11691.07,0.0,11691.07
+ORD10182,2025-03-25 00:00:00,Customer_002,Speaker,Audio,North,1.0,6539.81,0.1,5885.83
+ORD10183,2025-08-17 00:00:00,Customer_005,Mechanical Keyboard,Gaming,North,1.0,8801.18,0.05,8361.12
+ORD10184,2025-01-10 00:00:00,Customer_067,Headphones,Accessories,South,3.0,2613.44,0.2,6272.26
+ORD10185,2025-05-13 00:00:00,Customer_020,USB Hub,Accessories,East,2.0,1838.78,0.0,3677.56
+ORD10186,2025-05-01 00:00:00,Customer_037,Smartwatch,Wearables,Central,4.0,6414.18,0.05,24373.88
+ORD10187,2025-06-05 00:00:00,Customer_079,Speaker,Audio,West,2.0,8145.22,0.1,14661.4
+ORD10188,2025-01-20 00:00:00,Customer_026,Speaker,Audio,Central,2.0,1790.6,0.2,2864.96
+ORD10189,2025-02-28 00:00:00,Customer_069,Webcam,Accessories,North,2.0,2735.86,0.0,5471.72
+ORD10190,2025-06-30 00:00:00,Customer_088,Webcam,Accessories,East,2.0,1728.65,0.0,3457.3
+ORD10191,2025-07-04 00:00:00,Customer_039,External SSD,Storage,East,1.0,17373.55,0.1,15636.2
+ORD10192,2025-05-06 00:00:00,Customer_045,Power Bank,Accessories,West,2.0,2967.28,0.0,5934.56
+ORD10193,2025-05-09 00:00:00,Customer_008,Tablet,Electronics,Central,3.0,18661.16,0.1,50385.13
+ORD10194,2025-07-12 00:00:00,Customer_055,Speaker,Audio,South,2.0,8879.21,0.0,17758.42
+ORD10195,2025-01-26 00:00:00,Customer_008,Headphones,Accessories,North,1.0,1389.17,0.0,1389.17
+ORD10196,2025-01-01 00:00:00,Customer_019,Laptop,Electronics,Central,1.0,86892.69,0.1,78203.42
+ORD10197,2025-07-11 00:00:00,Customer_070,Monitor,Electronics,North,2.0,21120.89,0.05,40129.69
+ORD10198,2025-09-02 00:00:00,Customer_077,Power Bank,Accessories,North,4.0,3979.34,0.1,14325.62
+ORD10199,2025-05-12 00:00:00,Customer_019,Monitor,Electronics,South,1.0,22660.74,0.1,20394.67
+ORD10200,2025-05-09 00:00:00,Customer_088,Mechanical Keyboard,Gaming,North,3.0,7685.79,0.05,21904.5
+ORD10201,2025-05-23 00:00:00,Customer_999,Keyboard,Accessories,East,1.0,2464.58,0.1,2218.12
+ORD10202,2025-04-12 00:00:00,Customer_090,Headphones,Accessories,East,1.0,6045.89,0.0,6045.89
+ORD10203,2025-09-22 00:00:00,Customer_003,Headphones,Accessories,Central,2.0,8416.7,0.1,15150.06
+ORD10204,2025-04-27 00:00:00,Customer_093,Power Bank,Accessories,South,4.0,2509.15,0.05,9534.77
+ORD10205,2025-08-16 00:00:00,Customer_015,Speaker,Audio,East,1.0,2766.43,0.1,2489.79
+ORD10206,2025-01-21 00:00:00,Customer_023,USB Hub,Accessories,East,3.0,2125.97,0.1,5740.12
+ORD10207,2025-07-22 00:00:00,Customer_051,Power Bank,Accessories,West,1.0,2907.17,0.15,2471.09
+ORD10208,2025-02-21 00:00:00,Customer_027,Monitor,Electronics,Central,4.0,16384.08,0.0,65536.32
+ORD10209,2025-06-07 00:00:00,Customer_018,Power Bank,Accessories,South,3.0,2571.4,0.05,7328.49
+ORD10210,2025-09-20 00:00:00,Customer_095,Headphones,Accessories,West,1.0,5666.33,0.0,5666.33
+ORD10211,2025-08-29 00:00:00,Customer_042,USB Hub,Accessories,Central,1.0,1550.33,0.1,1395.3
+ORD10212,2025-09-20 00:00:00,Customer_054,Tablet,Electronics,North,1.0,43776.59,0.05,41587.76
+ORD10213,2025-05-21 00:00:00,Customer_022,Gaming Mouse,Gaming,Central,1.0,3058.65,0.0,3058.65
+ORD10214,2025-01-10 00:00:00,Customer_088,External SSD,Storage,South,4.0,7965.04,0.0,31860.16
+ORD10215,2025-02-18 00:00:00,Customer_026,Smartphone,Electronics,East,1.0,64824.01,0.1,58341.61
+ORD10216,2025-03-01 00:00:00,Customer_039,Webcam,Accessories,South,3.0,3011.43,0.15,7679.15
+ORD10217,2025-08-30 00:00:00,Customer_069,Power Bank,Accessories,North,3.0,3276.63,0.0,9829.89
+ORD10218,2025-05-30 00:00:00,Customer_048,Mechanical Keyboard,Gaming,Central,3.0,8108.18,0.0,24324.54
+ORD10219,2025-05-18 00:00:00,Customer_073,Smartwatch,Wearables,Central,2.0,11909.96,0.1,21437.93
+ORD10220,2025-09-20 00:00:00,Customer_085,Keyboard,Accessories,South,2.0,2090.95,0.2,3345.52
+ORD10221,2025-08-29 00:00:00,Customer_075,Gaming Mouse,Gaming,West,1.0,2655.62,0.1,
+ORD10222,2025-06-16 00:00:00,Customer_036,External SSD,Storage,Central,3.0,12841.85,0.05,36599.27
+ORD10223,2025-03-11 00:00:00,Customer_041,External SSD,Storage,West,4.0,7494.28,0.05,28478.26
+ORD10224,2025-01-27 00:00:00,Customer_032,External SSD,Storage,Central,2.0,15814.22,0.1,28465.6
+ORD10225,2025-02-27 00:00:00,Customer_003,External SSD,Storage,South,1.0,12706.56,0.1,11435.9
+ORD10226,2025-04-26 00:00:00,Customer_008,Monitor,Electronics,West,5.0,22898.62,0.1,103043.79
+ORD10227,2025-07-27 00:00:00,Customer_062,Mechanical Keyboard,Gaming,North,1.0,8750.83,0.1,7875.75
+ORD10228,2025-05-16 00:00:00,Customer_084,Mechanical Keyboard,Gaming,East,3.0,2508.04,0.05,7147.91
+ORD10229,2025-04-14 00:00:00,Customer_005,USB Hub,Accessories,West,4.0,969.28,0.05,3683.26
+ORD10230,2025-05-29 00:00:00,Customer_084,Webcam,Accessories,South,4.0,4469.76,0.15,15197.18
+ORD10231,2025-02-07 00:00:00,Customer_098,Headphones,Accessories,Central,3.0,10538.61,0.1,28454.25
+ORD10232,2025-03-07 00:00:00,Customer_085,External SSD,Storage,South,1.0,8940.67,0.05,8493.64
+ORD10233,2025-06-29 00:00:00,Customer_062,Smartwatch,Wearables,South,4.0,11083.93,0.05,42118.93
+ORD10234,2025-05-23 00:00:00,Customer_086,Headphones,Accessories,West,2.0,6769.34,0.15,11507.88
+ORD10235,2025-02-11 00:00:00,Customer_038,Mechanical Keyboard,Gaming,South,3.0,3855.32,0.15,9831.07
+ORD10236,2025-05-14 00:00:00,Customer_067,Laptop,Electronics,West,2.0,75343.67,0.1,135618.61
+ORD10237,2025-05-10 00:00:00,Customer_035,Laptop,Electronics,South,3.0,59513.76,0.0,178541.28
+ORD10238,2025-09-10 00:00:00,Customer_054,Smartwatch,Wearables,North,5.0,11382.14,0.15,48374.09
+ORD10239,2025-08-26 00:00:00,Customer_052,USB Hub,Accessories,East,4.0,1474.12,0.1,5306.83
+ORD10240,2025-01-25 00:00:00,Customer_079,Mechanical Keyboard,Gaming,West,5.0,7863.8,0.1,35387.1
+ORD10241,2025-04-02 00:00:00,Customer_013,Smartwatch,Wearables,West,1.0,14539.22,0.0,14539.22
+ORD10242,2025-02-12 00:00:00,Customer_002,Monitor,Electronics,West,2.0,11218.96,0.1,20194.13
+ORD10243,2025-09-23 00:00:00,Customer_089,Power Bank,Accessories,South,1.0,2098.03,0.1,1888.23
+ORD10244,2025-03-24 00:00:00,Customer_009,Smartwatch,Wearables,East,2.0,14190.93,0.1,25543.67
+ORD10245,2025-09-20 00:00:00,Customer_080,Tablet,Electronics,West,1.0,37828.97,0.05,35937.52
+ORD10246,2025-04-11 00:00:00,Customer_052,Headphones,Accessories,Central,2.0,8038.45,0.0,16076.9
+ORD10247,2025-03-04 00:00:00,Customer_063,Gaming Mouse,Gaming,Central,2.0,3060.87,0.05,5815.65
+ORD10248,2025-08-17 00:00:00,Customer_086,Printer,Office,Central,1.0,15984.59,0.05,15185.36
+ORD10249,2025-09-03 00:00:00,Customer_079,USB Hub,Accessories,Central,1.0,1332.31,0.05,1265.69
+ORD10250,2025-03-06 00:00:00,Customer_013,Smartwatch,Wearables,Central,3.0,4625.2,0.1,12488.04
+ORD10251,2025-06-22 00:00:00,Customer_032,Mechanical Keyboard,Gaming,West,3.0,6590.44,0.0,19771.32
+ORD10252,2025-09-13 00:00:00,Customer_055,Keyboard,Accessories,Central,1.0,1444.38,0.1,1299.94
+ORD10253,2025-09-09 00:00:00,Customer_082,Laptop,Electronics,East,2.0,51752.19,0.05,98329.16
+ORD10254,2025-01-21 00:00:00,Customer_042,Tablet,Electronics,Central,1.0,25017.72,0.05,23766.83
+ORD10255,2025-05-09 00:00:00,Customer_002,Webcam,Accessories,West,1.0,2061.82,0.1,1855.64
+ORD10256,2025-08-20 00:00:00,Customer_021,External SSD,Storage,West,1.0,8631.78,0.15,7337.01
+ORD10257,2025-07-19 00:00:00,Customer_049,Printer,Office,North,2.0,18527.72,0.15,31497.12
+ORD10258,2025-03-28 00:00:00,Customer_008,Speaker,Audio,Central,1.0,5906.47,0.0,5906.47
+ORD10259,2025-06-01 00:00:00,Customer_017,USB Hub,Accessories,Central,1.0,1992.41,0.1,1793.17
+ORD10260,2025-08-16 00:00:00,Customer_011,Gaming Mouse,Gaming,West,2.0,2489.14,0.05,4729.37
+ORD10261,2025-09-18 00:00:00,Customer_005,Printer,Office,South,3.0,18566.04,0.0,55698.12
+ORD10262,2025-08-11 00:00:00,Customer_008,Smartwatch,Wearables,North,1.0,3773.66,0.2,3018.93
+ORD10263,2025-03-19 00:00:00,Customer_041,Monitor,Electronics,North,5.0,23014.36,0.0,115071.8
+ORD10264,2025-05-29 00:00:00,Customer_036,Laptop,Electronics,West,2.0,46887.81,0.2,75020.5
+ORD10265,2025-06-09 00:00:00,Customer_095,Mechanical Keyboard,Gaming,West,2.0,3240.72,0.05,6157.37
+ORD10266,2025-07-02 00:00:00,Customer_073,Laptop,Electronics,North,1.0,46968.1,0.0,46968.1
+ORD10267,2025-04-24 00:00:00,Customer_022,Webcam,Accessories,West,1.0,4525.51,0.05,4299.23
+ORD10268,2025-06-23 00:00:00,Customer_021,Monitor,Electronics,East,1.0,11551.53,0.0,11551.53
+ORD10269,2025-09-25 00:00:00,Customer_047,External SSD,Storage,South,2.0,9119.99,0.15,15503.98
+ORD10270,2025-08-26 00:00:00,Customer_007,Mechanical Keyboard,Gaming,West,2.0,3936.91,0.2,6299.06
+ORD10271,2025-01-22 00:00:00,Customer_092,Headphones,Accessories,Central,1.0,4656.65,0.1,4190.98
+ORD10272,2025-02-19 00:00:00,Customer_095,Smartphone,Electronics,East,3.0,20936.9,0.1,56529.63
+ORD10273,2025-07-08 00:00:00,Customer_097,Tablet,Electronics,East,1.0,23298.66,0.05,22133.73
+ORD10274,2025-04-18 00:00:00,Customer_025,Laptop,Electronics,Central,1.0,70425.99,0.1,63383.39
+ORD10275,2025-05-09 00:00:00,Customer_005,Keyboard,Accessories,East,1.0,1992.36,0.0,1992.36
+ORD10276,2025-01-10 00:00:00,Customer_021,Laptop,Electronics,East,5.0,49463.01,0.05,234949.3
+ORD10277,2025-03-27 00:00:00,Customer_090,Printer,Office,South,1.0,12752.31,0.1,11477.08
+ORD10278,2025-01-20 00:00:00,Customer_075,Laptop,Electronics,East,1.0,78558.02,0.0,78558.02
+ORD10279,2025-07-05 00:00:00,Customer_004,USB Hub,Accessories,Central,3.0,1440.64,0.1,3889.73
+ORD10280,2025-06-03 00:00:00,Customer_037,Laptop,Electronics,Central,2.0,80117.99,0.0,160235.98
+ORD10281,2025-09-17 00:00:00,Customer_060,Smartphone,Electronics,North,1.0,24810.49,0.0,24810.49
+ORD10282,2025-08-09 00:00:00,Customer_014,Smartphone,Electronics,East,1.0,37127.99,0.15,31558.79
+ORD10283,2025-09-11 00:00:00,Customer_024,External SSD,Storage,South,1.0,12539.79,0.1,11285.81
+ORD10284,2025-07-30 00:00:00,Customer_022,Gaming Mouse,Gaming,Central,2.0,3368.8,0.0,6737.6
+ORD10285,2025-07-11 00:00:00,Customer_019,Headphones,Accessories,Central,3.0,11805.27,0.0,35415.81
+ORD10286,2025-05-26 00:00:00,Customer_063,Keyboard,Accessories,West,1.0,1618.94,0.05,1537.99
+ORD10287,2025-04-28 00:00:00,Customer_045,Laptop,Electronics,North,1.0,81061.51,0.1,72955.36
+ORD10288,2025-07-17 00:00:00,Customer_047,Laptop,Electronics,West,2.0,73627.98,0.1,132530.36
+ORD10289,2025-03-02 00:00:00,Customer_010,Tablet,Electronics,South,1.0,30871.78,0.1,27784.6
+ORD10290,2025-04-28 00:00:00,Customer_070,Mechanical Keyboard,Gaming,North,1.0,7051.64,0.1,6346.48
+ORD10291,2025-02-04 00:00:00,Customer_046,Smartphone,Electronics,South,4.0,58042.01,0.0,232168.04
+ORD10292,2025-02-18 00:00:00,Customer_021,Keyboard,Accessories,South,4.0,3057.41,0.0,12229.64
+ORD10293,2025-05-06 00:00:00,Customer_039,External SSD,Storage,South,4.0,14178.25,0.1,51041.7
+ORD10294,2025-07-01 00:00:00,Customer_046,Webcam,Accessories,West,4.0,5791.17,0.0,23164.68
+ORD10295,2025-02-05 00:00:00,Customer_085,Gaming Mouse,Gaming,West,1.0,2535.23,0.15,2154.95
+ORD10296,2025-08-08 00:00:00,Customer_014,Headphones,Accessories,South,1.0,1591.91,0.05,1512.31
+ORD10297,2025-07-24 00:00:00,Customer_070,Monitor,Electronics,West,1.0,24947.36,0.05,23699.99
+ORD10298,2025-09-07 00:00:00,Customer_057,Headphones,Accessories,Central,1.0,10413.37,0.0,10413.37
+ORD10299,2025-05-07 00:00:00,Customer_015,USB Hub,Accessories,South,2.0,1322.19,0.05,2512.16
+ORD10300,2025-07-18 00:00:00,Customer_021,Printer,Office,South,3.0,16418.09,0.0,49254.27
+ORD10301,2025-06-14 00:00:00,Customer_058,USB Hub,Accessories,Central,3.0,2075.43,0.1,5603.66
+ORD10302,2025-06-10 00:00:00,Customer_050,Laptop,Electronics,Central,1.0,74437.86,0.0,74437.86
+ORD10303,2025-03-22 00:00:00,Customer_024,Speaker,Audio,Central,1.0,3633.22,0.15,3088.24
+ORD10304,2025-03-27 00:00:00,Customer_049,Gaming Mouse,Gaming,North,1.0,2556.31,0.1,2300.68
+ORD10305,2025-01-05 00:00:00,Customer_002,Printer,Office,North,2.0,10296.79,0.15,17504.54
+ORD10306,2025-05-05 00:00:00,Customer_039,Keyboard,Accessories,West,2.0,1994.43,0.05,3789.42
+ORD10307,2025-05-18 00:00:00,Customer_099,Monitor,Electronics,East,1.0,19762.56,0.15,16798.18
+ORD10308,2025-01-20 00:00:00,Customer_026,Smartphone,Electronics,West,3.0,26075.01,0.05,74313.78
+ORD10309,2025-08-01 00:00:00,Customer_079,Gaming Mouse,Gaming,West,3.0,3029.48,0.0,9088.44
+ORD10310,2025-02-27 00:00:00,Customer_028,Gaming Mouse,Gaming,South,4.0,1879.06,0.05,7140.43
+ORD10311,2025-02-13 00:00:00,Customer_097,USB Hub,Accessories,South,2.0,1605.03,0.0,3210.06
+ORD10312,2025-03-30 00:00:00,Customer_050,Speaker,Audio,East,2.0,2396.53,0.1,4313.75
+ORD10313,2025-03-15 00:00:00,Customer_008,Laptop,Electronics,West,3.0,88401.45,0.0,265204.35
+ORD10314,2025-02-24 00:00:00,Customer_009,Smartwatch,Wearables,South,3.0,11452.7,0.1,30922.29
+ORD10315,2025-09-20 00:00:00,Customer_080,External SSD,Storage,East,1.0,14046.69,0.1,12642.02
+ORD10316,2025-08-08 00:00:00,Customer_001,USB Hub,Accessories,Central,1.0,2294.37,0.0,2294.37
+ORD10317,2025-09-03 00:00:00,Customer_019,Gaming Mouse,Gaming,North,3.0,4263.55,0.05,12151.12
+ORD10318,2025-03-04 00:00:00,Customer_021,Power Bank,Accessories,Central,3.0,2466.14,0.2,5918.74
+ORD10319,2025-02-28 00:00:00,Customer_027,Tablet,Electronics,Central,1.0,44903.58,0.2,35922.86
+ORD10320,2025-06-03 00:00:00,Customer_005,Monitor,Electronics,East,2.0,20075.39,0.1,36135.7
+ORD10321,2025-05-14 00:00:00,Customer_083,External SSD,Storage,West,1.0,16156.3,0.15,13732.86
+ORD10322,2025-08-01 00:00:00,Customer_088,USB Hub,Accessories,South,1.0,1442.34,0.15,1225.99
+ORD10323,2025-06-05 00:00:00,Customer_090,Monitor,Electronics,North,3.0,27476.26,0.1,74185.9
+ORD10324,2025-03-16 00:00:00,Customer_057,Tablet,Electronics,North,1.0,16685.08,0.05,15850.83
+ORD10325,2025-07-31 00:00:00,Customer_016,Webcam,Accessories,South,3.0,4092.08,0.2,9820.99
+ORD10326,2025-07-20 00:00:00,Customer_020,Tablet,Electronics,West,1.0,34648.8,0.0,34648.8
+ORD10327,2025-03-08 00:00:00,Customer_004,Speaker,Audio,South,5.0,2117.7,0.0,10588.5
+ORD10328,2025-08-15 00:00:00,Customer_057,Tablet,Electronics,Central,2.0,22075.25,0.0,44150.5
+ORD10329,2025-02-08 00:00:00,Customer_009,Monitor,Electronics,East,1.0,24944.22,0.15,21202.59
+ORD10330,2025-05-14 00:00:00,Customer_091,Headphones,Accessories,East,1.0,10907.55,0.1,9816.8
+ORD10331,2025-04-10 00:00:00,Customer_072,Monitor,Electronics,East,1.0,18388.17,0.05,17468.76
+ORD10332,2025-09-27 00:00:00,Customer_026,Smartwatch,Wearables,North,1.0,14936.49,0.05,14189.67
+ORD10333,2025-07-20 00:00:00,Customer_028,Laptop,Electronics,West,1.0,85984.66,0.1,77386.19
+ORD10334,2025-05-04 00:00:00,Customer_019,Printer,Office,West,5.0,17805.55,0.1,80124.98
+ORD10335,2025-09-22 00:00:00,Customer_064,Headphones,Accessories,North,1.0,8799.81,0.1,7919.83
+ORD10336,2025-08-15 00:00:00,Customer_059,Smartphone,Electronics,North,2.0,31569.59,0.1,56825.26
+ORD10337,2025-05-05 00:00:00,Customer_086,Printer,Office,North,1.0,23155.0,0.15,19681.75
+ORD10338,2025-03-03 00:00:00,Customer_048,Laptop,Electronics,West,5.0,73177.93,0.1,329300.68
+ORD10339,2025-09-12 00:00:00,Customer_021,USB Hub,Accessories,Central,2.0,2490.88,0.15,4234.5
+ORD10340,2025-07-20 00:00:00,Customer_061,External SSD,Storage,North,1.0,7862.93,0.05,7469.78
+ORD10341,2025-03-06 00:00:00,Customer_008,Smartwatch,Wearables,Central,2.0,15353.95,0.15,26101.72
+ORD10342,2025-06-23 00:00:00,Customer_047,Smartwatch,Wearables,North,2.0,3774.21,0.15,6416.16
+ORD10343,2025-01-21 00:00:00,Customer_051,Smartphone,Electronics,West,1.0,24065.36,0.0,24065.36
+ORD10344,2025-01-28 00:00:00,Customer_004,Headphones,Accessories,West,3.0,8107.74,0.1,21890.9
+ORD10345,2025-06-11 00:00:00,Customer_091,Speaker,Audio,North,2.0,7043.91,0.2,11270.26
+ORD10346,2025-06-02 00:00:00,Customer_082,Mechanical Keyboard,Gaming,North,2.0,6621.68,0.0,13243.36
+ORD10347,2025-04-03 00:00:00,Customer_099,Webcam,Accessories,East,1.0,4822.39,0.15,4099.03
+ORD10348,2025-07-08 00:00:00,Customer_049,Tablet,Electronics,North,2.0,27651.52,0.1,49772.74
+ORD10349,2025-03-31 00:00:00,Customer_039,Headphones,Accessories,Central,1.0,1596.59,0.0,1596.59
+ORD10350,2025-08-21 00:00:00,Customer_009,External SSD,Storage,Central,2.0,7840.63,0.05,14897.2
+ORD10351,2025-02-28 00:00:00,Customer_039,Webcam,Accessories,North,1.0,6000.14,0.1,5400.13
+ORD10352,2025-05-07 00:00:00,Customer_046,Smartwatch,Wearables,Central,1.0,12969.01,0.0,12969.01
+ORD10353,2025-04-19 00:00:00,Customer_012,Monitor,Electronics,Central,1.0,17858.39,0.05,16965.47
+ORD10354,2025-09-07 00:00:00,Customer_069,External SSD,Storage,North,1.0,15709.27,0.2,12567.42
+ORD10355,2025-08-03 00:00:00,Customer_049,Laptop,Electronics,West,2.0,47301.09,0.05,89872.07
+ORD10356,2025-05-07 00:00:00,Customer_036,Smartphone,Electronics,South,2.0,21296.82,0.05,40463.96
+ORD10357,2025-04-23 00:00:00,Customer_097,Laptop,Electronics,West,1.0,71834.47,0.1,64651.02
+ORD10358,2025-04-15 00:00:00,Customer_074,Mechanical Keyboard,Gaming,South,1.0,4806.01,0.15,4085.11
+ORD10359,2025-02-20 00:00:00,Customer_073,External SSD,Storage,North,4.0,12783.0,0.1,46018.8
+ORD10360,2025-04-27 00:00:00,Customer_002,Keyboard,Accessories,Central,1.0,1181.18,0.1,1063.06
+ORD10361,2025-03-22 00:00:00,Customer_041,Keyboard,Accessories,West,1.0,2195.11,0.0,2195.11
+ORD10362,2025-08-01 00:00:00,Customer_062,USB Hub,Accessories,North,1.0,1472.0,0.1,1324.8
+ORD10363,2025-04-17 00:00:00,Customer_018,Headphones,Accessories,West,1.0,6239.36,0.15,5303.46
+ORD10364,2025-05-02 00:00:00,Customer_030,Smartwatch,Wearables,West,2.0,6768.41,0.05,12859.98
+ORD10365,2025-06-21 00:00:00,Customer_079,Smartwatch,Wearables,North,1.0,8455.71,0.05,8032.92
+ORD10366,2025-04-28 00:00:00,Customer_100,Tablet,Electronics,West,2.0,22522.61,0.1,40540.7
+ORD10367,2025-01-07 00:00:00,Customer_068,Tablet,Electronics,Central,2.0,24360.25,0.0,48720.5
+ORD10368,2025-06-06 00:00:00,Customer_074,Tablet,Electronics,West,4.0,23413.96,0.0,93655.84
+ORD10369,2025-05-06 00:00:00,Customer_011,Monitor,Electronics,North,1.0,9140.92,0.05,8683.87
+ORD10370,2025-06-25 00:00:00,Customer_056,Printer,Office,West,1.0,22095.65,0.1,19886.09
+ORD10371,2025-03-08 00:00:00,Customer_075,Gaming Mouse,Gaming,Central,2.0,1331.56,0.0,2663.12
+ORD10372,2025-08-22 00:00:00,Customer_051,Printer,Office,South,1.0,6740.92,0.0,6740.92
+ORD10373,2025-05-02 00:00:00,Customer_037,Laptop,Electronics,South,1.0,51617.78,0.05,49036.89
+ORD10374,2025-07-20 00:00:00,Customer_029,Printer,Office,Central,1.0,15006.12,0.05,14255.81
+ORD10375,2025-08-12 00:00:00,Customer_022,Monitor,Electronics,West,2.0,12183.27,0.0,24366.54
+ORD10376,2025-02-11 00:00:00,Customer_098,USB Hub,Accessories,Central,5.0,1455.76,0.1,6550.92
+ORD10377,2025-01-21 00:00:00,Customer_044,Laptop,Electronics,East,1.0,47594.14,0.05,45214.43
+ORD10378,2025-05-05 00:00:00,Customer_099,Printer,Office,Central,2.0,12598.26,0.1,22676.87
+ORD10379,2025-09-30 00:00:00,Customer_099,Monitor,Electronics,West,2.0,19266.85,0.05,36607.01
+ORD10380,2025-06-14 00:00:00,Customer_085,Gaming Mouse,Gaming,West,1.0,2235.87,0.1,2012.28
+ORD10381,2025-03-05 00:00:00,Customer_091,Printer,Office,Central,3.0,19506.81,0.15,49742.37
+ORD10382,2025-09-03 00:00:00,Customer_021,Monitor,Electronics,East,2.0,16422.68,0.05,31203.09
+ORD10383,2025-02-15 00:00:00,Customer_012,Mechanical Keyboard,Gaming,North,2.0,2875.32,0.1,5175.58
+ORD10384,2025-03-11 00:00:00,Customer_055,Tablet,Electronics,South,4.0,28925.78,0.0,115703.12
+ORD10385,2025-07-22 00:00:00,Customer_064,Mechanical Keyboard,Gaming,North,2.0,5895.89,0.1,10612.6
+ORD10386,2025-08-07 00:00:00,Customer_082,Smartwatch,Wearables,West,1.0,13748.61,0.15,11686.32
+ORD10387,2025-06-12 00:00:00,Customer_048,Tablet,Electronics,North,3.0,37229.42,0.1,100519.43
+ORD10388,2025-08-13 00:00:00,Customer_096,Smartwatch,Wearables,East,1.0,2549.1,0.1,2294.19
+ORD10389,2025-07-08 00:00:00,Customer_031,Power Bank,Accessories,South,1.0,1693.75,0.0,1693.75
+ORD10390,2025-02-23 00:00:00,Customer_010,Smartphone,Electronics,South,2.0,52824.71,0.1,95084.48
+ORD10391,2025-06-18 00:00:00,Customer_024,Mechanical Keyboard,Gaming,East,2.0,6689.06,0.15,11371.4
+ORD10392,2025-01-19 00:00:00,Customer_008,Smartphone,Electronics,South,1.0,67659.64,0.0,67659.64
+ORD10393,2025-03-06 00:00:00,Customer_036,Smartphone,Electronics,North,3.0,31204.07,0.0,93612.21
+ORD10394,2025-05-16 00:00:00,Customer_005,Gaming Mouse,Gaming,West,2.0,1183.02,0.0,2366.04
+ORD10395,2025-07-13 00:00:00,Customer_063,Tablet,Electronics,North,2.0,37281.83,0.15,63379.11
+ORD10396,2025-03-16 00:00:00,Customer_099,Power Bank,Accessories,East,3.0,1769.04,0.1,4776.41
+ORD10397,2025-02-14 00:00:00,Customer_061,Smartwatch,Wearables,East,2.0,11444.13,0.1,20599.43
+ORD10398,2025-06-11 00:00:00,Customer_016,Monitor,Electronics,West,2.0,15290.88,0.0,30581.76
+ORD10399,2025-08-03 00:00:00,Customer_078,Laptop,Electronics,East,1.0,76954.95,0.1,69259.46
+ORD10400,2025-08-21 00:00:00,Customer_030,Monitor,Electronics,Central,1.0,21248.41,0.15,18061.15
+ORD10401,2025-08-02 00:00:00,Customer_031,Laptop,Electronics,North,1.0,54658.26,0.05,51925.35
+ORD10402,2025-02-23 00:00:00,Customer_052,Mechanical Keyboard,Gaming,West,3.0,8135.07,0.05,23184.95
+ORD10403,2025-02-22 00:00:00,Customer_024,Keyboard,Accessories,West,2.0,1377.41,0.1,2479.34
+ORD10404,2025-04-29 00:00:00,Customer_031,Monitor,Electronics,South,1.0,25282.27,0.05,24018.16
+ORD10405,2025-07-23 00:00:00,Customer_049,Printer,Office,North,1.0,17961.6,0.0,17961.6
+ORD10406,2025-04-06 00:00:00,Customer_086,Printer,Office,North,1.0,15711.45,0.0,15711.45
+ORD10407,2025-06-06 00:00:00,Customer_028,Headphones,Accessories,East,1.0,10264.86,0.0,10264.86
+ORD10408,2025-06-11 00:00:00,Customer_044,Tablet,Electronics,West,3.0,16287.69,0.1,43976.76
+ORD10409,2025-06-26 00:00:00,Customer_070,Laptop,Electronics,West,3.0,85134.25,0.05,242632.61
+ORD10410,2025-08-05 00:00:00,Customer_055,Laptop,Electronics,South,2.0,50221.02,0.0,100442.04
+ORD10411,2025-04-11 00:00:00,Customer_033,External SSD,Storage,West,1.0,8305.01,0.15,7059.26
+ORD10412,2025-07-20 00:00:00,Customer_021,USB Hub,Accessories,West,1.0,1852.22,0.15,1574.39
+ORD10413,2025-04-11 00:00:00,Customer_048,Tablet,Electronics,West,3.0,33256.92,0.0,99770.76
+ORD10414,2025-09-13 00:00:00,Customer_078,Gaming Mouse,Gaming,East,4.0,2851.47,0.0,11405.88
+ORD10415,2025-07-29 00:00:00,Customer_013,Headphones,Accessories,West,1.0,1765.43,0.1,1588.89
+ORD10416,2025-04-10 00:00:00,Customer_087,Gaming Mouse,Gaming,Central,3.0,1769.18,0.1,4776.79
+ORD10417,2025-01-03 00:00:00,Customer_028,Mechanical Keyboard,Gaming,West,1.0,5065.77,0.15,4305.9
+ORD10418,2025-03-06 00:00:00,Customer_100,Mechanical Keyboard,Gaming,Central,1.0,6934.26,0.05,6587.55
+ORD10419,2025-04-28 00:00:00,Customer_054,Gaming Mouse,Gaming,South,1.0,2407.92,0.0,2407.92
+ORD10420,2025-01-13 00:00:00,Customer_037,Gaming Mouse,Gaming,South,2.0,1309.45,0.1,2357.01
+ORD10421,2025-04-21 00:00:00,Customer_017,Power Bank,Accessories,West,1.0,1285.54,0.05,1221.26
+ORD10422,2025-08-16 00:00:00,Customer_060,Tablet,Electronics,South,2.0,12327.49,0.05,23422.23
+ORD10423,2025-06-24 00:00:00,Customer_081,Gaming Mouse,Gaming,West,2.0,2178.64,0.1,3921.55
+ORD10424,2025-07-06 00:00:00,Customer_047,Printer,Office,North,5.0,8385.45,0.0,41927.25
+ORD10425,2025-06-02 00:00:00,Customer_033,USB Hub,Accessories,South,1.0,1031.17,0.0,1031.17
+ORD10426,2025-07-27 00:00:00,Customer_043,USB Hub,Accessories,Central,1.0,1783.72,0.1,1605.35
+ORD10427,2025-06-09 00:00:00,Customer_075,Smartphone,Electronics,North,2.0,68580.69,0.15,116587.17
+ORD10428,2025-02-28 00:00:00,Customer_004,Keyboard,Accessories,East,2.0,1515.2,0.0,3030.4
+ORD10429,2025-07-24 00:00:00,Customer_079,Mechanical Keyboard,Gaming,West,3.0,8592.96,0.1,23200.99
+ORD10430,2025-04-29 00:00:00,Customer_005,Laptop,Electronics,West,2.0,47603.0,0.2,76164.8
+ORD10431,2025-08-21 00:00:00,Customer_017,External SSD,Storage,East,2.0,17515.99,0.0,35031.98
+ORD10432,2025-01-25 00:00:00,Customer_010,Speaker,Audio,East,3.0,6767.74,0.15,17257.74
+ORD10433,2025-03-09 00:00:00,Customer_095,Laptop,Electronics,West,2.0,51613.32,0.15,87742.64
+ORD10434,2025-04-12 00:00:00,Customer_088,Keyboard,Accessories,West,2.0,2967.61,0.15,5044.94
+ORD10435,2025-08-29 00:00:00,Customer_005,External SSD,Storage,West,2.0,5788.18,0.1,10418.72
+ORD10436,2025-08-14 00:00:00,Customer_015,Power Bank,Accessories,Central,2.0,2287.79,0.0,4575.58
+ORD10437,2025-03-03 00:00:00,Customer_086,Tablet,Electronics,South,4.0,43756.24,0.1,157522.46
+ORD10438,2025-01-03 00:00:00,Customer_094,Monitor,Electronics,Central,2.0,12786.47,0.05,24294.29
+ORD10439,2025-07-28 00:00:00,Customer_075,Tablet,Electronics,Central,2.0,41623.26,0.1,74921.87
+ORD10440,2025-06-18 00:00:00,Customer_016,Laptop,Electronics,West,2.0,62633.62,0.1,112740.52
+ORD10441,2025-03-31 00:00:00,Customer_062,Laptop,Electronics,North,5.0,89766.87,0.1,403950.92
+ORD10442,2025-06-03 00:00:00,Customer_006,External SSD,Storage,West,1.0,10966.53,0.15,9321.55
+ORD10443,2025-09-30 00:00:00,Customer_043,External SSD,Storage,Central,3.0,14517.59,0.05,41375.13
+ORD10444,2025-01-08 00:00:00,Customer_094,Mechanical Keyboard,Gaming,West,5.0,8785.84,0.05,41732.74
+ORD10445,2025-07-06 00:00:00,Customer_084,Power Bank,Accessories,South,1.0,2885.91,0.1,2597.32
+ORD10446,2025-03-15 00:00:00,Customer_036,Mechanical Keyboard,Gaming,Central,3.0,5742.82,0.0,17228.46
+ORD10447,2025-08-04 00:00:00,Customer_042,Keyboard,Accessories,West,1.0,2245.57,0.15,1908.73
+ORD10448,2025-04-11 00:00:00,Customer_027,Gaming Mouse,Gaming,North,1.0,3010.2,0.15,2558.67
+ORD10449,2025-08-16 00:00:00,Customer_009,Tablet,Electronics,East,1.0,41523.21,0.0,41523.21
+ORD10450,2025-08-29 00:00:00,Customer_067,External SSD,Storage,West,5.0,11430.78,0.1,51438.51
+ORD10451,2025-04-01 00:00:00,Customer_090,Smartwatch,Wearables,North,1.0,3005.58,0.0,3005.58
+ORD10452,2025-04-01 00:00:00,Customer_082,Keyboard,Accessories,West,3.0,1402.8,0.1,3787.56
+ORD10453,2025-04-26 00:00:00,Customer_087,Printer,Office,South,3.0,23142.49,0.15,59013.35
+ORD10454,2025-07-12 00:00:00,Customer_017,Power Bank,Accessories,South,3.0,3230.49,0.0,9691.47
+ORD10455,2025-09-13 00:00:00,Customer_011,Laptop,Electronics,East,2.0,55120.06,0.05,104728.11
+ORD10456,2025-04-19 00:00:00,Customer_060,Mechanical Keyboard,Gaming,South,2.0,4621.2,0.15,7856.04
+ORD10457,2025-03-25 00:00:00,Customer_015,Keyboard,Accessories,South,4.0,1874.45,0.1,6748.02
+ORD10458,2025-05-27 00:00:00,Customer_046,Speaker,Audio,West,1.0,6524.61,0.0,6524.61
+ORD10459,2025-07-14 00:00:00,Customer_024,Tablet,Electronics,East,2.0,24023.69,0.05,45645.01
+ORD10460,2025-01-24 00:00:00,Customer_024,External SSD,Storage,South,3.0,9318.48,0.1,25159.9
+ORD10461,2025-06-30 00:00:00,Customer_023,Laptop,Electronics,Central,3.0,68204.67,0.05,194383.31
+ORD10462,2025-09-06 00:00:00,Customer_060,Monitor,Electronics,Central,1.0,11685.2,0.1,10516.68
+ORD10463,2025-03-26 00:00:00,Customer_061,Speaker,Audio,West,3.0,3204.76,0.0,9614.28
+ORD10464,2025-02-07 00:00:00,Customer_036,Power Bank,Accessories,North,1.0,904.57,0.1,814.11
+ORD10465,2025-07-09 00:00:00,Customer_025,Keyboard,Accessories,East,3.0,1883.36,0.05,5367.58
+ORD10466,2025-02-16 00:00:00,Customer_100,Headphones,Accessories,Central,1.0,2553.85,0.05,2426.16
+ORD10467,2025-07-21 00:00:00,Customer_032,Laptop,Electronics,East,2.0,51732.07,0.05,98290.93
+ORD10468,2025-01-10 00:00:00,Customer_086,Tablet,Electronics,North,1.0,29080.68,0.05,27626.65
+ORD10469,2025-05-03 00:00:00,Customer_021,Smartphone,Electronics,Central,1.0,67206.47,0.1,60485.82
+ORD10470,2025-03-22 00:00:00,Customer_088,Smartwatch,Wearables,South,1.0,10464.74,0.1,9418.27
+ORD10471,2025-01-01 00:00:00,Customer_023,Webcam,Accessories,South,2.0,5428.8,0.05,10314.72
+ORD10472,2025-09-08 00:00:00,Customer_041,Speaker,Audio,Central,3.0,8824.37,0.05,25149.45
+ORD10473,2025-09-02 00:00:00,Customer_003,Gaming Mouse,Gaming,North,1.0,1774.91,0.1,1597.42
+ORD10474,2025-07-02 00:00:00,Customer_064,Webcam,Accessories,North,3.0,5498.81,0.1,14846.79
+ORD10475,2025-05-08 00:00:00,Customer_068,Tablet,Electronics,South,1.0,27922.51,0.1,25130.26
+ORD10476,2025-03-19 00:00:00,Customer_058,Printer,Office,North,1.0,20861.25,0.0,20861.25
+ORD10477,2025-06-17 00:00:00,Customer_083,Mechanical Keyboard,Gaming,Central,5.0,5344.8,0.0,26724.0
+ORD10478,2025-01-13 00:00:00,Customer_064,Printer,Office,East,2.0,19650.62,0.15,33406.05
+ORD10479,2025-03-30 00:00:00,Customer_020,Smartphone,Electronics,West,5.0,27470.01,0.15,116747.54
+ORD10480,2025-01-07 00:00:00,Customer_078,Speaker,Audio,East,2.0,4190.67,0.15,7124.14
+ORD10481,2025-05-04 00:00:00,Customer_097,Gaming Mouse,Gaming,North,3.0,4925.81,0.1,13299.69
+ORD10482,2025-05-20 00:00:00,Customer_017,Headphones,Accessories,North,1.0,5419.37,0.0,5419.37
+ORD10483,2025-02-28 00:00:00,Customer_033,Smartphone,Electronics,South,2.0,63289.15,0.1,113920.47
+ORD10484,2025-02-16 00:00:00,Customer_039,Speaker,Audio,West,2.0,7326.27,0.05,13919.91
+ORD10485,2025-08-03 00:00:00,Customer_014,USB Hub,Accessories,East,5.0,2069.72,0.1,9313.74
+ORD10486,2025-07-21 00:00:00,Customer_057,Webcam,Accessories,South,3.0,4806.06,0.2,11534.54
+ORD10487,2025-02-27 00:00:00,Customer_069,Smartphone,Electronics,West,2.0,68740.73,0.0,137481.46
+ORD10488,2025-08-07 00:00:00,Customer_049,Webcam,Accessories,West,1.0,5558.37,0.1,5002.53
+ORD10489,2025-07-27 00:00:00,Customer_002,Laptop,Electronics,West,1.0,72246.72,0.1,65022.05
+ORD10490,2025-08-07 00:00:00,Customer_029,Printer,Office,West,2.0,19105.8,0.0,38211.6
+ORD10491,2025-03-25 00:00:00,Customer_099,Laptop,Electronics,South,1.0,49143.01,0.1,44228.71
+ORD10492,2025-07-26 00:00:00,Customer_027,Smartwatch,Wearables,South,1.0,2734.22,0.2,2187.38
+ORD10493,2025-04-10 00:00:00,Customer_059,USB Hub,Accessories,West,2.0,1844.11,0.1,3319.4
+ORD10494,2025-09-23 00:00:00,Customer_053,Gaming Mouse,Gaming,East,1.0,1613.73,0.0,1613.73
+ORD10495,2025-04-08 00:00:00,Customer_030,Headphones,Accessories,North,3.0,10736.33,0.0,32208.99
+ORD10496,2025-01-07 00:00:00,Customer_049,Power Bank,Accessories,North,1.0,2845.21,0.05,2702.95
+ORD10497,2025-08-25 00:00:00,Customer_046,Webcam,Accessories,South,2.0,6766.7,0.05,12856.73
+ORD10498,2025-02-23 00:00:00,Customer_050,Headphones,Accessories,East,3.0,3518.41,0.1,9499.71
+ORD10499,2025-09-28 00:00:00,Customer_004,Webcam,Accessories,Central,4.0,1963.66,0.15,6676.44
+ORD10500,2025-09-30 00:00:00,Customer_043,Tablet,Electronics,North,2.0,26466.7,0.2,42346.72
+ORD10501,2025-02-08 00:00:00,Customer_023,Smartphone,Electronics,West,2.0,53547.72,0.0,107095.44
+ORD10502,2025-03-10 00:00:00,Customer_043,Smartwatch,Wearables,South,1.0,6349.83,0.0,6349.83
+ORD10503,2025-06-10 00:00:00,Customer_075,Printer,Office,South,1.0,14719.87,0.1,13247.88
+ORD10504,2025-05-07 00:00:00,Customer_019,Power Bank,Accessories,West,1.0,1932.41,0.15,1642.55
+ORD10505,2025-04-01 00:00:00,Customer_008,External SSD,Storage,East,4.0,12075.3,0.0,48301.2
+ORD10506,2025-04-17 00:00:00,Customer_089,Webcam,Accessories,North,3.0,3851.23,0.0,11553.69
+ORD10507,2025-02-25 00:00:00,Customer_059,Headphones,Accessories,Central,4.0,11084.78,0.15,37688.25
+ORD10508,2025-08-18 00:00:00,Customer_040,Smartwatch,Wearables,West,1.0,16042.71,0.1,14438.44
+ORD10509,2025-01-18 00:00:00,Customer_098,Monitor,Electronics,East,2.0,12032.14,0.1,21657.85
+ORD10510,2025-05-15 00:00:00,Customer_061,Power Bank,Accessories,East,2.0,1523.41,0.1,2742.14
+ORD10511,2025-01-03 00:00:00,Customer_078,Monitor,Electronics,South,2.0,28469.32,0.0,56938.64
+ORD10512,2025-05-13 00:00:00,Customer_074,Laptop,Electronics,West,1.0,86581.21,0.0,86581.21
+ORD10513,2025-03-25 00:00:00,Customer_083,Printer,Office,East,2.0,22752.12,0.15,38678.6
+ORD10514,2025-08-22 00:00:00,Customer_023,Mechanical Keyboard,Gaming,North,3.0,2551.77,0.15,6507.01
+ORD10515,2025-06-02 00:00:00,Customer_055,Mechanical Keyboard,Gaming,Central,1.0,4799.63,0.15,4079.69
+ORD10516,2025-04-07 00:00:00,Customer_085,External SSD,Storage,Central,1.0,9607.52,0.1,8646.77
+ORD10517,2025-05-30 00:00:00,Customer_041,Tablet,Electronics,Central,1.0,30261.25,0.1,27235.12
+ORD10518,2025-08-02 00:00:00,Customer_073,Headphones,Accessories,Central,2.0,10249.41,0.15,17424.0
+ORD10519,2025-04-22 00:00:00,Customer_023,Speaker,Audio,Central,2.0,4994.3,0.1,8989.74
+ORD10520,2025-05-14 00:00:00,Customer_018,External SSD,Storage,North,1.0,5025.9,0.1,4523.31
+ORD10521,2025-05-02 00:00:00,Customer_010,Smartphone,Electronics,West,1.0,37781.05,0.1,34002.95
+ORD10522,2025-01-11 00:00:00,Customer_078,Smartphone,Electronics,East,2.0,21512.83,0.0,43025.66
+ORD10523,2025-05-17 00:00:00,Customer_047,Headphones,Accessories,North,1.0,9293.42,0.1,8364.08
+ORD10524,2025-06-24 00:00:00,Customer_065,Speaker,Audio,Central,2.0,6097.69,0.1,10975.84
+ORD10525,2025-04-03 00:00:00,Customer_048,Gaming Mouse,Gaming,Central,2.0,2589.03,0.15,4401.35
+ORD10526,2025-05-08 00:00:00,Customer_088,Tablet,Electronics,South,2.0,28358.22,0.15,48208.97
+ORD10527,2025-01-07 00:00:00,Customer_058,Smartwatch,Wearables,North,2.0,4271.43,0.1,7688.57
+ORD10528,2025-06-20 00:00:00,Customer_025,Webcam,Accessories,East,5.0,5770.69,0.1,25968.1
+ORD10529,2025-05-24 00:00:00,Customer_025,Speaker,Audio,West,2.0,6265.77,0.1,11278.39
+ORD10530,2025-03-27 00:00:00,Customer_080,Mechanical Keyboard,Gaming,North,2.0,7392.15,0.05,14045.08
+ORD10531,2025-07-25 00:00:00,Customer_029,Power Bank,Accessories,East,2.0,1934.25,0.1,3481.65
+ORD10532,2025-05-19 00:00:00,Customer_053,Gaming Mouse,Gaming,North,3.0,2558.73,0.05,7292.38
+ORD10533,2025-08-12 00:00:00,Customer_008,Webcam,Accessories,West,3.0,6459.76,0.0,19379.28
+ORD10534,2025-04-26 00:00:00,Customer_057,Webcam,Accessories,North,1.0,5586.95,0.15,4748.91
+ORD10535,2025-01-20 00:00:00,Customer_064,Gaming Mouse,Gaming,Central,1.0,2439.42,0.15,2073.51
+ORD10536,2025-07-01 00:00:00,Customer_078,Laptop,Electronics,East,2.0,59452.3,0.0,118904.6
+ORD10537,2025-05-02 00:00:00,Customer_095,Monitor,Electronics,East,3.0,16864.09,0.05,48062.66
+ORD10538,2025-09-13 00:00:00,Customer_049,Webcam,Accessories,North,4.0,3585.75,0.15,12191.55
+ORD10539,2025-07-26 00:00:00,Customer_048,Gaming Mouse,Gaming,North,1.0,4198.43,0.1,3778.59
+ORD10540,2025-07-28 00:00:00,Customer_099,Speaker,Audio,Central,2.0,5121.6,0.1,9218.88
+ORD10541,2025-04-02 00:00:00,Customer_009,Gaming Mouse,Gaming,West,1.0,3824.27,0.05,3633.06
+ORD10542,2025-03-05 00:00:00,Customer_090,USB Hub,Accessories,West,1.0,817.36,0.05,776.49
+ORD10543,2025-06-19 00:00:00,Customer_061,External SSD,Storage,Central,3.0,12041.4,0.1,32511.78
+ORD10544,2025-02-09 00:00:00,Customer_059,Keyboard,Accessories,South,3.0,1781.39,0.1,4809.75
+ORD10545,2025-07-26 00:00:00,Customer_080,Laptop,Electronics,North,2.0,85852.73,0.1,154534.91
+ORD10546,2025-05-26 00:00:00,Customer_062,Printer,Office,North,2.0,8539.36,0.05,16224.78
+ORD10547,2025-06-15 00:00:00,Customer_067,Keyboard,Accessories,Central,1.0,2638.6,0.05,2506.67
+ORD10548,2025-04-20 00:00:00,Customer_013,External SSD,Storage,East,1.0,8503.65,0.0,8503.65
+ORD10549,2025-07-26 00:00:00,Customer_004,External SSD,Storage,West,2.0,8440.26,0.1,15192.47
+ORD10550,2025-09-14 00:00:00,Customer_037,External SSD,Storage,Central,3.0,14721.9,0.0,44165.7
+ORD10551,2025-04-30 00:00:00,Customer_046,Keyboard,Accessories,South,4.0,1381.51,0.1,4973.44
+ORD10552,2025-08-20 00:00:00,Customer_029,Headphones,Accessories,Central,3.0,5833.04,0.0,17499.12
+ORD10553,2025-07-01 00:00:00,Customer_038,Monitor,Electronics,East,3.0,26742.3,0.0,80226.9
+ORD10554,2025-03-02 00:00:00,Customer_074,Gaming Mouse,Gaming,East,5.0,2239.22,0.1,10076.49
+ORD10555,2025-09-10 00:00:00,Customer_013,Power Bank,Accessories,North,5.0,1648.64,0.0,8243.2
+ORD10556,2025-03-27 00:00:00,Customer_038,Monitor,Electronics,South,5.0,27725.93,0.15,117835.2
+ORD10557,2025-09-13 00:00:00,Customer_058,Mechanical Keyboard,Gaming,East,3.0,4508.21,0.0,13524.63
+ORD10558,2025-01-25 00:00:00,Customer_068,Speaker,Audio,Central,4.0,5025.93,0.05,19098.53
+ORD10559,2025-03-02 00:00:00,Customer_043,Tablet,Electronics,North,2.0,36189.12,0.1,65140.42
+ORD10560,2025-04-20 00:00:00,Customer_098,Headphones,Accessories,West,1.0,7646.0,0.15,6499.1
+ORD10561,2025-09-25 00:00:00,Customer_050,Printer,Office,West,2.0,10021.08,0.2,16033.73
+ORD10562,2025-01-14 00:00:00,Customer_075,Monitor,Electronics,East,4.0,18684.5,0.15,63527.3
+ORD10563,2025-03-16 00:00:00,Customer_021,Power Bank,Accessories,West,3.0,2023.54,0.15,5160.03
+ORD10564,2025-07-01 00:00:00,Customer_074,Smartphone,Electronics,East,2.0,52998.62,0.1,95397.52
+ORD10565,2025-04-14 00:00:00,Customer_076,External SSD,Storage,South,3.0,15533.36,0.05,44270.08
+ORD10566,2025-04-22 00:00:00,Customer_033,Webcam,Accessories,East,2.0,6105.52,0.0,12211.04
+ORD10567,2025-08-10 00:00:00,Customer_038,Mechanical Keyboard,Gaming,East,2.0,7948.01,0.15,13511.62
+ORD10568,2025-08-18 00:00:00,Customer_066,Tablet,Electronics,West,2.0,43466.66,0.15,73893.32
+ORD10569,2025-05-30 00:00:00,Customer_020,Laptop,Electronics,Central,1.0,78325.41,0.0,78325.41
+ORD10570,2025-04-26 00:00:00,Customer_055,Printer,Office,East,2.0,7606.74,0.1,13692.13
+ORD10571,2025-06-04 00:00:00,Customer_053,Speaker,Audio,North,1.0,8835.47,0.15,7510.15
+ORD10572,2025-08-27 00:00:00,Customer_095,Tablet,Electronics,North,5.0,12990.86,0.15,55211.16
+ORD10573,2025-08-19 00:00:00,Customer_053,External SSD,Storage,West,2.0,16016.04,0.0,32032.08
+ORD10574,2025-01-11 00:00:00,Customer_098,Webcam,Accessories,South,3.0,6189.01,0.15,15781.98
+ORD10575,2025-02-19 00:00:00,Customer_088,Headphones,Accessories,South,1.0,3015.68,0.05,2864.9
+ORD10576,2025-05-06 00:00:00,Customer_040,Webcam,Accessories,West,1.0,3911.51,0.1,3520.36
+ORD10577,2025-04-03 00:00:00,Customer_094,Keyboard,Accessories,West,1.0,2935.22,0.05,2788.46
+ORD10578,2025-01-13 00:00:00,Customer_096,Webcam,Accessories,West,3.0,3510.78,0.05,10005.72
+ORD10579,2025-06-15 00:00:00,Customer_088,Keyboard,Accessories,South,1.0,2965.27,0.0,2965.27
+ORD10580,2025-07-09 00:00:00,Customer_069,Mechanical Keyboard,Gaming,South,3.0,7093.39,0.1,19152.15
+ORD10581,2025-04-22 00:00:00,Customer_060,Headphones,Accessories,North,2.0,2756.05,0.1,4960.89
+ORD10582,2025-04-16 00:00:00,Customer_053,Speaker,Audio,South,2.0,9865.99,0.05,18745.38
+ORD10583,2025-04-16 00:00:00,Customer_015,Smartwatch,Wearables,Central,2.0,13737.59,0.1,24727.66
+ORD10584,2025-08-07 00:00:00,Customer_085,External SSD,Storage,South,5.0,16563.75,0.05,78677.81
+ORD10585,2025-02-07 00:00:00,Customer_083,Keyboard,Accessories,West,2.0,2536.95,0.1,4566.51
+ORD10586,2025-07-15 00:00:00,Customer_059,Laptop,Electronics,North,1.0,83690.76,0.05,79506.22
+ORD10587,2025-08-17 00:00:00,Customer_006,Webcam,Accessories,East,2.0,6468.14,0.15,10995.84
+ORD10588,2025-05-12 00:00:00,Customer_039,Webcam,Accessories,North,3.0,4320.93,0.15,11018.37
+ORD10589,2025-04-30 00:00:00,Customer_092,Laptop,Electronics,Central,3.0,57573.71,0.0,172721.13
+ORD10590,2025-08-14 00:00:00,Customer_080,Speaker,Audio,Central,1.0,3359.03,0.0,3359.03
+ORD10591,2025-01-06 00:00:00,Customer_078,Smartphone,Electronics,East,2.0,45732.13,0.05,86891.05
+ORD10592,2025-09-12 00:00:00,Customer_069,Mechanical Keyboard,Gaming,West,4.0,8310.9,0.05,31581.42
+ORD10593,2025-09-07 00:00:00,Customer_084,Gaming Mouse,Gaming,West,2.0,1804.07,0.0,3608.14
+ORD10594,2025-07-24 00:00:00,Customer_081,Smartwatch,Wearables,West,1.0,15995.37,0.1,14395.83
+ORD10595,2025-02-27 00:00:00,Customer_072,Printer,Office,South,2.0,12673.17,0.0,25346.34
+ORD10596,2025-04-21 00:00:00,Customer_059,Power Bank,Accessories,Central,4.0,3828.46,0.1,13782.46
+ORD10597,2025-09-29 00:00:00,Customer_002,Keyboard,Accessories,South,2.0,2005.64,0.1,3610.15
+ORD10598,2025-08-09 00:00:00,Customer_094,Laptop,Electronics,South,2.0,76683.75,0.15,130362.38
+ORD10599,2025-02-24 00:00:00,Customer_081,Power Bank,Accessories,East,1.0,994.44,0.0,994.44
+ORD10600,2025-02-22 00:00:00,Customer_087,Headphones,Accessories,West,2.0,11034.54,0.1,19862.17
+ORD10601,2025-01-01 00:00:00,Customer_044,Speaker,Audio,East,1.0,8750.35,0.15,7437.8
+ORD10602,2025-05-20 00:00:00,Customer_097,Keyboard,Accessories,Central,3.0,1303.4,0.05,3714.69
+ORD10603,2025-07-09 00:00:00,Customer_012,Gaming Mouse,Gaming,North,1.0,3394.11,0.05,3224.4
+ORD10604,2025-04-13 00:00:00,Customer_043,Power Bank,Accessories,North,2.0,1519.51,0.0,3039.02
+ORD10605,2025-02-25 00:00:00,Customer_006,Headphones,Accessories,South,1.0,7209.73,0.15,6128.27
+ORD10606,2025-07-19 00:00:00,Customer_049,Tablet,Electronics,East,1.0,36731.06,0.05,34894.51
+ORD10607,2025-03-04 00:00:00,Customer_083,External SSD,Storage,West,1.0,8802.71,0.05,8362.57
+ORD10608,2025-01-28 00:00:00,Customer_066,Webcam,Accessories,Central,2.0,5093.61,0.0,10187.22
+ORD10609,2025-06-13 00:00:00,Customer_058,Tablet,Electronics,Central,4.0,36389.21,0.05,138279.0
+ORD10610,2025-09-04 00:00:00,Customer_060,Keyboard,Accessories,East,1.0,2704.94,0.1,2434.45
+ORD10611,2025-07-29 00:00:00,Customer_048,Gaming Mouse,Gaming,North,1.0,2293.88,0.0,2293.88
+ORD10612,2025-05-17 00:00:00,Customer_016,Smartwatch,Wearables,West,4.0,5378.86,0.05,20439.67
+ORD10613,2025-03-08 00:00:00,Customer_024,Power Bank,Accessories,South,1.0,1958.42,0.05,1860.5
+ORD10614,2025-07-30 00:00:00,Customer_067,Mechanical Keyboard,Gaming,Central,4.0,6708.86,0.05,25493.67
+ORD10615,2025-06-12 00:00:00,Customer_076,External SSD,Storage,North,1.0,17239.93,0.1,15515.94
+ORD10616,2025-05-20 00:00:00,Customer_087,Keyboard,Accessories,West,2.0,1851.35,0.05,3517.56
+ORD10617,2025-03-30 00:00:00,Customer_066,Speaker,Audio,East,1.0,7373.97,0.05,7005.27
+ORD10618,2025-08-02 00:00:00,Customer_085,Laptop,Electronics,Central,1.0,64348.09,0.15,54695.88
+ORD10619,2025-09-07 00:00:00,Customer_052,Mechanical Keyboard,Gaming,North,2.0,4371.64,0.05,8306.12
+ORD10620,2025-04-23 00:00:00,Customer_047,Mechanical Keyboard,Gaming,West,1.0,3257.79,0.1,2932.01
+ORD10621,2025-05-31 00:00:00,Customer_064,Mechanical Keyboard,Gaming,East,2.0,3188.05,0.15,5419.68
+ORD10622,2025-07-19 00:00:00,Customer_075,Monitor,Electronics,Central,1.0,20772.18,0.15,17656.35
+ORD10623,2025-02-06 00:00:00,Customer_056,Keyboard,Accessories,East,3.0,976.46,0.0,2929.38
+ORD10624,2025-08-28 00:00:00,Customer_002,External SSD,Storage,North,5.0,7791.05,0.0,38955.25
+ORD10625,2025-04-18 00:00:00,Customer_076,Webcam,Accessories,South,2.0,4893.19,0.15,8318.42
+ORD10626,2025-08-08 00:00:00,Customer_094,Webcam,Accessories,North,3.0,5614.88,0.1,15160.18
+ORD10627,2025-06-11 00:00:00,Customer_031,Keyboard,Accessories,West,1.0,2889.74,0.0,2889.74
+ORD10628,2025-04-11 00:00:00,Customer_001,Headphones,Accessories,North,1.0,6854.73,0.0,6854.73
+ORD10629,2025-07-28 00:00:00,Customer_022,Monitor,Electronics,East,1.0,23464.01,0.15,19944.41
+ORD10630,2025-01-17 00:00:00,Customer_090,Laptop,Electronics,Central,1.0,61315.19,0.15,52117.91
+ORD10631,2025-09-19 00:00:00,Customer_035,Mechanical Keyboard,Gaming,Central,1.0,5533.51,0.05,5256.83
+ORD10632,2025-09-02 00:00:00,Customer_035,Mechanical Keyboard,Gaming,West,2.0,7452.24,0.1,13414.03
+ORD10633,2025-08-05 00:00:00,Customer_034,Keyboard,Accessories,South,1.0,3314.5,0.1,2983.05
+ORD10634,2025-02-28 00:00:00,Customer_064,Headphones,Accessories,South,4.0,4567.46,0.0,18269.84
+ORD10635,2025-01-13 00:00:00,Customer_007,Webcam,Accessories,West,5.0,4592.04,0.1,20664.18
+ORD10636,2025-04-10 00:00:00,Customer_035,Webcam,Accessories,South,1.0,4870.38,0.15,4139.82
+ORD10637,2025-05-25 00:00:00,Customer_071,Gaming Mouse,Gaming,East,3.0,4240.15,0.1,11448.4
+ORD10638,2025-05-08 00:00:00,Customer_014,Keyboard,Accessories,Central,5.0,1943.52,0.1,8745.84
+ORD10639,2025-07-06 00:00:00,Customer_080,Monitor,Electronics,West,1.0,17300.45,0.0,17300.45
+ORD10640,2025-08-25 00:00:00,Customer_066,Smartphone,Electronics,East,4.0,23595.6,0.0,94382.4
+ORD10641,2025-07-20 00:00:00,Customer_045,Monitor,Electronics,South,1.0,19550.97,0.1,17595.87
+ORD10642,2025-05-05 00:00:00,Customer_057,Speaker,Audio,East,4.0,9441.58,0.15,32101.37
+ORD10643,2025-08-09 00:00:00,Customer_039,Webcam,Accessories,West,1.0,3231.54,0.0,3231.54
+ORD10644,2025-05-02 00:00:00,Customer_004,Webcam,Accessories,Central,2.0,6414.77,0.1,11546.59
+ORD10645,2025-04-06 00:00:00,Customer_073,Tablet,Electronics,Central,4.0,20288.59,0.15,68981.21
+ORD10646,2025-04-16 00:00:00,Customer_011,Webcam,Accessories,East,4.0,2683.62,0.15,9124.31
+ORD10647,2025-08-02 00:00:00,Customer_070,Laptop,Electronics,East,5.0,88458.62,0.05,420178.44
+ORD10648,2025-09-24 00:00:00,Customer_077,Printer,Office,East,4.0,13604.03,0.1,48974.51
+ORD10649,2025-09-27 00:00:00,Customer_097,Keyboard,Accessories,South,3.0,3493.34,0.0,10480.02
+ORD10650,2025-03-24 00:00:00,Customer_047,Power Bank,Accessories,Central,1.0,3809.44,0.0,3809.44
+ORD10651,2025-08-25 00:00:00,Customer_025,Monitor,Electronics,South,1.0,20475.63,0.05,19451.85
+ORD10652,2025-05-07 00:00:00,Customer_041,Printer,Office,North,4.0,7598.43,0.05,28874.03
+ORD10653,2025-04-09 00:00:00,Customer_075,Headphones,Accessories,East,2.0,7706.45,0.0,15412.9
+ORD10654,2025-07-28 00:00:00,Customer_064,Smartphone,Electronics,South,3.0,67153.83,0.05,191388.42
+ORD10655,2025-09-29 00:00:00,Customer_018,Laptop,Electronics,East,4.0,63883.23,0.0,255532.92
+ORD10656,2025-08-27 00:00:00,Customer_048,External SSD,Storage,South,1.0,12582.28,0.0,12582.28
+ORD10657,2025-05-10 00:00:00,Customer_090,USB Hub,Accessories,East,2.0,1295.37,0.2,2072.59
+ORD10658,2025-07-10 00:00:00,Customer_046,Monitor,Electronics,West,2.0,20887.5,0.1,37597.5
+ORD10659,2025-09-10 00:00:00,Customer_081,Printer,Office,West,2.0,21814.91,0.15,37085.35
+ORD10660,2025-04-28 00:00:00,Customer_093,External SSD,Storage,West,3.0,17095.18,0.0,51285.54
+ORD10661,2025-03-12 00:00:00,Customer_052,Smartphone,Electronics,West,1.0,30386.03,0.05,28866.73
+ORD10662,2025-04-16 00:00:00,Customer_021,Tablet,Electronics,Central,3.0,36008.46,0.05,102624.11
+ORD10663,2025-06-13 00:00:00,Customer_002,External SSD,Storage,South,3.0,7000.7,0.0,21002.1
+ORD10664,2025-02-03 00:00:00,Customer_013,Laptop,Electronics,East,1.0,46560.27,0.05,44232.26
+ORD10665,2025-08-19 00:00:00,Customer_019,Laptop,Electronics,West,2.0,56692.27,0.15,96376.86
+ORD10666,2025-02-19 00:00:00,Customer_082,Power Bank,Accessories,Central,2.0,3460.8,0.1,6229.44
+ORD10667,2025-03-18 00:00:00,Customer_042,Tablet,Electronics,North,1.0,36352.38,0.05,34534.76
+ORD10668,2025-06-08 00:00:00,Customer_035,USB Hub,Accessories,North,1.0,2476.84,0.2,1981.47
+ORD10669,2025-07-06 00:00:00,Customer_010,Keyboard,Accessories,South,2.0,2486.13,0.2,3977.81
+ORD10670,2025-01-16 00:00:00,Customer_046,External SSD,Storage,Central,2.0,13649.75,0.1,24569.55
+ORD10671,2025-01-04 00:00:00,Customer_071,Tablet,Electronics,South,2.0,21204.96,0.0,42409.92
+ORD10672,2025-02-16 00:00:00,Customer_092,Laptop,Electronics,Central,2.0,56411.29,0.05,107181.45
+ORD10673,2025-04-18 00:00:00,Customer_019,Laptop,Electronics,South,3.0,56386.19,0.15,143784.78
+ORD10674,2025-07-14 00:00:00,Customer_012,Printer,Office,East,1.0,7772.16,0.2,6217.73
+ORD10675,2025-05-24 00:00:00,Customer_002,Webcam,Accessories,West,2.0,4768.33,0.1,8582.99
+ORD10676,2025-04-06 00:00:00,Customer_010,USB Hub,Accessories,West,1.0,1256.2,0.0,1256.2
+ORD10677,2025-02-11 00:00:00,Customer_047,External SSD,Storage,Central,4.0,9209.65,0.1,33154.74
+ORD10678,2025-08-30 00:00:00,Customer_027,Power Bank,Accessories,North,2.0,1558.24,0.0,3116.48
+ORD10679,2025-01-12 00:00:00,Customer_040,Power Bank,Accessories,North,5.0,1468.7,0.1,6609.15
+ORD10680,2025-08-14 00:00:00,Customer_048,External SSD,Storage,West,2.0,5177.87,0.0,10355.74
+ORD10681,2025-06-13 00:00:00,Customer_024,Speaker,Audio,East,2.0,8108.37,0.1,14595.07
+ORD10682,2025-01-15 00:00:00,Customer_012,Mechanical Keyboard,Gaming,Central,2.0,7735.92,0.05,14698.25
+ORD10683,2025-04-20 00:00:00,Customer_078,Smartphone,Electronics,Central,2.0,46015.58,0.1,82828.04
+ORD10684,2025-05-30 00:00:00,Customer_070,Power Bank,Accessories,West,2.0,1956.97,0.15,3326.85
+ORD10685,2025-08-05 00:00:00,Customer_096,Tablet,Electronics,North,5.0,35985.68,0.1,161935.56
+ORD10686,2025-05-31 00:00:00,Customer_096,Smartphone,Electronics,Central,3.0,48796.72,0.1,131751.14
+ORD10687,2025-04-14 00:00:00,Customer_078,Tablet,Electronics,West,1.0,19190.42,0.1,17271.38
+ORD10688,2025-07-18 00:00:00,Customer_046,Headphones,Accessories,West,1.0,8382.6,0.1,7544.34
+ORD10689,2025-09-18 00:00:00,Customer_027,Laptop,Electronics,West,4.0,65730.14,0.05,249774.53
+ORD10690,2025-02-12 00:00:00,Customer_097,Webcam,Accessories,Central,2.0,3085.38,0.05,5862.22
+ORD10691,2025-07-09 00:00:00,Customer_087,Printer,Office,Central,3.0,12775.33,0.05,36409.69
+ORD10692,2025-04-05 00:00:00,Customer_022,Power Bank,Accessories,South,5.0,2653.81,0.1,11942.14
+ORD10693,2025-09-04 00:00:00,Customer_001,Webcam,Accessories,West,2.0,3637.99,0.0,7275.98
+ORD10694,2025-02-23 00:00:00,Customer_088,Webcam,Accessories,East,1.0,1945.71,0.15,1653.85
+ORD10695,2025-02-15 00:00:00,Customer_067,Webcam,Accessories,North,2.0,6304.9,0.2,10087.84
+ORD10696,2025-07-13 00:00:00,Customer_029,Mechanical Keyboard,Gaming,West,1.0,5597.0,0.05,5317.15
+ORD10697,2025-05-11 00:00:00,Customer_060,Smartphone,Electronics,East,2.0,32338.17,0.0,64676.34
+ORD10698,2025-03-14 00:00:00,Customer_039,Tablet,Electronics,West,2.0,15945.55,0.1,28701.99
+ORD10699,2025-06-20 00:00:00,Customer_013,Smartwatch,Wearables,Central,2.0,17917.6,0.0,35835.2
+ORD10700,2025-02-12 00:00:00,Customer_083,Headphones,Accessories,West,1.0,4273.05,0.05,4059.4
+ORD10701,2025-03-18 00:00:00,Customer_028,Monitor,Electronics,North,2.0,19994.84,0.05,37990.2
+ORD10702,2025-09-25 00:00:00,Customer_079,Webcam,Accessories,East,1.0,1813.65,0.0,1813.65
+ORD10703,2025-08-18 00:00:00,Customer_042,Keyboard,Accessories,West,2.0,2996.19,0.0,5992.38
+ORD10704,2025-09-20 00:00:00,Customer_011,Smartphone,Electronics,Central,4.0,59545.84,0.1,214365.02
+ORD10705,2025-05-20 00:00:00,Customer_043,Power Bank,Accessories,East,5.0,3071.34,0.1,13821.03
+ORD10706,2025-09-26 00:00:00,Customer_089,USB Hub,Accessories,Central,4.0,541.87,0.05,2059.11
+ORD10707,2025-03-16 00:00:00,Customer_096,Power Bank,Accessories,North,3.0,1927.19,0.1,5203.41
+ORD10708,2025-08-03 00:00:00,Customer_045,Printer,Office,South,2.0,11837.54,0.05,22491.33
+ORD10709,2025-02-23 00:00:00,Customer_029,Monitor,Electronics,East,2.0,29355.76,0.05,55775.94
+ORD10710,2025-09-30 00:00:00,Customer_067,Smartwatch,Wearables,West,1.0,5073.81,0.0,5073.81
+ORD10711,2025-04-16 00:00:00,Customer_047,Keyboard,Accessories,Central,1.0,1022.41,0.15,869.05
+ORD10712,2025-03-28 00:00:00,Customer_089,Power Bank,Accessories,South,2.0,2909.52,0.0,5819.04
+ORD10713,2025-05-18 00:00:00,Customer_057,Smartwatch,Wearables,Central,3.0,4598.01,0.0,13794.03
+ORD10714,2025-08-24 00:00:00,Customer_053,Monitor,Electronics,West,1.0,27231.56,0.05,25869.98
+ORD10715,2025-08-06 00:00:00,Customer_004,Webcam,Accessories,North,1.0,5539.01,0.0,5539.01
+ORD10716,2025-01-08 00:00:00,Customer_024,Keyboard,Accessories,East,1.0,1718.21,0.0,1718.21
+ORD10717,2025-02-01 00:00:00,Customer_078,Smartwatch,Wearables,North,1.0,10714.54,0.1,9643.09
+ORD10718,2025-02-16 00:00:00,Customer_059,Printer,Office,West,1.0,11630.19,0.0,11630.19
+ORD10719,2025-02-08 00:00:00,Customer_004,Tablet,Electronics,East,2.0,29280.89,0.05,55633.69
+ORD10720,2025-03-31 00:00:00,Customer_053,Laptop,Electronics,Central,3.0,86210.47,0.05,245699.84
+ORD10721,2025-08-25 00:00:00,Customer_006,Tablet,Electronics,West,1.0,40879.41,0.2,32703.53
+ORD10722,2025-04-05 00:00:00,Customer_030,Monitor,Electronics,North,1.0,17513.88,0.1,15762.49
+ORD10723,2025-06-04 00:00:00,Customer_039,Smartphone,Electronics,North,4.0,23202.75,0.1,83529.9
+ORD10724,2025-08-23 00:00:00,Customer_062,Laptop,Electronics,Central,4.0,45580.83,0.0,182323.32
+ORD10725,2025-09-16 00:00:00,Customer_007,Headphones,Accessories,East,2.0,8154.73,0.05,15493.99
+ORD10726,2025-04-05 00:00:00,Customer_011,Printer,Office,West,2.0,20290.45,0.15,34493.76
+ORD10727,2025-01-22 00:00:00,Customer_066,Headphones,Accessories,West,1.0,4056.3,0.1,3650.67
+ORD10728,2025-03-26 00:00:00,Customer_055,Mechanical Keyboard,Gaming,East,4.0,5529.76,0.05,21013.09
+ORD10729,2025-08-08 00:00:00,Customer_051,Keyboard,Accessories,North,5.0,2215.12,0.1,9968.04
+ORD10730,2025-08-03 00:00:00,Customer_069,External SSD,Storage,South,2.0,7402.9,0.0,14805.8
+ORD10731,2025-09-28 00:00:00,Customer_071,Laptop,Electronics,Central,1.0,82675.67,0.1,74408.1
+ORD10732,2025-01-29 00:00:00,Customer_079,Headphones,Accessories,East,1.0,2743.98,0.1,2469.58
+ORD10733,2025-05-27 00:00:00,Customer_067,Power Bank,Accessories,South,1.0,2133.16,0.1,1919.84
+ORD10734,2025-02-14 00:00:00,Customer_008,Headphones,Accessories,Central,1.0,6661.52,0.0,6661.52
+ORD10735,2025-01-15 00:00:00,Customer_071,Smartwatch,Wearables,South,5.0,5628.55,0.05,26735.61
+ORD10736,2025-01-01 00:00:00,Customer_010,Tablet,Electronics,East,1.0,29861.91,0.1,26875.72
+ORD10737,2025-01-12 00:00:00,Customer_089,Smartwatch,Wearables,North,2.0,9541.32,0.05,18128.51
+ORD10738,2025-06-20 00:00:00,Customer_006,Mechanical Keyboard,Gaming,Central,3.0,7418.93,0.1,20031.11
+ORD10739,2025-05-26 00:00:00,Customer_059,Laptop,Electronics,West,4.0,51415.04,0.05,195377.15
+ORD10740,2025-06-09 00:00:00,Customer_009,Laptop,Electronics,West,1.0,47493.71,0.05,45119.02
+ORD10741,2025-01-06 00:00:00,Customer_080,Mechanical Keyboard,Gaming,Central,2.0,2644.42,0.2,4231.07
+ORD10742,2025-03-07 00:00:00,Customer_074,Monitor,Electronics,Central,1.0,11036.28,0.0,11036.28
+ORD10743,2025-04-24 00:00:00,Customer_055,Smartwatch,Wearables,East,2.0,16797.73,0.0,33595.46
+ORD10744,2025-01-14 00:00:00,Customer_045,Gaming Mouse,Gaming,West,3.0,2232.18,0.1,6026.89
+ORD10745,2025-08-02 00:00:00,Customer_023,Power Bank,Accessories,East,2.0,2855.22,0.1,5139.4
+ORD10746,2025-07-06 00:00:00,Customer_033,USB Hub,Accessories,East,1.0,1961.74,0.05,1863.65
+ORD10747,2025-02-06 00:00:00,Customer_026,Tablet,Electronics,East,2.0,14243.12,0.0,28486.24
+ORD10748,2025-05-06 00:00:00,Customer_087,Laptop,Electronics,West,1.0,63711.84,0.1,57340.66
+ORD10749,2025-06-22 00:00:00,Customer_046,Monitor,Electronics,West,5.0,11839.56,0.1,53278.02
+ORD10750,2025-03-26 00:00:00,Customer_025,External SSD,Storage,North,3.0,12433.26,0.05,35434.79
+ORD10301,2025-06-14 00:00:00,Customer_058,USB Hub,Accessories,Central,3.0,2075.43,0.1,5603.66
+ORD10451,2025-04-01 00:00:00,Customer_090,Smartwatch,Wearables,North,1.0,3005.58,0.0,3005.58
+ORD10601,2025-01-01 00:00:00,Customer_044,Speaker,Audio,East,1.0,8750.35,0.15,7437.8
