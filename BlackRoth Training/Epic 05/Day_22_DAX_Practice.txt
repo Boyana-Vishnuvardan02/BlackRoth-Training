@@ -1,0 +1,26 @@
+DAY 22 - DAX PRACTICE
+
+Model:
+Sales = Fact table
+Customers = Dimension table
+Products = Dimension table
+Date = Dimension table
+
+Relationships:
+Date[Date] 1 -> * Sales[Order_Date]
+Customers[Customer_ID] 1 -> * Sales[Customer_ID]
+Products[Product_ID] 1 -> * Sales[Product_ID]
+
+Basic Measures:
+Total Sales = SUM(Sales[Sales_Amount])
+Total Orders = DISTINCTCOUNT(Sales[Order_ID])
+Total Quantity = SUM(Sales[Quantity])
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+Total Customers = DISTINCTCOUNT(Sales[Customer_ID])
+
+Optional calculated column:
+Line Total = Sales[Quantity] * Sales[Unit_Price]
+
+Calculated Column vs Measure:
+- Calculated column is evaluated row by row and stored in the model.
+- Measure is calculated when a visual/query is evaluated and responds to filters/slicers.
