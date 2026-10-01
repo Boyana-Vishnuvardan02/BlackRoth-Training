@@ -34,13 +34,25 @@ This repository contains my work and learning progress during my Data Analyst tr
 - Data cleaning
 - Exploratory Data Analysis (EDA)
 
+### Power BI
+- Power BI Fundamentals & Data Import
+- Power Query – Data Cleaning & Transformation
+- Data Modeling & Star Schema
+- DAX Fundamentals & Measures
+- Calculated Columns vs Measures
+- Table Relationships
+- KPI Development
+- Data Visualization
+- Interactive Dashboard Development
+- Business Insights & Reporting
+
 ## Training Progress
 
 - Epic 01 – Excel & Data Analysis ✅
 - Epic 02 – SQL Fundamentals ✅
 - Epic 03 – Advanced SQL ✅
 - Epic 04 – Python, NumPy, Pandas & EDA ✅
-- Epic 05 – Currently Learning 🔄
+- Epic 05 – Data Visualization and Power BI 🔄  
 
 ## Goal
 
