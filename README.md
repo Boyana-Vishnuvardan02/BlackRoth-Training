@@ -53,7 +53,7 @@ This repository contains my work and learning progress during my Data Analyst tr
 - Epic 03 – Advanced SQL ✅
 - Epic 04 – Python, NumPy, Pandas & EDA ✅
 - Epic 05 – Data Visualization and Power BI ✅
-- EPIC 06 - Advance Poer BI and DAX  🔄
+- EPIC 06 - Advance PowerBI and DAX  🔄
 
 ## Goal
 
