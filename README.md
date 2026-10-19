@@ -55,7 +55,7 @@ This repository contains my work and learning progress during my Data Analyst tr
 - Epic 05 – Data Visualization and Power BI ✅
 - EPIC 06 - Advance PowerBI and DAX  ✅ 
 - Epic 07 - Data Analytics, Exploratory Analysis & Power BI Storytelling ✅
-- Epic 08 - 🔄
+- Epic 08 - Data Analytics, Data Quality & Decision-Focused Power BI 🔄
 ## Goal
 
 To build practical data analysis skills through hands-on tasks and projects, and learn how to work with data, identify insights, and support business decisions.
