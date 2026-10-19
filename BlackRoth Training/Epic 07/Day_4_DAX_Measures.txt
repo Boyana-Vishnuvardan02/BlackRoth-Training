@@ -1,0 +1,21 @@
+DAY 4 — DAX MEASURES
+Created each as a separate measure: Modeling > New measure.
+
+Total Revenue = SUM(Sales[Revenue])
+Total Orders = DISTINCTCOUNT(Sales[Order_ID])
+Total Units = SUM(Sales[Quantity])
+AOV = DIVIDE([Total Revenue], [Total Orders])
+Total Customers = DISTINCTCOUNT(Sales[Customer_ID])
+Total Cost = SUM(Sales[Cost])
+Total Profit = [Total Revenue] - [Total Cost]
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue])
+Revenue PY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('Date'[Date]))
+Revenue YoY % = DIVIDE([Total Revenue] - [Revenue PY], [Revenue PY])
+Revenue YTD = TOTALYTD([Total Revenue], 'Date'[Date])
+Orders per Customer = DIVIDE([Total Orders], [Total Customers])
+
+Formatting:
+- Revenue, AOV, Cost, Profit, Revenue PY, Revenue YTD: Currency (₹)
+- Orders, Units, Customers: Whole number
+- Profit Margin %, Revenue YoY %: Percentage with 1 decimal
+
